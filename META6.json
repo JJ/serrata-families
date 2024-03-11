@@ -1,0 +1,21 @@
+{
+  "name": "Serrata families - scripts",
+  "description": "Raku scripts to work with Serrata familes data",
+  "version": "0.0.1",
+  "perl": "6.d",
+  "meta-version": 1,
+  "authors": [
+    "JJ Merelo"
+  ],
+  "auth": "github:JJ",
+  "depends": [
+    "Text::CSV"
+  ],
+  "resources": [],
+  "license": "Artistic-2.0",
+  "tags": [
+    "scripts",
+    "history"
+  ],
+  "source-url": "https://github.com/JJ/serrata-families"
+}
