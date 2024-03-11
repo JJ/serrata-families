@@ -2,7 +2,7 @@
 
 use Text::CSV;
 
-my @rows = csv( in=> "data/venice_colleganza.csv" );
+my @rows = csv( in=> "data/venice_colleganza.csv", :encoding("latin1") );
 
 for @rows[1..*] -> @row {
     say @row;
