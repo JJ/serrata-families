@@ -18,7 +18,6 @@ V(colleganza.graph)$color <- "yellow"
 V(colleganza.graph)[V(colleganza.graph)$name %in% great.council.families]$color <- rgb(0.7,0,0,0.5)
 plot(colleganza.graph, vertex.size=V(colleganza.graph)$betweenness/200, vertex.color=V(colleganza.graph)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph")
 
-# Eliminate isolated nodes
 components <- igraph::components(colleganza.graph, mode="weak")
 biggest_cluster_id <- which.max(components$csize)
 vert_ids <- V(colleganza.graph)[components$membership == biggest_cluster_id]
@@ -27,4 +26,3 @@ connected.colleganza.graph <- induced_subgraph(colleganza.graph, vert_ids)
 
 plot(connected.colleganza.graph, vertex.size=V(connected.colleganza.graph)$betweenness/200, vertex.color=V(connected.colleganza.graph)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph")
 
-# Eliminate isolated groups
