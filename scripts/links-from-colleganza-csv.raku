@@ -21,6 +21,7 @@ for @rows[0..*] -> %row {
             $gc-families ∪= %row{$key ~ "_std_gc"};
         }
     }
+    @families = @families.grep: * ne "unknown";
     @all-families.push: @families;
     next if (@families.elems <= 1);
 
