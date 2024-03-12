@@ -13,7 +13,7 @@ for @rows[0..*] -> %row {
     my @families = [];
     for <tractor_familyname tractor_2_familyname stans_familyname stans_2_familyname> -> $key {
         if (%row{$key ~ "_std"}) {
-            @families.push: %row{$key ~ "_std_gc"}
+            @families.push: %row{$key ~ "_std"}
         } elsif (%row{$key ~ "_italian"}) {
             @families.push: %row{$key ~ "_italian"}
         }

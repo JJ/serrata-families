@@ -24,7 +24,7 @@ Morosini,Moro,1323
 Emo,Casolo,1208
 Staniario,Zane,1206
 "Da Molin",Venier,1170
-Veglia,,1248
+Veglia,Grego,1248
 Boninsegna,Michiel,1316
 Viaro,Ziani,1209
 Bilongo,Navigroso,1120
@@ -47,8 +47,8 @@ Trevisan,Giustinian,1329
 Ruzier,Mercadante,1243
 Bon,Voltani,1172
 Urso,Urso,1138
-,Ghisi,1252
-,Maciacavallo,1159
+Sirano,Ghisi,1252
+Marano,Maciacavallo,1159
 Gradenigo,Soranzo,1208
 Faccio,Polini,1197
 Foscarini,Marin,1323
@@ -69,11 +69,11 @@ Viaro,Marzulo,1204
 "di Bruges",Marioni,1239
 Contarini,Zorzi,1310
 Boldu,Cazzamonti,1319
-,Baseggio,1217
+Vitaliano,Baseggio,1217
 Guido,Rustico,1159
 "Da Molin",Brizi,1333
 Morosini,Zordani,1329
-"Da Fano",,1206
+"Da Fano",Curtolo,1206
 Lanfranchi,Mosto,1247
 Barbarigo,Morosini,1327
 Vidal,Centosoldi,1183
@@ -97,14 +97,14 @@ Viaro,"Da Molin",1207
 Ragusio,Marioni,1238
 Barbo,Giustinian,1244
 Emo,Groscalco,1253
-,Semitecolo,1319
+Flabiano,Semitecolo,1319
 Morosini,Giustinian,1326
 Falier,Capello,1235
 Gradenigo,Bembo,1217
 D'Equilo,Dolce,1225
 Corner,Longo,1207
 Pentulo,Pentulo,1252
-Calbo,,1153
+Calbo,Grego,1153
 Gradenigo,Bembo,1218
 Longo,Speziale,1228
 Longo,Speziale,1228
@@ -112,7 +112,7 @@ Speziale,Speziale,1228
 Barbo,"Dalla Fontana",1243
 Gradenigo,Ziani,1223
 Contarini,Giustinian,1138
-,Dandolo,1161
+Marano,Dandolo,1161
 Gradenigo,Gradenigo,1225
 Venier,Marcello,1312
 Barbarigo,Morosini,1338
@@ -124,7 +124,7 @@ Badoer,Dandolo,1316
 Tiepolo,Tolonegi,1190
 "Da Molin","Da Molin",1184
 Barbarigo,Badoer,1323
-,Navigroso,1156
+Marano,Navigroso,1156
 Gradenigo,Gradenigo,1208
 Miani,Mercadante,1244
 Gradenigo,Mocenigo,1205
@@ -154,7 +154,7 @@ Biondo,Rozeri,1312
 Emo,Badoer,1224
 "de Suligo",Agadi,1234
 Emo,Badoer,1253
-,Gussoni,1154
+Marano,Gussoni,1154
 Mozo,"di Federico",1323
 Banzon,"da Traù",1322
 Pagan,Pagan,1255
@@ -172,7 +172,7 @@ Gradenigo,Zorzi,1223
 Badoer,Ghisi,1316
 Francesco,Zantani,1251
 Trevisan,"Dalle Sevole",1333
-Giacobbe,,1167
+Giacobbe,Marano,1167
 Viaro,Soranzo,1313
 Miani,Zeno,1323
 Acotanto,Zusto,1234
@@ -188,7 +188,7 @@ Venier,Mercadante,1258
 Viaro,Arimondo,1198
 "di Burges",Marioni,1253
 Viaro,Corner,1205
-Corner,,1210
+Corner,Bosio,1210
 Batello,Trevisan,1241
 Giacomo,Albino,1239
 "Da Molin",Addoldo,1130
@@ -208,13 +208,13 @@ Gradenigo,Ziani,1209
 Venier,Balbi,1239
 Alberto,Morono,1313
 Gradenigo,Gradenigo,1208
-,Querini,1155
+Marano,Querini,1155
 Barbo,Bollani,1324
 Gradenigo,Marzolo,1208
 Morosini,Gradenigo,1323
 Barbarigo,Caravello,1319
 Mastroscoli,Storladi,1088
-Corner,,1210
+Corner,Bosio,1210
 "de Albrigeto",Marioni,1235
 Staniario,Avenanzo,1210
 Viaro,Viaro,1313
@@ -223,7 +223,7 @@ Viaro,Donato,1313
 Staniario,Marioni,1239
 Corner,Mazaman,1156
 Barbarigo,Morosini,1331
-,Michiel,1192
+Marano,Michiel,1192
 Malipiero,Arimondo,1319
 Trevisan,Mercadante,1257
 Pergaminer,Marioni,1242
@@ -232,7 +232,7 @@ Barbo,Giustinian,1246
 Barbarigo,Morosini,1319
 "Lissado da Luprio",Orefice,1073
 Falier,Tomato,1231
-,Morosini,1311
+Zopolo,Morosini,1311
 Falier,Contarini,1167
 Tiepolo,Contarini,1322
 Signolo,Signolo,1188
@@ -249,12 +249,12 @@ Foscolo,Barastro,1242
 Bembo,Premarin,1239
 Sceda,Michiel,1312
 Longo,Canal,1212
-,Venier,1205
+Curtolo,Venier,1205
 Duracino,Trevisan,1310
 Gussoni,Canal,1260
 "de Suligo",Alberto,1234
 Morosini,Lion,1326
-Trevisan,,1260
+Trevisan,Scutario,1260
 Viaro,Dauro,1205
 Tiepolo,Contarini,1323
 Belegno,Barbetta,1314
@@ -273,11 +273,11 @@ Gradenigo,Gradenigo,1222
 Trevisan,Giustinian,1331
 Miani,Mercadante,1242
 Trevisan,"Dalle Sevole",1331
-Simone,,1207
+Simone,Curtolo,1207
 Fradello,Barbo,1222
 Orio,Caravello,1323
 Badoer,Soranzo,1316
-Bonaldi,,1153
+Bonaldi,Mastropetro,1153
 Katarino,Viaro,1255
 Giacomo,Seio,1239
 Gradenigo,Viaro,1207
@@ -311,7 +311,7 @@ Trevisan,Trevisan,1255
 Badoer,Ghisi,1316
 Barbarigo,Morosini,1325
 Falier,Tomato,1231
-Corner,,1217
+Corner,Bosio,1217
 "de Suligo",Bon,1234
 Bonoto,"de Stolla",1312
 Canal,Navigroso,1223
@@ -356,7 +356,7 @@ Barbarigo,Morosini,1329
 "Da Molin",Brizi,1331
 Emo,Badoer,1253
 Minio,Iantani,1228
-Zulian,,1167
+Zulian,Marano,1167
 "Da Molin",Centocori,1154
 Barbarigo,Badoer,1321
 Bianco,Abriano,1212
@@ -377,7 +377,7 @@ Viaro,Lion,1313
 Martinazo,Corner,1320
 Bon,Muazzo,1221
 "de Manzolo",Guido,1222
-Emo,,1226
+Emo,Grasso,1226
 Morosini,Zordani,1328
 Loredan,Babilonio,1333
 "Da Mula","Da Mula",1185
