@@ -14,3 +14,4 @@ saveRDS(colleganza.graph, file = "../data/colleganza-graph.rds")
 
 great.council.families <- fromJSON("../data-raw/great-council-families.json")
 saveRDS(great.council.families, file = "../data/great-council-families.rds")
+
