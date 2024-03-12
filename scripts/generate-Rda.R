@@ -11,3 +11,6 @@ saveRDS(colleganza.families, file = "../data/colleganza-families.rds")
 
 colleganza.graph <- graph_from_data_frame(colleganza.pairs.date, directed=F)
 saveRDS(colleganza.graph, file = "../data/colleganza-graph.rds")
+
+great.council.families <- fromJSON("../data-raw/great-council-families.json")
+saveRDS(great.council.families, file = "../data/great-council-families.rds"))
