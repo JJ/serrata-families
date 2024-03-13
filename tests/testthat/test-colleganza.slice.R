@@ -1,5 +1,5 @@
 require(igraph)
-data("colleganza.pairs.date")
+
 default.graph <- graph_from_data_frame(colleganza.pairs.date, directed=F)
 all.vertices <- length(V(default.graph))
 

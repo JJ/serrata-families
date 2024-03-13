@@ -27,3 +27,4 @@ connected.colleganza.graph <- induced_subgraph(colleganza.graph, vert_ids)
 
 plot(connected.colleganza.graph, vertex.size=V(connected.colleganza.graph)$betweenness/200, vertex.color=V(connected.colleganza.graph)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph")
 
+pre.serrata <- colleganza.slice(to=1261)
