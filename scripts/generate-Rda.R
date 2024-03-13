@@ -5,7 +5,7 @@ require(usethis)
 colleganza.pairs.date <- read.csv("../data-raw/colleganza-pairs-date.csv",header=F)
 
 colnames(colleganza.pairs.date) <- c("Family1", "Family2", "date")
-use_data(colleganza.pairs.date)
+use_data(colleganza.pairs.date, overwrite=T)
 
 colleganza.families <- fromJSON("../data-raw/colleganza-families.json")
 use_data(colleganza.families)
