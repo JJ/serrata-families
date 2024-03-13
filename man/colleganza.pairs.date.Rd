@@ -20,10 +20,9 @@ A dataframe with pairs of families that have participated in a colleganza contra
 \examples{
 library(serrata.families)
 data("colleganza.pairs.date")
-# A summary of the duration of the doges ruling
+
+# A summary of dates of contracts
 summary(colleganza.pairs.date$date)
 
-# The families that actually "made doge"
-unique(c(colleganza.pairs.date$Family1,colleganza.pairs.date$Family2))
 
 }
