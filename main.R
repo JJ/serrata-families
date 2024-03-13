@@ -13,3 +13,5 @@
 lib <- modules::use("R")
 load("data/colleganza.pairs.date.rda")
 load("data/colleganza.families.rda")
+load("data/colleganza.graph.rda")
+load("data/great.council.families.rda")
