@@ -1,3 +1,10 @@
 ^serrata\.families\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^.github/
+^.idea/
+META6.json
+data-raw/
+main.Rtex
+*\.bib
+scripts/
