@@ -1,5 +1,6 @@
-library(igraph)
-library(dupNodes)
+require(igraph)
+require(dupNodes)
+require(serrata.families)
 
 readRDS("../data/colleganza-graph.rds")
 V(colleganza.graph)$betweenness <- betweenness(colleganza.graph)
