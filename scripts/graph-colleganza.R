@@ -28,3 +28,14 @@ connected.colleganza.graph <- induced_subgraph(colleganza.graph, vert_ids)
 plot(connected.colleganza.graph, vertex.size=V(connected.colleganza.graph)$betweenness/200, vertex.color=V(connected.colleganza.graph)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph")
 
 pre.serrata <- colleganza.slice(to=1261)
+V(pre.serrata)$betweenness <- betweenness(pre.serrata)
+V(pre.serrata)$color <- "yellow"
+V(pre.serrata)[V(pre.serrata)$name %in% great.council.families]$color <- rgb(0.7,0,0,0.5)
+plot(pre.serrata, vertex.size=V(pre.serrata)$betweenness/200, vertex.color=V(pre.serrata)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph, pre-serrata")
+
+post.serrata <- colleganza.slice(from=1310)
+V(post.serrata)$betweenness <- betweenness(post.serrata)
+V(post.serrata)$color <- "yellow"
+V(post.serrata)[V(post.serrata)$name %in% great.council.families]$color <- rgb(0.7,0,0,0.5)
+plot(post.serrata, vertex.size=V(post.serrata)$betweenness/200, vertex.color=V(post.serrata)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph, post-serrata")
+
