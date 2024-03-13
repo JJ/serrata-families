@@ -1,17 +1,18 @@
 require(jsonlite)
 require(igraph)
+require(usethis)
 
 colleganza.pairs.date <- read.csv("../data-raw/colleganza-pairs-date.csv",header=F)
 
 colnames(colleganza.pairs.date) <- c("Family1", "Family2", "date")
-saveRDS(colleganza.pairs.date, file = "../data/colleganza-pairs-date.rds")
+use_data(colleganza.pairs.date)
 
 colleganza.families <- fromJSON("../data-raw/colleganza-families.json")
-saveRDS(colleganza.families, file = "../data/colleganza-families.rds")
+use_data(colleganza.families)
 
 colleganza.graph <- graph_from_data_frame(colleganza.pairs.date, directed=F)
-saveRDS(colleganza.graph, file = "../data/colleganza-graph.rds")
+use_data(colleganza.graph)
 
 great.council.families <- fromJSON("../data-raw/great-council-families.json")
-saveRDS(great.council.families, file = "../data/great-council-families.rds")
+use_data(great.council.families)
 
