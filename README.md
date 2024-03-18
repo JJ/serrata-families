@@ -9,12 +9,13 @@ This is a work in progress.
 
 ## Install
 
-Install released versions from CRAN as usual, or development version
-from here
+Install development version from this repository
 
 ```R
 library(devtools)
 install_github("JJ/serrata-families")
+```
+
 
 ## LICENSE
 
