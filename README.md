@@ -1,4 +1,4 @@
-# Venetian "Serrata" families
+# Venetian "Serrata" families and their status
 
 Investigating why some families were coopted into the Serrata, after
 Puga&Treffler and Raines, that is, why they were offered a seat in the Great
