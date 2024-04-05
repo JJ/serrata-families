@@ -1,0 +1,63 @@
+---
+title: "Using `dogesr` to check Venetian social networks before and after the Serrata"
+author: "JJ Merelo"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Using `dogesr` to check Venetian social networks before and after the Serrata}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+bibliography: ../inst/doges.bib
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Introduction
+
+Using data from `dogesr` [@dogesr], we will, in this vignette, analyze the change of the social network before and after the *Serrata* [@serrata], revealed as a watershed event in the analysis performed in [@histories:jj]
+
+## Set up
+
+The main events that led to the *Serrata* happened during the government of the doge Pietro Gradenigo.
+Let's check the effect of that event in the social netWe will then create two networks, one including that doge, the next one with all the others
+```{r load, warning=FALSE,message=FALSE}
+library(dogesr)
+library(igraph)
+
+pre.serrata <- marriage.graph.slice(to="Pietro Gradenigo")
+post.serrata <- marriage.graph.slice(from="Marino Zorzi")
+```
+
+## Social networks pre and post-Serrata
+
+This will call the function that creates, from raw data, the `igraph` data structure with which we can work. We still need to simplify them to be able to work with it. 
+```{r simplify}
+weightify <- function( a.graph ) {
+  other.graph <- a.graph
+  E(other.graph)$weight <- 1
+  other.graph <- simplify(other.graph, edge.attr.comb=list(weight="sum"))
+  return(other.graph)
+}
+pre.serrata <- weightify(pre.serrata)
+post.serrata <- weightify(post.serrata)
+
+V(pre.serrata)$EV <- unname(unlist(eigen_centrality(pre.serrata)$vector))
+V(post.serrata)$EV <- unname(unlist(eigen_centrality(post.serrata)$vector))
+plot(pre.serrata,vertex.size=V(pre.serrata)$EV, layout=layout_nicely, vertex.label.cex=0.7)
+plot(post.serrata,vertex.size=V(post.serrata)$EV, layout=layout_nicely, vertex.label.cex=0.7)
+```
+
+The pre-Serrata graph is on the top, the post-serrata on the bottom. Before the Serrata, there were small (up to 4-5) sets of connected components, the biggest one the "star" around the Tiepolo family (which was an important part of the early XIV century rebellion); however, the Serrata had the effect of connecting the network, mainly because there were many more doges per generation (as explained in [@histories:jj]), but also because marrying became an tactical move to increase the reach of the social network.
+
+It should be noted, however, that doges' marriages were but a small part of the complete Venetian social network; however, it is an important sample that, besides, shows who arrived to the summit of power (or servitude to the state, depending on how you look at it).
+
+## Conclusions
+
+Charting the doges social networks enables insights on the power and social dynamics of the Republic of Venice; being able to look at temporal slices is especially interesting since we can check how certain events influenced the social network.
+
+## References
