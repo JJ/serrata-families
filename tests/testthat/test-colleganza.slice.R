@@ -12,4 +12,6 @@ test_that("colleganza dataset is sliced correctly", {
   expect_lt(length(V(pre.serrata.contracts)), all.vertices)
   post.serrata.contracts <- colleganza.slice(from=1310)
   expect_lt(length(V(post.serrata.contracts)), all.vertices)
+
+  expect_equal( length(E(pre.serrata.contracts)) + length(E(post.serrata.contracts)), length(E(all.contracts)))
 })
