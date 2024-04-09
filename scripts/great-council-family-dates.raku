@@ -20,3 +20,12 @@ for @family-date -> $line {
 }
 
 spurt("data-raw/families-great-council-date.json", to-json %dates-for-family);
+
+my @family-dates-csv = ["Family;Start;End\n"];
+for %dates-for-family.keys() -> $family {
+    my %dates = %dates-for-family{$family};
+    @family-dates-csv.push: "$family; " ~ %dates<start> ~ ";" ~ %dates<end> ~
+            "\n";
+}
+
+spurt("data-raw/families-great-council-date.csv", @family-dates-csv);
