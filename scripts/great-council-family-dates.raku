@@ -24,7 +24,8 @@ spurt("data-raw/families-great-council-date.json", to-json %dates-for-family);
 my @family-dates-csv = ["Family;Start;End\n"];
 for %dates-for-family.keys() -> $family {
     my %dates = %dates-for-family{$family};
-    @family-dates-csv.push: "$family; " ~ %dates<start> ~ ";" ~ %dates<end> ~
+    @family-dates-csv.push: tclc($family) ~ "; " ~ %dates<start> ~ ";" ~
+%dates<end> ~
             "\n";
 }
 
