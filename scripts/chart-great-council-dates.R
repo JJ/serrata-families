@@ -14,3 +14,8 @@ families.enlargement <- great.council.families.date[great.council.families.date$
 
 contracts.pre.1261 <- colleganza.slice(to=1261)
 families.colleganza <- V(contracts.pre.1261)$name
+
+families.in.both <-  intersect(families.colleganza,families.enlargement)
+
+print(length(families.in.both)/length(families.colleganza))
+print(length(families.in.both)/length(families.enlargement))
