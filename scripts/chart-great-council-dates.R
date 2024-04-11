@@ -19,3 +19,10 @@ families.in.both <-  intersect(families.colleganza,families.enlargement)
 
 print(length(families.in.both)/length(families.colleganza))
 print(length(families.in.both)/length(families.enlargement))
+
+load("../data/colleganza.graph.rda")
+all.families.colleganza <- V(colleganza.graph)$name
+
+all.families.great.council <- great.council.families.date$Family
+
+all.families.in.both <- intersect(all.families.colleganza,all.families.great.council)
