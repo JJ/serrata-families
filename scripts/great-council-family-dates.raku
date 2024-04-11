@@ -7,7 +7,25 @@ my @family-date = "data-raw/families-data.txt".IO.lines;
 my %dates-for-family;
 
 my %normalizations = ( "Balestrieri 1301– dopo" => "Balestrieri",
-                       "Avanzago (d')" => "D'Avanzago"
+                       "Benzon (s. agostin)" => "Banzon",
+                       "Benzon (s. vidal)" => "Banzon",
+                       "Boldù" => "Boldu",
+                       "Brisi (brizi)" => "Brizi",
+                       "Avanzago (d')" => "D'Avanzago",
+                       "Da fano" => "Da Fano",
+                       "Dalla scala" => "Dalla Scala",
+                       "Dalle sevole" => "Dalle Sevole",
+                       "D'equilo" => "D'Equilo",
+                       "Donà" => "Donato",
+                       "Fontana (dalla)" => "Dalla Fontana",
+                       "Griego (grego)" => "Grego",
+                       "Polini nel" => "Polini",
+                       "Molin" => "Da Molin",
+                       "Mosto (da)" => "Mosto",
+                       "Mula (da)" => "Da Mula",
+                       "Tolonegi (tanolico)" => "Tolonegi",
+                       "Orso" => "Urso", # Orso is actually correct
+                       "Zen" => "Zeno"
 );
 
 for @family-date -> $line {
@@ -25,6 +43,7 @@ for @family-date -> $line {
     }
 
     if %normalizations{$family} {
+        say "Normalizing $family";
         $family = %normalizations{$family};
     }
 

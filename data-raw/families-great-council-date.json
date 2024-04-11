@@ -1,474 +1,18 @@
 {
-  "CONTENTI": [
+  "GEZO prima del": [
     {
-      "start": "1686"
+      "start": "1379"
     },
     {
-      "end": "1797"
+      "end": "1478"
     }
   ],
-  "CALBO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "LOMBRIA": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1722"
-    }
-  ],
-  "RENIER": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "RANASO": [
+  "BOLDO": [
     {
       "start": "?"
     },
     {
-      "end": "1377"
-    }
-  ],
-  "MORTADELLO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1327"
-    }
-  ],
-  "BARBARAN": [
-    {
-      "start": "1665"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CATTI": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "LOLIN": [
-    {
-      "start": "1436"
-    },
-    {
-      "end": "1632"
-    }
-  ],
-  "CARESIN": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1430"
-    }
-  ],
-  "PASQUALIGO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BELEGNO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1698"
-    }
-  ],
-  "OGNIBEN": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1311"
-    }
-  ],
-  "STORLADI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1458"
-    }
-  ],
-  "COTTONI": [
-    {
-      "start": "1699"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BALBI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CATTANIO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1383"
-    }
-  ],
-  "ABICONOLO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1365"
-    }
-  ],
-  "TAGLIAPIETRA": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": " tra 1640 e 1655"
-    }
-  ],
-  "DE VERARDO": [
-    {
-      "start": "1312"
-    },
-    {
-      "end": "1317"
-    }
-  ],
-  "LION": [
-    {
-      "start": "1303"
-    },
-    {
-      "end": "1761"
-    }
-  ],
-  "MINOTTO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "VERDIZZOTTI": [
-    {
-      "start": "1667"
-    },
-    {
-      "end": " tra 1726 e 1759"
-    }
-  ],
-  "GHELTOF": [
-    {
-      "start": "1697"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "FABRIZI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1303"
-    }
-  ],
-  "ZORZI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DORO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1311"
-    }
-  ],
-  "PECIN (PENCIN)": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1402"
-    }
-  ],
-  "ADDOLDO": [
-    {
-      "start": "1310"
-    },
-    {
-      "end": "1433"
-    }
-  ],
-  "REBOLIN ?": [
-    {
-      "start": ""
-    },
-    {
-      "end": "1339"
-    }
-  ],
-  "VEZZI": [
-    {
-      "start": "1716"
-    },
-    {
-      "end": "1769"
-    }
-  ],
-  "BAFFO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1769"
-    }
-  ],
-  "MORA (S. Felice)": [
-    {
-      "start": "1694"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ALBIRINGO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1301"
-    }
-  ],
-  "TOLONEGI (TANOLICO)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1322 21"
-    }
-  ],
-  "VIDAL": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1332 23"
-    }
-  ],
-  "BUSINAGO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1471"
-    }
-  ],
-  "FRANZAPANI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1347"
-    }
-  ],
-  "PELIZZIOLI": [
-    {
-      "start": "1699"
-    },
-    {
-      "end": "1768"
-    }
-  ],
-  "FAVERO inizio": [
-    {
-      "start": "'300"
-    },
-    {
-      "end": "1308"
-    }
-  ],
-  "DERETTI": [
-    {
-      "start": "1355"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "DONÀ": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ROSSI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ARIMONDO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1666 e 1698"
-    }
-  ],
-  "TRENTO": [
-    {
-      "start": "1777"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "NAVIGROSO 14": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1342"
-    }
-  ],
-  "BRISI (BRIZI)": [
-    {
-      "start": "1303"
-    },
-    {
-      "end": "1366"
-    }
-  ],
-  "DI ROSSI": [
-    {
-      "start": "1423"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "FONSECA": [
-    {
-      "start": "1664"
-    },
-    {
-      "end": "1713"
-    }
-  ],
-  "GHISI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " prima del 1759"
-    }
-  ],
-  "IACOLO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1305"
-    }
-  ],
-  "FONTE": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1770"
-    }
-  ],
-  "LUGMA (LUGNANO)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1371"
-    }
-  ],
-  "CAISSELLI": [
-    {
-      "start": "1779"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BENFIZI": [
-    {
-      "start": "1298"
-    },
-    {
-      "end": "1366"
-    }
-  ],
-  "VOLPE": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " dopo 1379"
-    }
-  ],
-  "SALLONESI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1305"
-    }
-  ],
-  "VIELMO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1327 24"
-    }
-  ],
-  "VETIGRASSI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1308"
+      "end": "1313"
     }
   ],
   "DALBORE": [
@@ -479,47 +23,7 @@
       "end": "1371"
     }
   ],
-  "CICOGNA": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CASSETTI": [
-    {
-      "start": "1662"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "RIARIO": [
-    {
-      "start": "1481"
-    },
-    {
-      "end": " dopo 1666"
-    }
-  ],
-  "PINDEMONTE": [
-    {
-      "start": "1782"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DA FANO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1401"
-    }
-  ],
-  "BRAGADIN": [
+  "NADAL": [
     {
       "start": "1297"
     },
@@ -527,108 +31,20 @@
       "end": "1797"
     }
   ],
-  "SODERINI": [
-    {
-      "start": "1656"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "STROBARDO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1355"
-    }
-  ],
-  "GOZZI": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1679"
-    }
-  ],
-  "BAROZZI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ROMANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1411"
-    }
-  ],
-  "BUZZACARIN": [
-    {
-      "start": "1782"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "LABIA": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MUAZZO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "RUZIER 1297": [
+  "BOCCOLE (DALLE) nel '300": [
     {
       "start": ""
     },
     {
-      "end": " tra 1632 e 1640"
+      "end": " 1483"
     }
   ],
-  "TINTO": [
+  "BETTONI": [
     {
-      "start": "?"
+      "start": "1684"
     },
     {
-      "end": "1361"
-    }
-  ],
-  "CAVAZZA v. LION": [
-    {
-      "start": "CAVAZZA"
-    },
-    {
-      "end": null
-    }
-  ],
-  "BAGLIONI": [
-    {
-      "start": "1716"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "PARUTA": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1797"
+      "end": "1764"
     }
   ],
   "MARMORA": [
@@ -639,172 +55,12 @@
       "end": "1426"
     }
   ],
-  "VIANOL": [
+  "GRASSI": [
     {
-      "start": "1658"
-    },
-    {
-      "end": " tra 1709 e 1712"
-    }
-  ],
-  "MOROSINI": [
-    {
-      "start": "1297"
+      "start": "1718"
     },
     {
       "end": "1797"
-    }
-  ],
-  "GAMBARIN 1297": [
-    {
-      "start": ""
-    },
-    {
-      "end": "1299"
-    }
-  ],
-  "DONADI": [
-    {
-      "start": "1311"
-    },
-    {
-      "end": " tra 1543 e 1605"
-    }
-  ],
-  "DE LIA": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1308"
-    }
-  ],
-  "BABILONIO": [
-    {
-      "start": "1298"
-    },
-    {
-      "end": "1375"
-    }
-  ],
-  "GRITTI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "NEGRO": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1417"
-    }
-  ],
-  "DUODO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ZON": [
-    {
-      "start": "1651"
-    },
-    {
-      "end": " tra 1683 e 1693"
-    }
-  ],
-  "FOSCARI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GIRARDO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1666 e 1698"
-    }
-  ],
-  "FEXASONDA": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1315"
-    }
-  ],
-  "MINELLI": [
-    {
-      "start": "1650"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "VALMARANA": [
-    {
-      "start": "1658"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BONINSEGNA": [
-    {
-      "start": "1310"
-    },
-    {
-      "end": "1321 6"
-    }
-  ],
-  "GUERRA": [
-    {
-      "start": "1689"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GEZO prima del": [
-    {
-      "start": "1379"
-    },
-    {
-      "end": "1478"
-    }
-  ],
-  "BURICALDO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1321"
-    }
-  ],
-  "ALBRIZZI": [
-    {
-      "start": "1667"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ZAPOANI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1326"
     }
   ],
   "BARBETTO": [
@@ -815,340 +71,12 @@
       "end": "1367"
     }
   ],
-  "BELLONI": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": " tra 1655 e 1666"
-    }
-  ],
-  "DELLA FRASCADA": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1322"
-    }
-  ],
-  "DAVIDOR": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1379 e 1493"
-    }
-  ],
-  "CELSI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1789"
-    }
-  ],
-  "SEMENZI (PREMUDA)": [
-    {
-      "start": "1685"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ZARA (DA)": [
-    {
-      "start": "1379"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "COCCO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DARMER (ARMERI)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1553"
-    }
-  ],
-  "BRISTOLANI ?": [
-    {
-      "start": ""
-    },
-    {
-      "end": "1362"
-    }
-  ],
-  "MANZONI": [
-    {
-      "start": "1687"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "LAZZARI": [
-    {
-      "start": "1660"
-    },
-    {
-      "end": "1775"
-    }
-  ],
-  "VALPETRO": [
+  "VARDA DA DIO": [
     {
       "start": "?"
     },
     {
-      "end": "1358"
-    }
-  ],
-  "DALLA SCALA": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "VIANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1303 22"
-    }
-  ],
-  "RIVA (DA)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BENTIVOGLIO": [
-    {
-      "start": "1488"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BELLOTTO": [
-    {
-      "start": "1685"
-    },
-    {
-      "end": "1759"
-    }
-  ],
-  "STATIO": [
-    {
-      "start": "1653"
-    },
-    {
-      "end": " tra 1709 e 1712"
-    }
-  ],
-  "DI PIGLI": [
-    {
-      "start": "1334"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "STENO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1413"
-    }
-  ],
-  "ROVINI": [
-    {
-      "start": "1788"
-    },
-    {
-      "end": "prima del 1792"
-    }
-  ],
-  "LINI": [
-    {
-      "start": "1685"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CAROSO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1386"
-    }
-  ],
-  "HAOLDO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1432"
-    }
-  ],
-  "ZINO": [
-    {
-      "start": "1718"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BONOMO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1314 7"
-    }
-  ],
-  "SPATAFORA": [
-    {
-      "start": "1409"
-    },
-    {
-      "end": "1797 20"
-    }
-  ],
-  "VENIER": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DALLE SEVOLE": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1371"
-    }
-  ],
-  "TREVISAN": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BONCI (BONZI)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1508"
-    }
-  ],
-  "PASTA": [
-    {
-      "start": "1669"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ARIBERTI": [
-    {
-      "start": "1655"
-    },
-    {
-      "end": "1666"
-    }
-  ],
-  "FINI": [
-    {
-      "start": "1649"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "VITTURI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DONINI v.": [
-    {
-      "start": "VERDIZZOTTI"
-    },
-    {
-      "end": null
-    }
-  ],
-  "BOSEBO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1311"
-    }
-  ],
-  "PROTTI": [
-    {
-      "start": "1403"
-    },
-    {
-      "end": "1415"
-    }
-  ],
-  "VIDOR": [
-    {
-      "start": "1310"
-    },
-    {
-      "end": "1414"
-    }
-  ],
-  "REDETTI": [
-    {
-      "start": "1698"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "AVONAL nel": [
-    {
-      "start": "'300"
-    },
-    {
-      "end": "dopo 1612"
-    }
-  ],
-  "BONALDI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1344"
+      "end": "1328"
     }
   ],
   "CONDULMER": [
@@ -1159,15 +87,15 @@
       "end": "1797"
     }
   ],
-  "SPINEDA": [
+  "PARADISO": [
     {
-      "start": "1776"
+      "start": "1297"
     },
     {
-      "end": "1797"
+      "end": "fine '400"
     }
   ],
-  "ZEN": [
+  "POLO": [
     {
       "start": "1297"
     },
@@ -1175,236 +103,36 @@
       "end": "1797"
     }
   ],
-  "GALARESI": [
+  "CORREGGIO": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": " tra 1717 e 1719"
+    }
+  ],
+  "NICOLA": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1312 15"
+    }
+  ],
+  "VIANOL": [
+    {
+      "start": "1658"
+    },
+    {
+      "end": " tra 1709 e 1712"
+    }
+  ],
+  "DARPO": [
     {
       "start": "?"
     },
     {
-      "end": "1341"
-    }
-  ],
-  "LION CAVAZZA": [
-    {
-      "start": "1652"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ZAMBELLI (S. Giac. dell'Orio)": [
-    {
-      "start": "1648"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ENEGRO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1380"
-    }
-  ],
-  "BANBAZINI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1361"
-    }
-  ],
-  "DI LORZO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1316"
-    }
-  ],
-  "BENETO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": " tra 1655 e 1666"
-    }
-  ],
-  "STANIER": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " dopo 1363"
-    }
-  ],
-  "FRANCESCHI": [
-    {
-      "start": "1716"
-    },
-    {
-      "end": "1788"
-    }
-  ],
-  "MIANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MARCIPAGNI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1321"
-    }
-  ],
-  "SAVIA": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1305"
-    }
-  ],
-  "CERNOVICI": [
-    {
-      "start": "1473"
-    },
-    {
-      "end": " tra 1655 e 1666"
-    }
-  ],
-  "MENGOLO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1401"
-    }
-  ],
-  "BATTAGIA": [
-    {
-      "start": "1439"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BORDOLO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1376"
-    }
-  ],
-  "CURTI": [
-    {
-      "start": "1688"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BOSSO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1298"
-    }
-  ],
-  "ANSELMI": [
-    {
-      "start": "1412"
-    },
-    {
-      "end": "1519 4"
-    }
-  ],
-  "GRISONI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " bandita prima del 1378"
-    }
-  ],
-  "TERZI": [
-    {
-      "start": "1405"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "ACOTANTO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " metà '300"
-    }
-  ],
-  "SAGREDO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DAL SOL": [
-    {
-      "start": "1310"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "ZANE": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "QUERINI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "PEPOLI 1338 16": [
-    {
-      "start": ""
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DIESELLO (DIESOLO)": [
-    {
-      "start": "1310"
-    },
-    {
-      "end": "1402"
-    }
-  ],
-  "FOSCOLO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
+      "end": "1409"
     }
   ],
   "GARZONI": [
@@ -1415,55 +143,7 @@
       "end": "1797"
     }
   ],
-  "BELL’OSELLO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1374"
-    }
-  ],
-  "POLANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1760"
-    }
-  ],
-  "DONISDIO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1312"
-    }
-  ],
-  "PINO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " dopo 1379"
-    }
-  ],
-  "BOLPE": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1386"
-    }
-  ],
-  "BONDUMIER": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1779"
-    }
-  ],
-  "MANOLESSO": [
+  "MAGNO": [
     {
       "start": "1297"
     },
@@ -1471,225 +151,41 @@
       "end": "1797"
     }
   ],
-  "PRIULI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BOLDÙ": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "LAMBERTINI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GALAENZI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1303"
-    }
-  ],
-  "TRASMONDI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1305"
-    }
-  ],
-  "FARAON": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1353"
-    }
-  ],
-  "BENZON (S. Agostin)": [
-    {
-      "start": "1407"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BONLINI": [
-    {
-      "start": "1667"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MARCONI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "MIEGANO 13": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1666 e 1698"
-    }
-  ],
-  "ORSO": [
+  "TAGLIAPIETRA": [
     {
       "start": "1381"
     },
     {
-      "end": "1466"
+      "end": " tra 1640 e 1655"
     }
   ],
-  "SESENDILLO": [
+  "STENO": [
     {
       "start": "1297"
     },
     {
-      "end": "1397 19"
+      "end": "1413"
     }
   ],
-  "GIUSTINIAN": [
+  "DORO": [
     {
       "start": "1297"
     },
     {
-      "end": "1797"
+      "end": "1311"
     }
   ],
-  "GRIONI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " prima del 1759"
-    }
-  ],
-  "OBIZO": [
+  "HAOLDO": [
     {
       "start": "?"
     },
     {
-      "end": "1346"
+      "end": "1432"
     }
   ],
-  "ROMIERI": [
-    {
-      "start": "1689"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BARBETTA": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1373"
-    }
-  ],
-  "MASSOLI": [
+  "CORNER": [
     {
       "start": "1297"
-    },
-    {
-      "end": " dopo 1612"
-    }
-  ],
-  "ZOLIO": [
-    {
-      "start": "1656"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GUSSONI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1733"
-    }
-  ],
-  "DA MAR": [
-    {
-      "start": "1309"
-    },
-    {
-      "end": "1323"
-    }
-  ],
-  "CARAZACANEVO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " prima del '300"
-    }
-  ],
-  "D'EQUILO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1379 e 1493"
-    }
-  ],
-  "OTTOBONI": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": " banditi nel 1709"
-    }
-  ],
-  "ISTRIGO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " dopo 1379"
-    }
-  ],
-  "DON ZORZI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1312"
-    }
-  ],
-  "BASEGGIO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "VERONESE": [
-    {
-      "start": "1704"
     },
     {
       "end": "1797"
@@ -1703,169 +199,25 @@
       "end": "1797"
     }
   ],
-  "ORIO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "PAPAFAVA": [
-    {
-      "start": "1652"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BARBOLANI": [
+  "GALAENZI": [
     {
       "start": "?"
-    },
-    {
-      "end": "1311"
-    }
-  ],
-  "MAFFETTI": [
-    {
-      "start": "1654"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DOZANE": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "BARZIZZA": [
-    {
-      "start": "1694"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ALBERTO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1625"
-    }
-  ],
-  "BOCCOLE (DALLE) nel '300": [
-    {
-      "start": ""
-    },
-    {
-      "end": " 1483"
-    }
-  ],
-  "GHERARDINI": [
-    {
-      "start": "1652"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ROVERE": [
-    {
-      "start": "1512"
-    },
-    {
-      "end": "1726"
-    }
-  ],
-  "DIEDO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MARONO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1356"
-    }
-  ],
-  "ZORDANI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1412"
-    }
-  ],
-  "ANTELMI": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "SAVELLO": [
-    {
-      "start": "1404"
-    },
-    {
-      "end": " c. 1685"
-    }
-  ],
-  "GUATARDO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "CAPELLO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GRASONI": [
-    {
-      "start": "1297"
     },
     {
       "end": "1303"
     }
   ],
-  "CORNER": [
+  "ZUCCONI v.": [
     {
-      "start": "1297"
+      "start": "RECANATI"
     },
     {
-      "end": "1797"
+      "end": null
     }
   ],
-  "GAMBARA": [
+  "BUZZACARIN": [
     {
-      "start": "1653"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CORRER": [
-    {
-      "start": "1297"
+      "start": "1782"
     },
     {
       "end": "1797"
@@ -1879,7 +231,23 @@
       "end": "1788"
     }
   ],
-  "VALIER": [
+  "ANGARAN": [
+    {
+      "start": "1655"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "RIZZI": [
+    {
+      "start": "1687"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "COLLALTO": [
     {
       "start": "1297"
     },
@@ -1887,103 +255,175 @@
       "end": "1797"
     }
   ],
-  "FACCIO": [
+  "MEDICI": [
+    {
+      "start": "1652"
+    },
+    {
+      "end": "1701"
+    }
+  ],
+  "DONO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " prima del 1493"
+    }
+  ],
+  "MAGANESI dopo": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1361"
+    }
+  ],
+  "MALIPIERO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ZACCARIA": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1543"
+    }
+  ],
+  "SISOLLA": [
     {
       "start": "?"
+    },
+    {
+      "end": "1387"
+    }
+  ],
+  "BAROZZI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "FERRAMOSCA": [
+    {
+      "start": "1648"
+    },
+    {
+      "end": "1679"
+    }
+  ],
+  "REBOLIN ?": [
+    {
+      "start": ""
+    },
+    {
+      "end": "1339"
+    }
+  ],
+  "VALMARANA": [
+    {
+      "start": "1658"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DRUSCO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1365"
+    }
+  ],
+  "TRON": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PAPACIZA": [
+    {
+      "start": "1311"
+    },
+    {
+      "end": "1426"
+    }
+  ],
+  "TRUNZANE": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1388"
+    }
+  ],
+  "CAVALLIER": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1331 8"
+    }
+  ],
+  "BOCCAZO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1472 o 1476"
+    }
+  ],
+  "BENETO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": " tra 1655 e 1666"
+    }
+  ],
+  "EMO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "FAVERO inizio": [
+    {
+      "start": "'300"
     },
     {
       "end": "1308"
     }
   ],
-  "BRIANI": [
+  "VEZZI": [
+    {
+      "start": "1716"
+    },
+    {
+      "end": "1769"
+    }
+  ],
+  "SAVIA": [
     {
       "start": "1297"
     },
     {
-      "end": " tra 1666 e 1698"
+      "end": "1305"
     }
   ],
-  "BALZOLANI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1315"
-    }
-  ],
-  "COSTANTINO 1297 o": [
-    {
-      "start": "1348"
-    },
-    {
-      "end": "? 9"
-    }
-  ],
-  "ZANASI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1375"
-    }
-  ],
-  "CARAVELLO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1567"
-    }
-  ],
-  "BORDINIGO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1342"
-    }
-  ],
-  "VENDRAMIN": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GABRIEL (CABRIEL)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "RAMPANI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1314"
-    }
-  ],
-  "SENADORI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1351"
-    }
-  ],
-  "DONDIOROLOGIO": [
-    {
-      "start": "1653"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "SANUDO": [
+  "MULA (DA)": [
     {
       "start": "1297"
     },
@@ -1999,68 +439,12 @@
       "end": " tra 1666 e 1698"
     }
   ],
-  "ZIANI": [
+  "METTADORI": [
     {
       "start": "?"
     },
     {
-      "end": "1350'"
-    }
-  ],
-  "VEGLIA": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " dopo 1379"
-    }
-  ],
-  "MANFROTTO": [
-    {
-      "start": "1698"
-    },
-    {
-      "end": "1793"
-    }
-  ],
-  "CANABRI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1312"
-    }
-  ],
-  "SURIAN": [
-    {
-      "start": "1647"
-    },
-    {
-      "end": "1701"
-    }
-  ],
-  "NAVAGER": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1734 e 1759"
-    }
-  ],
-  "COSSAZZA": [
-    {
-      "start": "1423"
-    },
-    {
-      "end": " tra 1640 e 1655"
-    }
-  ],
-  "BOCCAZO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1472 o 1476"
+      "end": "1344"
     }
   ],
   "DOLFINIGO": [
@@ -2071,31 +455,7 @@
       "end": "1321"
     }
   ],
-  "LUCCA": [
-    {
-      "start": "1654"
-    },
-    {
-      "end": " tra 1734 e 1759"
-    }
-  ],
-  "VANAXEL": [
-    {
-      "start": "1665"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DOLCE": [
-    {
-      "start": "1658"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GRADELON": [
+  "MUSSOLINO": [
     {
       "start": "1297"
     },
@@ -2103,23 +463,23 @@
       "end": " nel '300"
     }
   ],
-  "BARBARIGO": [
+  "DARPIN": [
     {
       "start": "1297"
     },
     {
-      "end": "1797"
+      "end": "1503"
     }
   ],
-  "CARBONIZZI": [
+  "ADAMO": [
     {
       "start": "?"
     },
     {
-      "end": "1312"
+      "end": "1375"
     }
   ],
-  "CIVRAN": [
+  "MARCELLO": [
     {
       "start": "1297"
     },
@@ -2127,180 +487,60 @@
       "end": "1797"
     }
   ],
-  "IALLINA": [
+  "FEXASONDA": [
     {
       "start": "?"
     },
     {
-      "end": "1326"
+      "end": "1315"
     }
   ],
-  "MOCENIGO": [
+  "VIDOR": [
+    {
+      "start": "1310"
+    },
+    {
+      "end": "1414"
+    }
+  ],
+  "DONADI": [
+    {
+      "start": "1311"
+    },
+    {
+      "end": " tra 1543 e 1605"
+    }
+  ],
+  "CAROSO": [
     {
       "start": "1297"
     },
     {
-      "end": "1797"
+      "end": "1386"
     }
   ],
-  "CANCANICO": [
+  "GUSSONI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1733"
+    }
+  ],
+  "VIANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1303 22"
+    }
+  ],
+  "CONCANFO": [
     {
       "start": "?"
     },
     {
-      "end": "1303"
-    }
-  ],
-  "MALAZA": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1320"
-    }
-  ],
-  "ARIANI nel": [
-    {
-      "start": "'300"
-    },
-    {
-      "end": "1349 5"
-    }
-  ],
-  "BASODELLO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1325"
-    }
-  ],
-  "CONTI": [
-    {
-      "start": "1667"
-    },
-    {
-      "end": "1763"
-    }
-  ],
-  "BADOER": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "LISIADO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1348"
-    }
-  ],
-  "CAVAGNIS": [
-    {
-      "start": "1716"
-    },
-    {
-      "end": "1785"
-    }
-  ],
-  "BEREGAN": [
-    {
-      "start": "1649"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MULA (DA)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CANAL (DA)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BREGONZI": [
-    {
-      "start": "1665"
-    },
-    {
-      "end": " tra 1709 e 1726"
-    }
-  ],
-  "BON": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "LEZZE (DA)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "FALIER": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CELINI": [
-    {
-      "start": "1685"
-    },
-    {
-      "end": " tra 1750 e 1758"
-    }
-  ],
-  "FLANGINI": [
-    {
-      "start": "1664"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "RECANATI": [
-    {
-      "start": "1697"
-    },
-    {
-      "end": " tra 1709 e 1712"
-    }
-  ],
-  "DA PORTO": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1429"
-    }
-  ],
-  "VIARO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1666"
+      "end": "1372"
     }
   ],
   "PENTOLO": [
@@ -2311,76 +551,36 @@
       "end": "1396"
     }
   ],
-  "AMIZZO": [
+  "TERZI": [
     {
-      "start": "1297"
+      "start": "1405"
     },
     {
-      "end": "1350'"
+      "end": "?"
     }
   ],
-  "FOSCARINI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "VENDELIN": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1360"
-    }
-  ],
-  "SIGNOLO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1493 e 1527"
-    }
-  ],
-  "BOLLANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "TONISTI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1316"
-    }
-  ],
-  "LIPPOMANO": [
+  "BREDANI": [
     {
       "start": "1381"
     },
     {
+      "end": "dopo 1527"
+    }
+  ],
+  "PASTA": [
+    {
+      "start": "1669"
+    },
+    {
       "end": "1797"
     }
   ],
-  "GUGINO": [
+  "ORIO": [
     {
-      "start": "?"
+      "start": "1297"
     },
     {
-      "end": "1311"
-    }
-  ],
-  "VERMO (DAL)": [
-    {
-      "start": "1388"
-    },
-    {
-      "end": " nel '400"
+      "end": "1797"
     }
   ],
   "SANGIANTOFFETTI": [
@@ -2391,151 +591,39 @@
       "end": "1797"
     }
   ],
-  "PERSICO": [
+  "DA PORTO": [
     {
-      "start": "1685"
+      "start": "1381"
+    },
+    {
+      "end": "1429"
+    }
+  ],
+  "CERNOVICI": [
+    {
+      "start": "1473"
+    },
+    {
+      "end": " tra 1655 e 1666"
+    }
+  ],
+  "BARISON": [
+    {
+      "start": "1317"
+    },
+    {
+      "end": "1414"
+    }
+  ],
+  "CARMINATI": [
+    {
+      "start": "1687"
     },
     {
       "end": "1797"
     }
   ],
-  "SPAZACANAL": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1312"
-    }
-  ],
-  "RAVA": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1307"
-    }
-  ],
-  "ALBIZZO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1350'"
-    }
-  ],
-  "VANERI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1312"
-    }
-  ],
-  "GIUPPONI": [
-    {
-      "start": "1660"
-    },
-    {
-      "end": " tra 1666 e 1683"
-    }
-  ],
-  "BRAZOLAN": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "DARPO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1409"
-    }
-  ],
-  "MARTINE": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1314"
-    }
-  ],
-  "MALIPIERO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GHEDINI": [
-    {
-      "start": "1667"
-    },
-    {
-      "end": "1713"
-    }
-  ],
-  "MAGNO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MARIN": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CASTEROTI": [
-    {
-      "start": "1416"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "MAISTRORSO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " primi '300"
-    }
-  ],
-  "PIERO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1301"
-    }
-  ],
-  "BARBARO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MELLI": [
-    {
-      "start": "1550"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BRESSA": [
+  "PAPAFAVA": [
     {
       "start": "1652"
     },
@@ -2543,361 +631,41 @@
       "end": "1797"
     }
   ],
-  "ANGARAN": [
+  "NEGRO": [
     {
-      "start": "1655"
+      "start": "1381"
+    },
+    {
+      "end": "1417"
+    }
+  ],
+  "COTTONI": [
+    {
+      "start": "1699"
     },
     {
       "end": "1797"
     }
   ],
-  "GRIEGO (GREGO) 1493": [
+  "NAVAGER": [
     {
-      "start": ""
-    },
-    {
-      "end": " 1701"
-    }
-  ],
-  "PALLAVICINO": [
-    {
-      "start": "1423"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "SCHONDOLER": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1321"
-    }
-  ],
-  "DANSELMO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": " prima del 1493"
-    }
-  ],
-  "LAGHI": [
-    {
-      "start": "1661"
+      "start": "1297"
     },
     {
       "end": " tra 1734 e 1759"
     }
   ],
-  "ARNALDI": [
-    {
-      "start": "1685"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "GRADENIGO": [
+  "GRASONI": [
     {
       "start": "1297"
     },
     {
-      "end": "1797"
+      "end": "1303"
     }
   ],
-  "SAVORGNAN": [
-    {
-      "start": "1385"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "AGADI": [
+  "BOLLANI": [
     {
       "start": "1297"
-    },
-    {
-      "end": "1408"
-    }
-  ],
-  "MARIONI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1373 12"
-    }
-  ],
-  "GRIMANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "SCLAVO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "ZUCCONI v.": [
-    {
-      "start": "RECANATI"
-    },
-    {
-      "end": null
-    }
-  ],
-  "MARTINENGO": [
-    {
-      "start": "1448"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "VARDA DA DIO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1328"
-    }
-  ],
-  "CASTELLI": [
-    {
-      "start": "1687"
-    },
-    {
-      "end": "1759"
-    }
-  ],
-  "EMO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "COPPO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1709 e 1726"
-    }
-  ],
-  "SANDI": [
-    {
-      "start": "1685"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ANGUSUOLA": [
-    {
-      "start": ""
-    },
-    {
-      "end": " 1499"
-    }
-  ],
-  "ZANCANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1502"
-    }
-  ],
-  "MADEO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "AVOGADRO": [
-    {
-      "start": "1438"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "NICOLA": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1312 15"
-    }
-  ],
-  "BIANCO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1317"
-    }
-  ],
-  "CAOTORTA": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1789"
-    }
-  ],
-  "NANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "PISANI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BETTONI": [
-    {
-      "start": "1684"
-    },
-    {
-      "end": "1764"
-    }
-  ],
-  "DELLI ASPINAL": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1309"
-    }
-  ],
-  "BERLENDIS": [
-    {
-      "start": "1662"
-    },
-    {
-      "end": "1781"
-    }
-  ],
-  "CROCE": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1382"
-    }
-  ],
-  "FARSETTI": [
-    {
-      "start": "1664"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "AGRINAL": [
-    {
-      "start": "1310"
-    },
-    {
-      "end": "1396"
-    }
-  ],
-  "REZZONICO": [
-    {
-      "start": "1687"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CAVALLI": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BARBO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1701 e 1709"
-    }
-  ],
-  "PIZZAMANO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "RIZZI": [
-    {
-      "start": "1687"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "CAVALLIER": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1331 8"
-    }
-  ],
-  "ONORADI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1544"
-    }
-  ],
-  "ZACCARIA": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1543"
-    }
-  ],
-  "FRANCO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1307"
-    }
-  ],
-  "ZAGURI": [
-    {
-      "start": "1646"
     },
     {
       "end": "1797"
@@ -2911,25 +679,9 @@
       "end": "?"
     }
   ],
-  "ZACCO": [
+  "PASQUALIGO": [
     {
-      "start": "1653"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "AMBOISE": [
-    {
-      "start": ""
-    },
-    {
-      "end": " 1501"
-    }
-  ],
-  "MORELLI": [
-    {
-      "start": "1686"
+      "start": "1297"
     },
     {
       "end": "1797"
@@ -2943,12 +695,100 @@
       "end": "1797"
     }
   ],
-  "DRUSCO": [
+  "BENZON (S. Vidal)": [
+    {
+      "start": "1685"
+    },
+    {
+      "end": "1775"
+    }
+  ],
+  "DENTE": [
+    {
+      "start": "1310"
+    },
+    {
+      "end": "1432"
+    }
+  ],
+  "LUGMA (LUGNANO)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1371"
+    }
+  ],
+  "BASODELLO": [
     {
       "start": "?"
     },
     {
-      "end": "1365"
+      "end": "1325"
+    }
+  ],
+  "VENIER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BONLINI": [
+    {
+      "start": "1667"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MANZONI": [
+    {
+      "start": "1687"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ARIANI nel": [
+    {
+      "start": "'300"
+    },
+    {
+      "end": "1349 5"
+    }
+  ],
+  "VALARESSO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BALBI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "FRACASSETTI": [
+    {
+      "start": "1704"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "LIPPOMANO": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1797"
     }
   ],
   "BIAQUA": [
@@ -2959,63 +799,87 @@
       "end": "1350'"
     }
   ],
-  "CODEGLIONI (COLLEONE)": [
+  "FRADELLO (di Candia)": [
     {
-      "start": "1450"
+      "start": "1493"
     },
     {
-      "end": "1475"
+      "end": "1666"
     }
   ],
-  "STORNELLO": [
+  "VANAXEL": [
     {
-      "start": "1311"
-    },
-    {
-      "end": "1321"
-    }
-  ],
-  "ZUSTO": [
-    {
-      "start": "1297"
+      "start": "1665"
     },
     {
       "end": "1797"
     }
   ],
-  "MALATESTA": [
-    {
-      "start": "1480,1503"
-    },
-    {
-      "end": " tra 1709 e 1734"
-    }
-  ],
-  "BORINI": [
+  "VALPETRO": [
     {
       "start": "?"
     },
     {
-      "end": "1797"
+      "end": "1358"
     }
   ],
-  "VENTOLO": [
+  "BONCI (BONZI)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1508"
+    }
+  ],
+  "BONINSEGNA": [
+    {
+      "start": "1310"
+    },
+    {
+      "end": "1321 6"
+    }
+  ],
+  "ADDOLDO": [
+    {
+      "start": "1310"
+    },
+    {
+      "end": "1433"
+    }
+  ],
+  "BELL’OSELLO": [
     {
       "start": "?"
     },
     {
-      "end": "1343"
+      "end": "1374"
     }
   ],
-  "PIANEGA": [
+  "SCROFFA": [
+    {
+      "start": "1698"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CAVALLI": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CARAZACANEVO": [
     {
       "start": "1297"
     },
     {
-      "end": " nel '300"
+      "end": " prima del '300"
     }
   ],
-  "DOLFIN": [
+  "FALIER": [
     {
       "start": "1297"
     },
@@ -3023,52 +887,20 @@
       "end": "1797"
     }
   ],
-  "SPINELLI": [
+  "FINI": [
     {
-      "start": "1718"
+      "start": "1649"
     },
     {
       "end": "1797"
     }
   ],
-  "BONFADINI": [
-    {
-      "start": "1648"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BRIOSO (BRUGLOSO)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "GALLINA": [
+  "RAGUSIO": [
     {
       "start": "?"
     },
     {
-      "end": "1375"
-    }
-  ],
-  "MOLIN": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MAGGIO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1307"
+      "end": "1352"
     }
   ],
   "FONDANIZI": [
@@ -3087,20 +919,988 @@
       "end": " prima del '300"
     }
   ],
-  "BATTAGLIONI": [
+  "BONOMO": [
     {
-      "start": "1516"
+      "start": "1297"
     },
     {
-      "end": " prima del 1543"
+      "end": "1314 7"
     }
   ],
-  "RAVAGNIN": [
+  "DEDDO": [
     {
-      "start": "1657"
+      "start": "?"
+    },
+    {
+      "end": "1402"
+    }
+  ],
+  "FRADELLO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1366 10"
+    }
+  ],
+  "BELLOTTO": [
+    {
+      "start": "1685"
+    },
+    {
+      "end": "1759"
+    }
+  ],
+  "BOLPE": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1386"
+    }
+  ],
+  "SPINEDA": [
+    {
+      "start": "1776"
     },
     {
       "end": "1797"
+    }
+  ],
+  "GIUPPONI": [
+    {
+      "start": "1660"
+    },
+    {
+      "end": " tra 1666 e 1683"
+    }
+  ],
+  "ZUSTO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "NOSADINI": [
+    {
+      "start": "1694"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BORINI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "FARSETTI": [
+    {
+      "start": "1664"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "SANTASOFFIA": [
+    {
+      "start": "1649"
+    },
+    {
+      "end": "1775"
+    }
+  ],
+  "STROBARDO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1355"
+    }
+  ],
+  "ZANASI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1375"
+    }
+  ],
+  "FACCIO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1308"
+    }
+  ],
+  "SAVONER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1321 18"
+    }
+  ],
+  "AGADI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1408"
+    }
+  ],
+  "TODERINI": [
+    {
+      "start": "1694"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "IALLINA": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1326"
+    }
+  ],
+  "VERMO (DAL)": [
+    {
+      "start": "1388"
+    },
+    {
+      "end": " nel '400"
+    }
+  ],
+  "ABRAMO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1364 2"
+    }
+  ],
+  "FONSECA": [
+    {
+      "start": "1664"
+    },
+    {
+      "end": "1713"
+    }
+  ],
+  "LANDO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1734"
+    }
+  ],
+  "MAFFETTI": [
+    {
+      "start": "1654"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "SABADIN": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1361"
+    }
+  ],
+  "BONDUMIER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1779"
+    }
+  ],
+  "COSTANTINO 1297 o": [
+    {
+      "start": "1348"
+    },
+    {
+      "end": "? 9"
+    }
+  ],
+  "BERENGO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1372"
+    }
+  ],
+  "PREMARIN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1734 e 1759"
+    }
+  ],
+  "DA MAR": [
+    {
+      "start": "1309"
+    },
+    {
+      "end": "1323"
+    }
+  ],
+  "RUZIER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1632 e 1640"
+    }
+  ],
+  "DAVILLO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1319"
+    }
+  ],
+  "ZON": [
+    {
+      "start": "1651"
+    },
+    {
+      "end": " tra 1683 e 1693"
+    }
+  ],
+  "RIVA (DA)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DOLCE": [
+    {
+      "start": "1658"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MICHIEL": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "TONISTI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1316"
+    }
+  ],
+  "BARBARIGO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ZEN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MORA (S. Felice)": [
+    {
+      "start": "1694"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GUATARDO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "DI LORZO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1316"
+    }
+  ],
+  "GHEDINI": [
+    {
+      "start": "1667"
+    },
+    {
+      "end": "1713"
+    }
+  ],
+  "MAGGIO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1307"
+    }
+  ],
+  "CONTENTI": [
+    {
+      "start": "1686"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DONDIOROLOGIO": [
+    {
+      "start": "1653"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CODOGNOLA": [
+    {
+      "start": "1446"
+    },
+    {
+      "end": "?"
+    }
+  ],
+  "FRANCESCHI": [
+    {
+      "start": "1716"
+    },
+    {
+      "end": "1788"
+    }
+  ],
+  "SALLONESI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1305"
+    }
+  ],
+  "LOREDAN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ARNALDI": [
+    {
+      "start": "1685"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "POLINI nel": [
+    {
+      "start": "'300"
+    },
+    {
+      "end": "1348 17"
+    }
+  ],
+  "STANIER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " dopo 1363"
+    }
+  ],
+  "GIOVANELLI": [
+    {
+      "start": "1668"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DALLE SEVOLE": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1371"
+    }
+  ],
+  "ANGUSUOLA": [
+    {
+      "start": ""
+    },
+    {
+      "end": " 1499"
+    }
+  ],
+  "POLVARO": [
+    {
+      "start": "1662"
+    },
+    {
+      "end": " tra 1709 e 1712"
+    }
+  ],
+  "MARANZIN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1386"
+    }
+  ],
+  "TASCA": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": " tra 1734 e 1760"
+    }
+  ],
+  "D'EQUILO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1379 e 1493"
+    }
+  ],
+  "CANAL (DA)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "VITTURI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BRESSA": [
+    {
+      "start": "1652"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ORSO": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1466"
+    }
+  ],
+  "SENADORI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1351"
+    }
+  ],
+  "GALLINA": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1375"
+    }
+  ],
+  "AVONAL nel": [
+    {
+      "start": "'300"
+    },
+    {
+      "end": "dopo 1612"
+    }
+  ],
+  "OTTOLIN": [
+    {
+      "start": "1780"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CATTI": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GABRIEL (CABRIEL)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BENTIVOGLIO": [
+    {
+      "start": "1488"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ABICONOLO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1365"
+    }
+  ],
+  "ROMIERI": [
+    {
+      "start": "1689"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "LION": [
+    {
+      "start": "1303"
+    },
+    {
+      "end": "1761"
+    }
+  ],
+  "GALLO": [
+    {
+      "start": "1694"
+    },
+    {
+      "end": " prima del 1759"
+    }
+  ],
+  "GIRARDO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1666 e 1698"
+    }
+  ],
+  "BONALDI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1344"
+    }
+  ],
+  "GRIONI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " prima del 1759"
+    }
+  ],
+  "DI PIGLI": [
+    {
+      "start": "1334"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "GOZZI": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": "1679"
+    }
+  ],
+  "BAGLIONI": [
+    {
+      "start": "1716"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "FRANZAPANI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1347"
+    }
+  ],
+  "ZARA (DA)": [
+    {
+      "start": "1379"
+    },
+    {
+      "end": "?"
+    }
+  ],
+  "DONÀ": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ZANCANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1502"
+    }
+  ],
+  "CATTANIO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1383"
+    }
+  ],
+  "PALLAVICINO": [
+    {
+      "start": "1423"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GAMBARA": [
+    {
+      "start": "1653"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ZULIAN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1795"
+    }
+  ],
+  "FIOLLO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1337"
+    }
+  ],
+  "ALBERTO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1625"
+    }
+  ],
+  "SCHOGOLO (SECOGOLO)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1351"
+    }
+  ],
+  "CELSI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1789"
+    }
+  ],
+  "ZANCARUOL": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1766"
+    }
+  ],
+  "ZORZI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BENEDETTI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " 1632"
+    }
+  ],
+  "QUERINI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ALBIRINGO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1301"
+    }
+  ],
+  "CANCANICO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1303"
+    }
+  ],
+  "SAGREDO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ZINO": [
+    {
+      "start": "1718"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GRIMANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "SAVELLO": [
+    {
+      "start": "1404"
+    },
+    {
+      "end": " c. 1685"
+    }
+  ],
+  "BORDINIGO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1342"
+    }
+  ],
+  "CASTELLI": [
+    {
+      "start": "1687"
+    },
+    {
+      "end": "1759"
+    }
+  ],
+  "MORELLI": [
+    {
+      "start": "1686"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "SPINELLI": [
+    {
+      "start": "1718"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GUBERTO 1297": [
+    {
+      "start": ""
+    },
+    {
+      "end": "1311"
+    }
+  ],
+  "ZAMBELLI (S. Giac. dell'Orio)": [
+    {
+      "start": "1648"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "VOLPE": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " dopo 1379"
+    }
+  ],
+  "DIESELLO (DIESOLO)": [
+    {
+      "start": "1310"
+    },
+    {
+      "end": "1402"
+    }
+  ],
+  "MARIN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "VENTOLO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1343"
+    }
+  ],
+  "ROVERE": [
+    {
+      "start": "1512"
+    },
+    {
+      "end": "1726"
+    }
+  ],
+  "DOTTO (DOTHO)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1313"
+    }
+  ],
+  "CALBO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BON": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MIANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "STATIO": [
+    {
+      "start": "1653"
+    },
+    {
+      "end": " tra 1709 e 1712"
+    }
+  ],
+  "ISTRIGO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " dopo 1379"
+    }
+  ],
+  "MEZZO (DE)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MARTINENGO": [
+    {
+      "start": "1448"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BARBETTA": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1373"
     }
   ],
   "TRAVAIONTI": [
@@ -3111,15 +1911,15 @@
       "end": "1370"
     }
   ],
-  "MATONO": [
+  "GUORO": [
     {
-      "start": "?"
+      "start": "1381"
     },
     {
-      "end": " tra 1612 e 1640"
+      "end": " tra 1698 e 1709 11"
     }
   ],
-  "TRON": [
+  "MEMMO": [
     {
       "start": "1297"
     },
@@ -3127,7 +1927,303 @@
       "end": "1797"
     }
   ],
-  "RUZZINI": [
+  "CASTEROTI": [
+    {
+      "start": "1416"
+    },
+    {
+      "end": "?"
+    }
+  ],
+  "AMIZZO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1350'"
+    }
+  ],
+  "LUPANADI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1348"
+    }
+  ],
+  "CURTI": [
+    {
+      "start": "1688"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "VERI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1303"
+    }
+  ],
+  "ZORBANI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1381"
+    }
+  ],
+  "ROSSI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BALUCHIN": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1321"
+    }
+  ],
+  "SEMENZI (PREMUDA)": [
+    {
+      "start": "1685"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "TREVISAN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MARTINELLI": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": "1772"
+    }
+  ],
+  "RASPI": [
+    {
+      "start": "1662"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BARZIZZA": [
+    {
+      "start": "1694"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CARESIN": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1430"
+    }
+  ],
+  "ZANE": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ENEGRO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1380"
+    }
+  ],
+  "SPAZACANAL": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1312"
+    }
+  ],
+  "NAVIGROSO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1342"
+    }
+  ],
+  "BALZOLANI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1315"
+    }
+  ],
+  "PERSICO": [
+    {
+      "start": "1685"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PRIULI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BRIANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1666 e 1698"
+    }
+  ],
+  "BRAZOLAN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "FARAON": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1353"
+    }
+  ],
+  "LONGO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ZIANI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1350'"
+    }
+  ],
+  "AVANZAGO (D')": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1640 e 1655"
+    }
+  ],
+  "LOMBRIA": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": "1722"
+    }
+  ],
+  "ACOTANTO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " metà '300"
+    }
+  ],
+  "CODEGLIONI (COLLEONE)": [
+    {
+      "start": "1450"
+    },
+    {
+      "end": "1475"
+    }
+  ],
+  "MARCONI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "SCLAVO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "BARBARO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DE LIA": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1308"
+    }
+  ],
+  "BARBARAN": [
+    {
+      "start": "1665"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MENGOLO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1401"
+    }
+  ],
+  "PROTTI": [
+    {
+      "start": "1403"
+    },
+    {
+      "end": "1415"
+    }
+  ],
+  "DUODO": [
     {
       "start": "1297"
     },
@@ -3143,111 +2239,199 @@
       "end": "1368"
     }
   ],
-  "POLVARO": [
+  "SIGNOLO": [
     {
-      "start": "1662"
+      "start": "1297"
+    },
+    {
+      "end": " tra 1493 e 1527"
+    }
+  ],
+  "GUGINO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1311"
+    }
+  ],
+  "VETIGRASSI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1308"
+    }
+  ],
+  "CORRER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MARCIPAGNI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1321"
+    }
+  ],
+  "DARMER (ARMERI)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1553"
+    }
+  ],
+  "ERIZZO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BEREGAN": [
+    {
+      "start": "1649"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "AVOGADRO": [
+    {
+      "start": "1438"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ALBIZZO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1350'"
+    }
+  ],
+  "ARDIZON": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " prima del '300"
+    }
+  ],
+  "POLANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1760"
+    }
+  ],
+  "MARONO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1356"
+    }
+  ],
+  "DANSELMO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": " prima del 1493"
+    }
+  ],
+  "PINDEMONTE": [
+    {
+      "start": "1782"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "RECANATI": [
+    {
+      "start": "1697"
     },
     {
       "end": " tra 1709 e 1712"
     }
   ],
-  "BORSELLI": [
+  "GRIEGO (GREGO)": [
+    {
+      "start": "1493"
+    },
+    {
+      "end": " 1701"
+    }
+  ],
+  "COCODRIZI": [
     {
       "start": "?"
     },
     {
-      "end": "1322 o 1367"
+      "end": "1372"
     }
   ],
-  "BENEDETTI": [
+  "GRADELON": [
     {
       "start": "1297"
     },
     {
-      "end": " 1632"
+      "end": " nel '300"
     }
   ],
-  "MASTALIZI": [
+  "ZAGURI": [
     {
-      "start": "?"
-    },
-    {
-      "end": "1324"
-    }
-  ],
-  "NADAL": [
-    {
-      "start": "1297"
+      "start": "1646"
     },
     {
       "end": "1797"
     }
   ],
-  "SORANZO": [
+  "CAVAGNIS": [
     {
-      "start": "1297"
+      "start": "1716"
     },
     {
-      "end": "1797"
+      "end": "1785"
     }
   ],
-  "FONTANA (DALLA)": [
+  "LAGHI": [
     {
-      "start": "1297"
-    },
-    {
-      "end": "1504"
-    }
-  ],
-  "METTADORI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1344"
-    }
-  ],
-  "MACCARELLI": [
-    {
-      "start": "1648"
-    },
-    {
-      "end": "1676"
-    }
-  ],
-  "MANIN": [
-    {
-      "start": "1651"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "PREMARIN": [
-    {
-      "start": "1297"
+      "start": "1661"
     },
     {
       "end": " tra 1734 e 1759"
     }
   ],
-  "POLINI nel": [
+  "ANSELMI": [
     {
-      "start": "'300"
+      "start": "1412"
     },
     {
-      "end": "1348 17"
+      "end": "1519 4"
     }
   ],
-  "TIEPOLO": [
+  "CROCE": [
     {
-      "start": "1297"
+      "start": "?"
     },
     {
-      "end": "1797"
+      "end": "1382"
     }
   ],
-  "MORA (S. Marcuola)": [
+  "ZACCO": [
     {
       "start": "1653"
     },
@@ -3255,7 +2439,7 @@
       "end": "1797"
     }
   ],
-  "MICHIEL": [
+  "BEMBO": [
     {
       "start": "1297"
     },
@@ -3263,7 +2447,431 @@
       "end": "1797"
     }
   ],
-  "ERIZZO": [
+  "PARUTA": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MUAZZO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MIEGANO 13": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1666 e 1698"
+    }
+  ],
+  "BATTAGLIONI": [
+    {
+      "start": "1516"
+    },
+    {
+      "end": " prima del 1543"
+    }
+  ],
+  "VIELMO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1327 24"
+    }
+  ],
+  "ROTA": [
+    {
+      "start": "1685"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ARIMONDO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1666 e 1698"
+    }
+  ],
+  "GRITTI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MANOLESSO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BATTAGIA": [
+    {
+      "start": "1439"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DAL SOL": [
+    {
+      "start": "1310"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "VIZZAMANO": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": " tra 1709 e 1712"
+    }
+  ],
+  "MASSOLI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " dopo 1612"
+    }
+  ],
+  "DOLFIN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "RANASO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1377"
+    }
+  ],
+  "VENDRAMIN": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DIESENOVE": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1361"
+    }
+  ],
+  "BAFFO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1769"
+    }
+  ],
+  "COSSAZZA": [
+    {
+      "start": "1423"
+    },
+    {
+      "end": " tra 1640 e 1655"
+    }
+  ],
+  "BIANCO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1317"
+    }
+  ],
+  "CONTARINI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MAZARUOL": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " prima del '300"
+    }
+  ],
+  "VERDIZZOTTI": [
+    {
+      "start": "1667"
+    },
+    {
+      "end": " tra 1726 e 1759"
+    }
+  ],
+  "MINELLI": [
+    {
+      "start": "1650"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "TRASMONDI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1305"
+    }
+  ],
+  "CICOGNA": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BURICALDO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1321"
+    }
+  ],
+  "AICARDO (HAICARDO)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1305"
+    }
+  ],
+  "DELLI ASPINAL": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1309"
+    }
+  ],
+  "RUZZINI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MALATESTA": [
+    {
+      "start": "1480,1503"
+    },
+    {
+      "end": " tra 1709 e 1734"
+    }
+  ],
+  "OGNIBEN": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1311"
+    }
+  ],
+  "GALARESI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1341"
+    }
+  ],
+  "SCHONDOLER": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1321"
+    }
+  ],
+  "CASSETTI": [
+    {
+      "start": "1662"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PESARO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BERLENDIS": [
+    {
+      "start": "1662"
+    },
+    {
+      "end": "1781"
+    }
+  ],
+  "LAMBERTINI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BONFADINI": [
+    {
+      "start": "1648"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "LINI": [
+    {
+      "start": "1685"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ARIBERTI": [
+    {
+      "start": "1655"
+    },
+    {
+      "end": "1666"
+    }
+  ],
+  "REDETTI": [
+    {
+      "start": "1698"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BABILONIO": [
+    {
+      "start": "1298"
+    },
+    {
+      "end": "1375"
+    }
+  ],
+  "FLANGINI": [
+    {
+      "start": "1664"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BARBO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1701 e 1709"
+    }
+  ],
+  "PANCIERA": [
+    {
+      "start": "1777"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ACQUISTI": [
+    {
+      "start": "1686"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PEPOLI": [
+    {
+      "start": "1338"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "WIDMAN": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "OTTOBONI": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": " banditi nel 1709"
+    }
+  ],
+  "SESENDILLO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1397 19"
+    }
+  ],
+  "ONORADI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1544"
+    }
+  ],
+  "LION CAVAZZA": [
+    {
+      "start": "1652"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BOLDÙ": [
     {
       "start": "1297"
     },
@@ -3279,15 +2887,23 @@
       "end": " nel '300"
     }
   ],
-  "PONTE (DA) 1493": [
+  "COCCO": [
     {
-      "start": ""
+      "start": "1297"
     },
     {
       "end": "1797"
     }
   ],
-  "MENEGATO": [
+  "BREGONZI": [
+    {
+      "start": "1665"
+    },
+    {
+      "end": " tra 1709 e 1726"
+    }
+  ],
+  "BENADO": [
     {
       "start": "?"
     },
@@ -3295,47 +2911,31 @@
       "end": "1373"
     }
   ],
-  "PREMUDA v.": [
+  "BOSEBO": [
     {
-      "start": "SEMENZI"
+      "start": "?"
     },
     {
-      "end": null
+      "end": "1311"
     }
   ],
-  "PARADISO": [
+  "MAISTRORSO": [
     {
       "start": "1297"
     },
     {
-      "end": "fine '400"
+      "end": " primi '300"
     }
   ],
-  "GALLO": [
-    {
-      "start": "1694"
-    },
-    {
-      "end": " prima del 1759"
-    }
-  ],
-  "FERRAMOSCA": [
-    {
-      "start": "1648"
-    },
-    {
-      "end": "1679"
-    }
-  ],
-  "DARPIN": [
+  "COPPO": [
     {
       "start": "1297"
     },
     {
-      "end": "1503"
+      "end": " tra 1709 e 1726"
     }
   ],
-  "LONGO": [
+  "SANUDO": [
     {
       "start": "1297"
     },
@@ -3343,20 +2943,28 @@
       "end": "1797"
     }
   ],
-  "CONCANFO": [
+  "SANDI": [
     {
-      "start": "?"
+      "start": "1685"
     },
     {
-      "end": "1372"
+      "end": "1797"
     }
   ],
-  "FERRO": [
+  "LOLIN": [
     {
-      "start": "1297"
+      "start": "1436"
     },
     {
-      "end": " tra 1640 e 1655"
+      "end": "1632"
+    }
+  ],
+  "VERONESE": [
+    {
+      "start": "1704"
+    },
+    {
+      "end": "1797"
     }
   ],
   "MAZAMAN": [
@@ -3367,79 +2975,191 @@
       "end": "1412"
     }
   ],
-  "BEMBO": [
+  "RUBINI": [
     {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ZANARDI": [
-    {
-      "start": "1653"
+      "start": "1646"
     },
     {
       "end": " tra 1734 e 1759"
     }
   ],
-  "BRANDOLIN": [
-    {
-      "start": "1686"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "PESARO": [
+  "BUORA": [
     {
       "start": "1297"
     },
     {
-      "end": "1797"
+      "end": "1311"
     }
   ],
-  "ZANTANI": [
+  "BALASTRI (BALESTRO)": [
+    {
+      "start": "1311"
+    },
+    {
+      "end": "1534"
+    }
+  ],
+  "DAVIDOR": [
     {
       "start": "1297"
     },
     {
-      "end": " tra 1543 e 1605"
+      "end": " tra 1379 e 1493"
     }
   ],
-  "LUPANADI": [
+  "MAINA": [
+    {
+      "start": "1341"
+    },
+    {
+      "end": "?"
+    }
+  ],
+  "PATANI": [
     {
       "start": "?"
     },
     {
-      "end": "1348"
+      "end": "1376"
     }
   ],
-  "SCHOGOLO (SECOGOLO)": [
+  "BRISTOLANI ?": [
+    {
+      "start": ""
+    },
+    {
+      "end": "1362"
+    }
+  ],
+  "IACOLO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1305"
+    }
+  ],
+  "SPATAFORA": [
+    {
+      "start": "1409"
+    },
+    {
+      "end": "1797 20"
+    }
+  ],
+  "SELVO": [
     {
       "start": "1297"
     },
     {
-      "end": "1351"
+      "end": "1311"
     }
   ],
-  "MAZARUOL": [
+  "SODERINI": [
+    {
+      "start": "1656"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "SORANZO": [
     {
       "start": "1297"
     },
     {
-      "end": " prima del '300"
+      "end": "1797"
     }
   ],
-  "VERI": [
+  "ALBRIZZI": [
+    {
+      "start": "1667"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BRIOSO (BRUGLOSO)": [
     {
       "start": "1297"
     },
     {
-      "end": "1303"
+      "end": " nel '300"
     }
   ],
-  "CONTARINI": [
+  "AMBOISE": [
+    {
+      "start": ""
+    },
+    {
+      "end": " 1501"
+    }
+  ],
+  "MOLIN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "VANERI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1312"
+    }
+  ],
+  "MELLI": [
+    {
+      "start": "1550"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PIANEGA": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "FOSCARI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "FONTE": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": "1770"
+    }
+  ],
+  "REZZONICO": [
+    {
+      "start": "1687"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "ANTELMI": [
+    {
+      "start": "1646"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "TIEPOLO": [
     {
       "start": "1297"
     },
@@ -3455,15 +3175,15 @@
       "end": " tra 1408"
     }
   ],
-  "FIOLLO": [
+  "PREMUDA v.": [
     {
-      "start": "?"
+      "start": "SEMENZI"
     },
     {
-      "end": "1337"
+      "end": null
     }
   ],
-  "BERNARDO": [
+  "FOSCARINI": [
     {
       "start": "1297"
     },
@@ -3471,196 +3191,188 @@
       "end": "1797"
     }
   ],
-  "BALASTRI (BALESTRO)": [
+  "MORA (S. Marcuola)": [
     {
-      "start": "1311"
-    },
-    {
-      "end": "1534"
-    }
-  ],
-  "CALERGI": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1668"
-    }
-  ],
-  "NOSADINI": [
-    {
-      "start": "1694"
+      "start": "1653"
     },
     {
       "end": "1797"
     }
   ],
-  "MARANZIN": [
+  "ZORDANI": [
     {
-      "start": "1297"
+      "start": "?"
     },
     {
-      "end": "1386"
+      "end": "1412"
     }
   ],
-  "THOMADO": [
+  "BORSELLI": [
     {
-      "start": "1297"
+      "start": "?"
     },
     {
-      "end": "1383"
+      "end": "1322 o 1367"
     }
   ],
-  "CROTTA": [
+  "GHERARDINI": [
     {
-      "start": "1649"
+      "start": "1652"
     },
     {
       "end": "1797"
     }
   ],
-  "GUBERTO 1297": [
-    {
-      "start": ""
-    },
-    {
-      "end": "1311"
-    }
-  ],
-  "LOMBRESCHI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1376"
-    }
-  ],
-  "BENADO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1373"
-    }
-  ],
-  "TRUNZANE": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1388"
-    }
-  ],
-  "BARISON": [
-    {
-      "start": "1317"
-    },
-    {
-      "end": "1414"
-    }
-  ],
-  "RASPI": [
-    {
-      "start": "1662"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "SAVONER": [
+  "PIERO": [
     {
       "start": "1297"
     },
     {
-      "end": "1321 18"
+      "end": "1301"
     }
   ],
-  "POLO": [
+  "GAMBARIN": [
     {
       "start": "1297"
     },
     {
-      "end": "1797"
+      "end": "1299"
     }
   ],
-  "SISOLLA": [
+  "ZANTANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1543 e 1605"
+    }
+  ],
+  "VIDAL": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1332 23"
+    }
+  ],
+  "BANBAZINI": [
     {
       "start": "?"
-    },
-    {
-      "end": "1387"
-    }
-  ],
-  "MAGANESI dopo": [
-    {
-      "start": "1297"
     },
     {
       "end": "1361"
     }
   ],
-  "BALUCHIN": [
+  "DIEDO": [
     {
-      "start": "?"
-    },
-    {
-      "end": "1321"
-    }
-  ],
-  "CORREGGIO": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": " tra 1717 e 1719"
-    }
-  ],
-  "GUORO": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": " tra 1698 e 1709 11"
-    }
-  ],
-  "CARMINATI": [
-    {
-      "start": "1687"
+      "start": "1297"
     },
     {
       "end": "1797"
     }
   ],
-  "DOTTO (DOTHO)": [
+  "LEZZE (DA)": [
     {
       "start": "1297"
     },
     {
-      "end": "1313"
+      "end": "1797"
     }
   ],
-  "DONO": [
+  "ROVINI": [
+    {
+      "start": "1788"
+    },
+    {
+      "end": "prima del 1792"
+    }
+  ],
+  "CONTI": [
+    {
+      "start": "1667"
+    },
+    {
+      "end": "1763"
+    }
+  ],
+  "DOZANE": [
     {
       "start": "1297"
     },
     {
-      "end": " prima del 1493"
+      "end": "?"
     }
   ],
-  "FRADELLO": [
+  "BRANDOLIN": [
+    {
+      "start": "1686"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PECIN (PENCIN)": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1402"
+    }
+  ],
+  "DELLA FRASCADA": [
     {
       "start": "1297"
     },
     {
-      "end": "1366 10"
+      "end": "1322"
     }
   ],
-  "DAVILLO": [
+  "CARAVELLO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1567"
+    }
+  ],
+  "MARTINE": [
     {
       "start": "?"
     },
     {
-      "end": "1319"
+      "end": "1314"
+    }
+  ],
+  "DE MALIS nel '300": [
+    {
+      "start": ""
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "GHISI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " prima del 1759"
+    }
+  ],
+  "FOSCOLO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GHELTOF": [
+    {
+      "start": "1697"
+    },
+    {
+      "end": "1797"
     }
   ],
   "DANDOLO": [
@@ -3671,28 +3383,484 @@
       "end": "1797"
     }
   ],
-  "OTTOLIN": [
+  "PISANI": [
     {
-      "start": "1780"
+      "start": "1297"
     },
     {
       "end": "1797"
     }
   ],
-  "ACQUISTI": [
+  "CELINI": [
     {
-      "start": "1686"
+      "start": "1685"
+    },
+    {
+      "end": " tra 1750 e 1758"
+    }
+  ],
+  "LABIA": [
+    {
+      "start": "1646"
     },
     {
       "end": "1797"
     }
   ],
-  "PAPACIZA": [
+  "VEGLIA": [
     {
-      "start": "1311"
+      "start": "1297"
     },
     {
-      "end": "1426"
+      "end": " dopo 1379"
+    }
+  ],
+  "MOCENIGO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PIZZAMANO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CANABRI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1312"
+    }
+  ],
+  "MALAZA": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1320"
+    }
+  ],
+  "DI ROSSI": [
+    {
+      "start": "1423"
+    },
+    {
+      "end": "?"
+    }
+  ],
+  "PONTE (DA)": [
+    {
+      "start": "1493"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "RAVAGNIN": [
+    {
+      "start": "1657"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BOSSO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1298"
+    }
+  ],
+  "FORNASE (DALLA)": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1407"
+    }
+  ],
+  "ARDUINI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1518"
+    }
+  ],
+  "MOSTO (DA)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DA FANO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1401"
+    }
+  ],
+  "BASEGGIO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GRISONI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " bandita prima del 1378"
+    }
+  ],
+  "CIVRAN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "RIARIO": [
+    {
+      "start": "1481"
+    },
+    {
+      "end": " dopo 1666"
+    }
+  ],
+  "BALESTRIERI": [
+    {
+      "start": "1301"
+    },
+    {
+      "end": " dopo 1360"
+    }
+  ],
+  "MASTALIZI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1324"
+    }
+  ],
+  "LOMBARDO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1734 e 1759"
+    }
+  ],
+  "MANFROTTO": [
+    {
+      "start": "1698"
+    },
+    {
+      "end": "1793"
+    }
+  ],
+  "MANIN": [
+    {
+      "start": "1651"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BELEGNO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1698"
+    }
+  ],
+  "RAVA": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1307"
+    }
+  ],
+  "MATONO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": " tra 1612 e 1640"
+    }
+  ],
+  "MORO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BRAGADIN": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BUSINAGO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1471"
+    }
+  ],
+  "BASADONNA": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "FERRO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " tra 1640 e 1655"
+    }
+  ],
+  "BADOER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CARBONIZZI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1312"
+    }
+  ],
+  "DERETTI": [
+    {
+      "start": "1355"
+    },
+    {
+      "end": "?"
+    }
+  ],
+  "LISIADO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1348"
+    }
+  ],
+  "DONINI v.": [
+    {
+      "start": "VERDIZZOTTI"
+    },
+    {
+      "end": null
+    }
+  ],
+  "PELIZZIOLI": [
+    {
+      "start": "1699"
+    },
+    {
+      "end": "1768"
+    }
+  ],
+  "DALLA SCALA": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "DON ZORZI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1312"
+    }
+  ],
+  "BENFIZI": [
+    {
+      "start": "1298"
+    },
+    {
+      "end": "1366"
+    }
+  ],
+  "MINOTTO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "VALIER": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "MADEO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " nel '300"
+    }
+  ],
+  "SAVORGNAN": [
+    {
+      "start": "1385"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "TOTULO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1383"
+    }
+  ],
+  "BORDOLO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1376"
+    }
+  ],
+  "TINTO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1361"
+    }
+  ],
+  "ZENOBIO": [
+    {
+      "start": "1647"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BENZON (S. Agostin)": [
+    {
+      "start": "1407"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "BERNARDO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "VIARO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1666"
+    }
+  ],
+  "CALERGI": [
+    {
+      "start": "1381"
+    },
+    {
+      "end": "1668"
+    }
+  ],
+  "TRENTO": [
+    {
+      "start": "1777"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "GRADENIGO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CROTTA": [
+    {
+      "start": "1649"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DE VERARDO": [
+    {
+      "start": "1312"
+    },
+    {
+      "end": "1317"
+    }
+  ],
+  "GUERRA": [
+    {
+      "start": "1689"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "DONISDIO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1312"
     }
   ],
   "AVENTURADO": [
@@ -3703,25 +3871,145 @@
       "end": "1350'"
     }
   ],
-  "SANTASOFFIA": [
+  "STORNELLO": [
     {
-      "start": "1649"
+      "start": "1311"
     },
     {
-      "end": "1775"
+      "end": "1321"
     }
   ],
-  "SCROFFA": [
+  "CAVAZZA v. LION": [
     {
-      "start": "1698"
+      "start": "CAVAZZA"
+    },
+    {
+      "end": null
+    }
+  ],
+  "SURIAN": [
+    {
+      "start": "1647"
+    },
+    {
+      "end": "1701"
+    }
+  ],
+  "PIOVENE": [
+    {
+      "start": "1654"
     },
     {
       "end": "1797"
     }
   ],
-  "BASADONNA": [
+  "MARIONI": [
     {
       "start": "1297"
+    },
+    {
+      "end": "1373 12"
+    }
+  ],
+  "FONTANA (DALLA)": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1504"
+    }
+  ],
+  "THOMADO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1383"
+    }
+  ],
+  "ROMANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1411"
+    }
+  ],
+  "BRISI (BRIZI)": [
+    {
+      "start": "1303"
+    },
+    {
+      "end": "1366"
+    }
+  ],
+  "STORLADI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1458"
+    }
+  ],
+  "CAISSELLI": [
+    {
+      "start": "1779"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "NANI": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "CAOTORTA": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": "1789"
+    }
+  ],
+  "LOMBRESCHI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1376"
+    }
+  ],
+  "AGRINAL": [
+    {
+      "start": "1310"
+    },
+    {
+      "end": "1396"
+    }
+  ],
+  "BONVICINI": [
+    {
+      "start": "1663"
+    },
+    {
+      "end": "1786"
+    }
+  ],
+  "MENEGATO": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1373"
+    }
+  ],
+  "MUSSATTI": [
+    {
+      "start": "1776"
     },
     {
       "end": "1797"
@@ -3735,23 +4023,15 @@
       "end": "1733"
     }
   ],
-  "ZULIAN": [
+  "MACCARELLI": [
     {
-      "start": "1297"
+      "start": "1648"
     },
     {
-      "end": "1795"
+      "end": "1676"
     }
   ],
-  "LOREDAN": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MEMMO": [
+  "MOROSINI": [
     {
       "start": "1297"
     },
@@ -3759,188 +4039,36 @@
       "end": "1797"
     }
   ],
-  "GRASSI": [
+  "LUCCA": [
     {
-      "start": "1718"
+      "start": "1654"
     },
     {
-      "end": "1797"
+      "end": " tra 1734 e 1759"
     }
   ],
-  "PANCIERA": [
-    {
-      "start": "1777"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MORO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ARDUINI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1518"
-    }
-  ],
-  "MAINA": [
-    {
-      "start": "1341"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "VIZZAMANO": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": " tra 1709 e 1712"
-    }
-  ],
-  "MUSSATTI": [
-    {
-      "start": "1776"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "DENTE": [
-    {
-      "start": "1310"
-    },
-    {
-      "end": "1432"
-    }
-  ],
-  "AVANZAGO (D')": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1640 e 1655"
-    }
-  ],
-  "COCODRIZI": [
+  "OBIZO": [
     {
       "start": "?"
     },
     {
-      "end": "1372"
+      "end": "1346"
     }
   ],
-  "LANZUOLI": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1432"
-    }
-  ],
-  "MEZZO (DE)": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BONVICINI": [
-    {
-      "start": "1663"
-    },
-    {
-      "end": "1786"
-    }
-  ],
-  "GIOVANELLI": [
-    {
-      "start": "1668"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "VALARESSO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "COLLALTO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ROTA": [
-    {
-      "start": "1685"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BERENGO": [
+  "FRANCO": [
     {
       "start": "?"
     },
     {
-      "end": "1372"
+      "end": "1307"
     }
   ],
-  "TOTULO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1383"
-    }
-  ],
-  "RAGUSIO": [
+  "FABRIZI": [
     {
       "start": "?"
     },
     {
-      "end": "1352"
-    }
-  ],
-  "CODOGNOLA": [
-    {
-      "start": "1446"
-    },
-    {
-      "end": "?"
-    }
-  ],
-  "FORNASE (DALLA)": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "1407"
-    }
-  ],
-  "ZANCARUOL": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1766"
+      "end": "1303"
     }
   ],
   "REGIN": [
@@ -3951,95 +4079,7 @@
       "end": "1351"
     }
   ],
-  "ZORBANI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1381"
-    }
-  ],
-  "BREDANI": [
-    {
-      "start": "1381"
-    },
-    {
-      "end": "dopo 1527"
-    }
-  ],
-  "FRADELLO (di Candia)": [
-    {
-      "start": "1493"
-    },
-    {
-      "end": "1666"
-    }
-  ],
-  "WIDMAN": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "SABADIN": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1361"
-    }
-  ],
-  "SELVO 1297": [
-    {
-      "start": ""
-    },
-    {
-      "end": "1311"
-    }
-  ],
-  "DIESENOVE": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1361"
-    }
-  ],
-  "ARDIZON": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " prima del '300"
-    }
-  ],
-  "BALESTRIERI": [
-    {
-      "start": "1301"
-    },
-    {
-      "end": " dopo 1360"
-    }
-  ],
-  "DE MALIS nel '300": [
-    {
-      "start": ""
-    },
-    {
-      "end": " nel '300"
-    }
-  ],
-  "FRACASSETTI": [
-    {
-      "start": "1704"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "MARCELLO": [
+  "GIUSTINIAN": [
     {
       "start": "1297"
     },
@@ -4047,71 +4087,47 @@
       "end": "1797"
     }
   ],
-  "BUORA": [
+  "LAZZARI": [
     {
-      "start": "1297"
-    },
-    {
-      "end": "1311"
-    }
-  ],
-  "PATANI": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1376"
-    }
-  ],
-  "LANDO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1734"
-    }
-  ],
-  "PIOVENE": [
-    {
-      "start": "1654"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "ZENOBIO": [
-    {
-      "start": "1647"
-    },
-    {
-      "end": "1797"
-    }
-  ],
-  "BOLDO": [
-    {
-      "start": "?"
-    },
-    {
-      "end": "1313"
-    }
-  ],
-  "BENZON (S. Vidal)": [
-    {
-      "start": "1685"
+      "start": "1660"
     },
     {
       "end": "1775"
     }
   ],
-  "AICARDO (HAICARDO)": [
+  "BARBOLANI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1311"
+    }
+  ],
+  "ZANARDI": [
+    {
+      "start": "1653"
+    },
+    {
+      "end": " tra 1734 e 1759"
+    }
+  ],
+  "LANZUOLI": [
     {
       "start": "1297"
     },
     {
-      "end": "1305"
+      "end": "1432"
     }
   ],
-  "MOSTO (DA)": [
+  "ZAPOANI": [
+    {
+      "start": "?"
+    },
+    {
+      "end": "1326"
+    }
+  ],
+  "CAPELLO": [
     {
       "start": "1297"
     },
@@ -4119,84 +4135,68 @@
       "end": "1797"
     }
   ],
-  "LOMBARDO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": " tra 1734 e 1759"
-    }
-  ],
-  "MARTINELLI": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": "1772"
-    }
-  ],
-  "ABRAMO": [
-    {
-      "start": "1297"
-    },
-    {
-      "end": "1364 2"
-    }
-  ],
-  "MEDICI": [
-    {
-      "start": "1652"
-    },
-    {
-      "end": "1701"
-    }
-  ],
-  "ADAMO": [
+  "MORTADELLO": [
     {
       "start": "?"
     },
     {
-      "end": "1375"
+      "end": "1327"
     }
   ],
-  "TASCA": [
-    {
-      "start": "1646"
-    },
-    {
-      "end": " tra 1734 e 1760"
-    }
-  ],
-  "MUSSOLINO": [
+  "TOLONEGI (TANOLICO)": [
     {
       "start": "1297"
     },
     {
-      "end": " nel '300"
+      "end": "1322 21"
     }
   ],
-  "TODERINI": [
+  "RAMPANI": [
     {
-      "start": "1694"
+      "start": "?"
+    },
+    {
+      "end": "1314"
+    }
+  ],
+  "RENIER": [
+    {
+      "start": "1381"
     },
     {
       "end": "1797"
     }
   ],
-  "DEDDO": [
+  "VENDELIN": [
     {
-      "start": "?"
+      "start": "1297"
     },
     {
-      "end": "1402"
+      "end": "1360"
     }
   ],
-  "RUBINI": [
+  "BELLONI": [
     {
       "start": "1646"
     },
     {
-      "end": " tra 1734 e 1759"
+      "end": " tra 1655 e 1666"
+    }
+  ],
+  "ZOLIO": [
+    {
+      "start": "1656"
+    },
+    {
+      "end": "1797"
+    }
+  ],
+  "PINO": [
+    {
+      "start": "1297"
+    },
+    {
+      "end": " dopo 1379"
     }
   ]
 }
