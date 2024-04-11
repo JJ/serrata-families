@@ -6,6 +6,8 @@ my @family-date = "data-raw/families-data.txt".IO.lines;
 
 my %dates-for-family;
 
+my %normalizations = ( )
+
 for @family-date -> $line {
     my ( $beginning, $end ) = $line.split( "-" );
 
