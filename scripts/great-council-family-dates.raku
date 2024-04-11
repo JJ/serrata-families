@@ -37,14 +37,8 @@ for @family-date -> $line {
 
     if ( $family ~~ /\,/ ) {
         $family ~~ /\s* $<family-name> = [.+?] \s+ $<date> = [ \d+ ]\,/;
-        say $<family-name>, ", ", $<date>;
         $family = ~$<family-name>;
         $start = ~$<date>;
-    }
-
-    if %normalizations{$family} {
-        say "Normalizing $family";
-        $family = %normalizations{$family};
     }
 
     %dates-for-family{$family} = (
@@ -59,7 +53,12 @@ spurt("data-raw/families-great-council-date.json", to-json %dates-for-family);
 my @family-dates-csv = ["Family;Start;End\n"];
 for %dates-for-family.keys() -> $family {
     my %dates = %dates-for-family{$family};
-    @family-dates-csv.push: tclc($family) ~ "; " ~ %dates<start> ~ ";" ~
+    my $ucfirst-family = tclc($family);
+    if %normalizations{$ucfirst-family} {
+        say "Normalizing $ucfirst-family";
+        $ucfirst-family = %normalizations{$ucfirst-family};
+    }
+    @family-dates-csv.push: $ucfirst-family ~ "; " ~ %dates<start> ~ ";" ~
 %dates<end> ~
             "\n";
 }
