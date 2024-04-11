@@ -13,8 +13,13 @@ for @family-date -> $line {
     my $start = @fragments.pop;
     my $family = @fragments.join(" ");
 
-    %dates-for-family{$family} = (
-        start => $start,
+    if ( $family ~~ /\,/ ) {
+        $start = ($family ~~ /(\d+)\,/);
+        $family = ($family ~~ /\s*(\w+)\s+/);
+    }
+
+    %dates-for-family{~$family} = (
+        start => ~$start,
         end => $end
     );
 }
