@@ -14,12 +14,14 @@ for @family-date -> $line {
     my $family = @fragments.join(" ");
 
     if ( $family ~~ /\,/ ) {
-        $start = ($family ~~ /(\d+)\,/);
-        $family = ($family ~~ /\s*(\w+)\s+/);
+        $family ~~ /\s* $<family-name> = [.+?] \s+ $<date> = [ \d+ ]\,/;
+        say $<family-name>, ", ", $<date>;
+        $family = ~$<family-name>;
+        $start = ~$<date>;
     }
 
-    %dates-for-family{~$family} = (
-        start => ~$start,
+    %dates-for-family{$family} = (
+        start => $start,
         end => $end
     );
 }
