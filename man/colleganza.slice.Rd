@@ -2,7 +2,7 @@
 % Please edit documentation in R/colleganza.slice.R
 \name{colleganza.slice}
 \alias{colleganza.slice}
-\title{Create social networks with slices from the colleganza Dataset}
+\title{Create social networks with slices from the colleganza dataset}
 \usage{
 colleganza.slice(from = 1073, to = 1342)
 }
@@ -16,4 +16,8 @@ A graph with with families as nodes, co-occurrence in a contract as edges, but o
 }
 \description{
 Create social networks with slices from the colleganza Dataset
+}
+
+\references{
+\insertAllCited{}
 }

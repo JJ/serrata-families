@@ -5,7 +5,7 @@
 data("great.council.families.date")
 }
 \description{
-Load \code{great.council.families.date} into the environment. Taken from Raines paper.
+Load \code{great.council.families.date} into the environment. Taken from Raines paper \insertCite{raines2003cooptazione}{serrata.families}.
 }
 
 \value{
@@ -15,6 +15,10 @@ A dataframe with family names that were included into the great council, and the
   \item \code{Start} Year when they were included in the Great Council.
   \item \code{End} Documented last year when they participated in the Great Council.
 }
+}
+
+\references{
+\insertAllCited{}
 }
 
 \examples{
