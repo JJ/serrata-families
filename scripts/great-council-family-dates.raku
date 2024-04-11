@@ -6,7 +6,9 @@ my @family-date = "data-raw/families-data.txt".IO.lines;
 
 my %dates-for-family;
 
-my %normalizations = ( )
+my %normalizations = ( "Balestrieri 1301– dopo" => "Balestrieri",
+                       "Avanzago (d')" => "D'Avanzago"
+);
 
 for @family-date -> $line {
     my ( $beginning, $end ) = $line.split( "-" );
@@ -22,11 +24,16 @@ for @family-date -> $line {
         $start = ~$<date>;
     }
 
+    if %normalizations{$family} {
+        $family = %normalizations{$family};
+    }
+
     %dates-for-family{$family} = (
         start => $start,
         end => $end
     );
 }
+
 
 spurt("data-raw/families-great-council-date.json", to-json %dates-for-family);
 

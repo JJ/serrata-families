@@ -23,6 +23,12 @@ print(length(families.in.both)/length(families.enlargement))
 load("../data/colleganza.graph.rda")
 all.families.colleganza <- V(colleganza.graph)$name
 
-all.families.great.council <- great.council.families.date$Family
+load("../data/all.great.council.families.date.rda")
+all.great.council.families <- all.great.council.families.date$Family
 
-all.families.in.both <- intersect(all.families.colleganza,all.families.great.council)
+all.families.in.both <- intersect(all.families.colleganza,all.great.council.families)
+
+families.only.in.colleganza <- setdiff(all.families.colleganza,all.families.in.both)
+write.csv(sort(families.only.in.colleganza),"../data/families-only-in-colleganza.csv")
+families.only.in.great.council <- setdiff(all.great.council.families,all.families.in.both)
+write.csv(sort(families.only.in.great.council),"../data/families-only-in-great-council.csv")
