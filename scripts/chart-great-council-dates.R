@@ -15,7 +15,7 @@ ggplot(great.council.families.date, aes(x=Start)) +
 families.initial <- great.council.families.date[great.council.families.date$Start == 1297,]$Family
 
 families.post.1261 <- setdiff(families.initial,great.council.families)
-
+write.csv( sort(families.post.1261), "../data/families-post-1261.csv")
 families.enlargement <- great.council.families.date[great.council.families.date$Start > 1297 & great.council.families.date$Start <= 1330,]$Family
 
 contracts.pre.1261 <- colleganza.slice(to=1261)
@@ -42,3 +42,4 @@ families.only.in.colleganza <- setdiff(all.families.colleganza,all.families.in.b
 write.csv(sort(families.only.in.colleganza),"../data/families-only-in-colleganza.csv")
 families.only.in.great.council <- setdiff(all.great.council.families,all.families.in.both)
 write.csv(sort(families.only.in.great.council),"../data/families-only-in-great-council.csv")
+
