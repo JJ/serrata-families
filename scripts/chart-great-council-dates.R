@@ -43,3 +43,12 @@ write.csv(sort(families.only.in.colleganza),"../data/families-only-in-colleganza
 families.only.in.great.council <- setdiff(all.great.council.families,all.families.in.both)
 write.csv(sort(families.only.in.great.council),"../data/families-only-in-great-council.csv")
 
+contracts.post.1261 <- colleganza.slice(from=1310)
+families.colleganza.post.1261 <- V(contracts.post.1261)$name
+
+initial.families.in.both <- intersect(families.initial,families.colleganza.post.1261)
+
+post.1261.families.in.both <- intersect(families.post.1261,families.colleganza.post.1261)
+
+families.only.in.colleganza.post.1261 <- setdiff(families.colleganza.post.1261,initial.families.in.both)
+
