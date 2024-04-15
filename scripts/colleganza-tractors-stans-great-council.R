@@ -1,4 +1,5 @@
 library(jsonlite)
+library(dplyr)
 
 tractors <- fromJSON("data-raw/colleganza-tractors.json")
 stans <- fromJSON("data-raw/colleganza-stans.json")
@@ -32,3 +33,9 @@ for (family in colleganza.families) {
 
   colleganza.family.types <- rbind(colleganza.family.types, data.frame(family=family, type=colleganza.family.type, great.council=in.great.council))
 }
+
+# Compute percentage of families in the great council for each category
+
+colleganza.family.types %>%
+  group_by(type) %>%
+  summarise(great_council_percentage = sum(great.council) / n() * 100) -> colleganza.family.types.summary
