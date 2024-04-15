@@ -68,3 +68,14 @@ spurt( "data-raw/colleganza-tractors.json", to-json %tractors);
 spurt( "data-raw/colleganza-stans.json", to-json %stans);
 spurt( "data-raw/colleganza-type-contract.json", to-json %years-contracts);
 csv( out=> "data-raw/colleganza-pairs-date.csv", in => @all-pairs);
+
+my @contracts-family-year = [];
+@contracts-family-year.push: ["Family","Contract Type", "Year"];
+for %years-contracts.keys -> $family {
+    my @contracts = %years-contracts{$family}.sort: *[1];
+    for @contracts -> @contract {
+        @contracts-family-year.push: [ $family, |@contract ];
+    }
+}
+
+csv( out => "data-raw/contract-family-year.csv", in=> @contracts-family-year);
