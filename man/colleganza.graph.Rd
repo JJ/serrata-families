@@ -5,7 +5,7 @@
 data("colleganza.graph")
 }
 \description{
-Load \code{colleganza.graph} into the environment, a graph that has families as nodes and collaboration in a colleganza contract as edge. It is an undirected graph, with data from Puga & Treffler \insertCite{PugaTreffler2014}{serrata.families}.
+Load \code{colleganza.graph} into the environment, a graph that has families as nodes and collaboration in a colleganza contract as edge. It is an undirected graph, with data from Puga & Treffler \insertCite{serrata}{serrata.families}.
 }
 
 \value{
