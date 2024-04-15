@@ -10,11 +10,11 @@ Load \code{great.council.families.date} into the environment. Taken from Raines 
 
 \value{
 A dataframe with family names that were included into the great council, and the date where that took place.
-\itemize{
+}
+\arguments{
   \item \code{Family} Family name.
   \item \code{Start} Year when they were included in the Great Council.
   \item \code{End} Documented last year when they participated in the Great Council.
-}
 }
 
 \references{

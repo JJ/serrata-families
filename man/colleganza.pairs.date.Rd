@@ -11,11 +11,11 @@ Load \code{colleganza.pairs.date} into the environment
 \value{
 A dataframe with pairs of families that have participated in a colleganza contract, extracted from the Puga&Treffler dataset \insertCite{serrata}{serrata.families}.
 }
-\itemize{
+
+\arguments{
   \item \code{Family1} First family name.
   \item \code{Family2} Name of the second family.
   \item \code{date} Date in which the colleganza contract took place.
-}
 }
 
 \references{
