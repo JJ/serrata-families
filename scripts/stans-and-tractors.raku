@@ -10,3 +10,11 @@ my $both = %tractors.keys() ∩ %stans.keys();
 for $both.keys -> $family {
     say "$family ", %tractors{$family}, " ", %stans{$family};
 }
+
+my $only-stans = %stans.keys() ⊖ $both;
+
+say $only-stans;
+
+my $only-tractors = %tractors.keys() ⊖ $both;
+
+say $only-tractors;
