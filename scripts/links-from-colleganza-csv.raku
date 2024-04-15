@@ -11,8 +11,8 @@ my @all-pairs;
 my %stans;
 my %tractors;
 my $gc-families = Set.new();
+my %years-contracts;
 for @rows[0..*] -> %row {
-    say %row.values;
     my @families = [];
     for <tractor_familyname tractor_2_familyname stans_familyname stans_2_familyname> -> $key {
         my Str $std-name = "";
@@ -24,21 +24,32 @@ for @rows[0..*] -> %row {
 
         if (%row{$key ~ "_std_gc"}) {
             $gc-families ∪= %row{$key ~ "_std_gc"};
-        }inter
+        }
 
         if ($std-name ne "" and $std-name ne "unknown") {
             @families.push: $std-name;
 
-            say "Standard name $std-name";
             if $key ~~ /tractor/ {
                 if ( %tractors{$std-name} < %row<year> ) {
                     %tractors{$std-name} = %row<year>;
                 }
+
+                if ( ! %years-contracts{$std-name} ) {
+                    %years-contracts{$std-name} = [];
+                }
+                %years-contracts{$std-name}.push: ["tractor", %row<year>];
+
             }
             if $key ~~ /stans/ {
                 if ( %stans{$std-name} < %row<year> ) {
                     %stans{$std-name} = %row<year>;
                 }
+
+                if ( !%years-contracts{$std-name} ) {
+                    %years-contracts{$std-name} = [];
+                }
+                %years-contracts{$std-name}.push: ["stan", %row<year>];
+
             }
         }
     }
@@ -55,4 +66,5 @@ spurt( "data-raw/colleganza-families.json", to-json @all-families );
 spurt( "data-raw/great-council-families.json", to-json $gc-families.keys());
 spurt( "data-raw/colleganza-tractors.json", to-json %tractors);
 spurt( "data-raw/colleganza-stans.json", to-json %stans);
+spurt( "data-raw/colleganza-type-contract.json", to-json %years-contracts);
 csv( out=> "data-raw/colleganza-pairs-date.csv", in => @all-pairs);
