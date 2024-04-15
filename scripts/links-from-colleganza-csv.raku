@@ -71,11 +71,23 @@ csv( out=> "data-raw/colleganza-pairs-date.csv", in => @all-pairs);
 
 my @contracts-family-year = [];
 @contracts-family-year.push: ["Family","Contract Type", "Year"];
+my @contracts-changes = [];
+@contracts-changes.push: ["Family","First","Last","Flips","Percentage"];
 for %years-contracts.keys -> $family {
     my @contracts = %years-contracts{$family}.sort: *[1];
     for @contracts -> @contract {
         @contracts-family-year.push: [ $family, |@contract ];
     }
+
+    my $flips = 0;
+    if (@contracts.elems > 1) {
+        for 1 .. @contracts.elems-1 -> $i {
+            $flips++ if @contracts[$i][0] ne @contracts[$i - 1][0];
+        }
+    }
+    @contracts-changes.push: [$family, @contracts[0][0], @contracts[*-1][0],
+                              $flips, $flips/@contracts.elems ];
 }
 
 csv( out => "data-raw/contract-family-year.csv", in=> @contracts-family-year);
+csv( out => "data-raw/contract-family-flips.csv", in=> @contracts-changes);
