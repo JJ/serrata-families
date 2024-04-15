@@ -24,7 +24,7 @@ for @rows[0..*] -> %row {
 
         if (%row{$key ~ "_std_gc"}) {
             $gc-families ∪= %row{$key ~ "_std_gc"};
-        }
+        }inter
 
         if ($std-name ne "" and $std-name ne "unknown") {
             @families.push: $std-name;
