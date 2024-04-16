@@ -7,7 +7,7 @@ vignette: >
   %\VignetteIndexEntry{Splitting the colleganza social network by date}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
-bibliography: ../inst/colleganza.bib
+bibliography: ../inst/REFERENCES.bib
 ---
 
 ```{r setup, include = FALSE}
@@ -19,45 +19,29 @@ knitr::opts_chunk$set(
 
 ## Introduction
 
-Using data from `dogesr` [@dogesr], we will, in this vignette, analyze the change of the social network before and after the *Serrata* [@serrata], revealed as a watershed event in the analysis performed in [@histories:jj]
-
+Using data from Puga and Treffler [@serrata], we will, in this vignette, analyze the change of the *colleganza* social network before and after the *Serrata* [@serrata]. This networks includes (extended) Venetian families that engaged in sea trade and were bound by a type of contract called *colleganza*. 
 ## Set up
 
-The main events that led to the *Serrata* happened during the government of the doge Pietro Gradenigo.
-Let's check the effect of that event in the social netWe will then create two networks, one including that doge, the next one with all the others
+The data in Puga and Treffler's [@serrata] paper is sourced from different places, and there is a gap that goes from 1261 to the beginning of the XIV century; this coincides with the Serrata. Let's first load the data
+
 ```{r load, warning=FALSE,message=FALSE}
-library(dogesr)
+library(serrata.families)
 library(igraph)
-
-pre.serrata <- marriage.graph.slice(to="Pietro Gradenigo")
-post.serrata <- marriage.graph.slice(from="Marino Zorzi")
+data("colleganza.graph")
+plot(colleganza.graph)
 ```
+This is not too informative, since there are too many nodes; besides, it spans disparate periods. Let's split the network in its two parts
 
-## Social networks pre and post-Serrata
-
-This will call the function that creates, from raw data, the `igraph` data structure with which we can work. We still need to simplify them to be able to work with it. 
-```{r simplify}
-weightify <- function( a.graph ) {
-  other.graph <- a.graph
-  E(other.graph)$weight <- 1
-  other.graph <- simplify(other.graph, edge.attr.comb=list(weight="sum"))
-  return(other.graph)
-}
-pre.serrata <- weightify(pre.serrata)
-post.serrata <- weightify(post.serrata)
-
-V(pre.serrata)$EV <- unname(unlist(eigen_centrality(pre.serrata)$vector))
-V(post.serrata)$EV <- unname(unlist(eigen_centrality(post.serrata)$vector))
-plot(pre.serrata,vertex.size=V(pre.serrata)$EV, layout=layout_nicely, vertex.label.cex=0.7)
-plot(post.serrata,vertex.size=V(post.serrata)$EV, layout=layout_nicely, vertex.label.cex=0.7)
+```{r split}
+contracts.pre.1261 <- colleganza.slice(to=1261)
+plot(contracts.pre.1261)
+contracts.post.1310 <- colleganza.slice(from=1310)
+plot(contracts.post.1310)
 ```
-
-The pre-Serrata graph is on the top, the post-serrata on the bottom. Before the Serrata, there were small (up to 4-5) sets of connected components, the biggest one the "star" around the Tiepolo family (which was an important part of the early XIV century rebellion); however, the Serrata had the effect of connecting the network, mainly because there were many more doges per generation (as explained in [@histories:jj]), but also because marrying became an tactical move to increase the reach of the social network.
-
-It should be noted, however, that doges' marriages were but a small part of the complete Venetian social network; however, it is an important sample that, besides, shows who arrived to the summit of power (or servitude to the state, depending on how you look at it).
+There are less contracts after the Serrata, and besides, their connectedness is very different; this probably shows simply the number of contracts, as well as a hint on how the social landscape changed after the Serrata, with many families extinguished and some of them simply devoted to other pursuits.
 
 ## Conclusions
 
-Charting the doges social networks enables insights on the power and social dynamics of the Republic of Venice; being able to look at temporal slices is especially interesting since we can check how certain events influenced the social network.
+A function included in the package allows the splitting of the *colleganza* social network in two parts, before and after the Serrata. Further analysis, like centrality, can be performed on each of those parts.
 
 ## References
