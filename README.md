@@ -1,4 +1,4 @@
-# Venetian "Serrata" families and their status
+# Venetian "Serrata" families and their status [![Check and test package](https://github.com/JJ/serrata-families/actions/workflows/R-stuff.yml/badge.svg)](https://github.com/JJ/serrata-families/actions/workflows/R-stuff.yml)
 
 Investigating why some families were coopted into the Serrata, after
 Puga&Treffler and Raines, that is, why they were offered a seat in the Great
