@@ -1,13 +1,13 @@
 ---
-title: "Using `dogesr` to check Venetian social networks before and after the Serrata"
+title: "Splitting the colleganza social network by date"
 author: "JJ Merelo"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Using `dogesr` to check Venetian social networks before and after the Serrata}
+  %\VignetteIndexEntry{Splitting the colleganza social network by date}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
-bibliography: ../inst/doges.bib
+bibliography: ../inst/colleganza.bib
 ---
 
 ```{r setup, include = FALSE}

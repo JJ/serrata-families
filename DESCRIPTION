@@ -12,7 +12,8 @@ RoxygenNote: 7.2.3
 Imports:
     dupNodes,
     igraph,
-    Rdpack
+    Rdpack,
+    knitr
 Depends:
     R (>= 2.10)
 LazyData: true
