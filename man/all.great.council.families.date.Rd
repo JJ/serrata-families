@@ -1,5 +1,5 @@
-\nameall.great.council.families.date}
-\aliasall.great.council.families.date}
+\name{all.great.council.families.date}
+\alias{all.great.council.families.date}
 \title{Load data into the environment}
 \usage{
 data("all.great.council.families.date")
