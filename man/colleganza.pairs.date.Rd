@@ -5,14 +5,7 @@
 data("colleganza.pairs.date")
 }
 \description{
-Load \code{colleganza.pairs.date} into the environment
-}
-
-
-\arguments{
-  \item{Family1}{First family name}
-  \item{Family2}{Name of the second family}
-  \item{date}{Date in which the colleganza contract took place}
+Load \code{colleganza.pairs.date} into the environment, that is, the dates and family names of that appear in a contract, with the columns \code{Family1}, \code{Family2} and \code{date}.
 }
 
 \value{
