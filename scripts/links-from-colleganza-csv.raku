@@ -62,8 +62,6 @@ for @rows[0..*] -> %row {
     }
 
     if $tractor-families ∩ $stan-families != ∅ {
-        say %row;
-        say $tractor-families ∩ $stan-families;
         @self-loops.push: [ $tractor-families ∩ $stan-families, %row<year> ];
     }
     @families = @families.grep: * ne "unknown";
