@@ -1,103 +1,82 @@
 Family,"Contract Type",Year
-"di Fioravante",tractor,1313
-"Lissado da Luprio",tractor,1073
-Voltani,stan,1170
-Voltani,stan,1172
-Voltani,stan,1186
-Voltani,stan,1198
+Barbani,stan,1200
+Villari,stan,1208
+Bosio,stan,1210
+Bosio,stan,1210
+Bosio,stan,1217
+"di Guazo",stan,1205
+Urso,tractor,1138
+Urso,stan,1138
+"Dalle Sevole",stan,1327
+"Dalle Sevole",stan,1329
+"Dalle Sevole",stan,1331
+"Dalle Sevole",stan,1333
+Capello,stan,1235
+Mazaman,stan,1156
 Bredani,stan,1214
 Bredani,stan,1227
 Bredani,stan,1228
-Darpin,stan,1224
-Longo,stan,1207
-Longo,tractor,1212
-Longo,tractor,1227
-Longo,tractor,1228
-Longo,tractor,1228
-Longo,tractor,1236
-Rosso,stan,1234
-Rosso,stan,1234
-Rosso,tractor,1256
-Maciacavallo,stan,1159
-Civran,stan,1234
-Minio,tractor,1228
-Minio,tractor,1230
-Minio,stan,1242
-Agadi,stan,1199
-Agadi,stan,1212
-Agadi,stan,1212
-Agadi,stan,1226
-Agadi,stan,1234
-Brizi,stan,1323
-Brizi,stan,1325
-Brizi,stan,1331
-Brizi,stan,1333
-Staniario,tractor,1199
-Staniario,tractor,1200
-Staniario,tractor,1206
-Staniario,stan,1206
-Staniario,stan,1206
-Staniario,tractor,1210
-Staniario,tractor,1239
-Querini,stan,1155
-Querini,stan,1231
-Querini,tractor,1326
-Senadori,stan,1234
-Dandolo,stan,1161
-Dandolo,stan,1234
-Dandolo,stan,1316
-Dandolo,stan,1316
-Russo,tractor,1159
-Russo,tractor,1226
-"De Laurentio",stan,1326
-Calbo,tractor,1153
-Calbo,tractor,1235
-Speziale,stan,1228
-Speziale,stan,1228
-Barbo,stan,1222
-Barbo,tractor,1232
-Barbo,tractor,1232
-Barbo,tractor,1242
-Barbo,tractor,1242
-Barbo,tractor,1243
-Barbo,tractor,1243
-Barbo,tractor,1243
-Barbo,tractor,1244
-Barbo,tractor,1246
-Barbo,tractor,1324
-d'Albiola,tractor,1189
-Sirano,tractor,1252
-Orio,tractor,1231
-Orio,tractor,1323
-Orio,tractor,1323
-Mastropetro,stan,1153
-Tagliapietra,stan,1323
-Polini,stan,1197
-Guido,tractor,1159
-Guido,stan,1222
-Rozeri,stan,1312
-Boninsegna,tractor,1316
-Boninsegna,stan,1326
-Bellono,stan,1234
-Zorzi,stan,1197
-Zorzi,stan,1218
-Zorzi,stan,1223
-Zorzi,stan,1310
-Batello,tractor,1241
 Albizzo,stan,1232
 Albizzo,stan,1236
-Balbi,stan,1239
-Tonisti,tractor,1191
-Simone,tractor,1207
-Messeta,stan,1256
+Babilonio,stan,1333
+Ragusio,tractor,1238
+Nani,stan,1238
+Nani,stan,1238
+Balestrieri,stan,1250
+Straccivendolo,tractor,1326
+Rachovich,tractor,1312
+Corner,tractor,1156
+Corner,tractor,1159
+Corner,stan,1159
+Corner,stan,1159
+Corner,tractor,1182
+Corner,tractor,1190
+Corner,tractor,1191
+Corner,stan,1202
+Corner,tractor,1205
+Corner,stan,1205
+Corner,tractor,1206
+Corner,tractor,1207
+Corner,stan,1207
+Corner,tractor,1207
+Corner,tractor,1209
+Corner,tractor,1210
+Corner,tractor,1210
+Corner,tractor,1217
+Corner,stan,1320
+Gritti,tractor,1211
+Gritti,stan,1211
+Premarin,stan,1224
+Premarin,stan,1239
+Cazzamonti,stan,1319
+Barastro,stan,1242
+Barastro,stan,1242
+Barastro,tractor,1248
+Barastro,stan,1256
+Orefice,stan,1073
+Mastropetro,stan,1153
+Albino,stan,1239
+Albino,stan,1239
+Loredan,tractor,1333
+Pergaminer,tractor,1242
 Tron,tractor,1323
 Tron,stan,1323
-Istrigo,stan,1200
-Vidal,tractor,1165
-Vidal,tractor,1165
-Vidal,tractor,1183
-Pasqualigo,tractor,1170
-Bonizzo,stan,1234
+Bollani,stan,1324
+d'Ancontano,tractor,1313
+d'Ancontano,tractor,1313
+Banzon,tractor,1322
+Belegno,stan,1232
+Belegno,tractor,1314
+Belegno,tractor,1316
+Vitturi,tractor,1240
+Dauro,stan,1205
+Grimani,stan,1232
+Grimani,stan,1232
+"di Loreo",stan,1207
+Signolo,tractor,1188
+Signolo,tractor,1188
+Pentulo,tractor,1252
+Pentulo,stan,1252
 Trevisan,stan,1241
 Trevisan,tractor,1248
 Trevisan,stan,1251
@@ -122,6 +101,407 @@ Trevisan,tractor,1331
 Trevisan,tractor,1331
 Trevisan,tractor,1333
 Trevisan,tractor,1333
+Pizolo,tractor,1228
+Balbi,stan,1239
+Dolfin,stan,1244
+Baro,tractor,1105
+Alberto,stan,1234
+Alberto,stan,1234
+Alberto,tractor,1311
+Alberto,tractor,1313
+Sirano,tractor,1252
+Tiepolo,tractor,1182
+Tiepolo,stan,1182
+Tiepolo,tractor,1189
+Tiepolo,tractor,1190
+Tiepolo,tractor,1190
+Tiepolo,tractor,1190
+Tiepolo,stan,1190
+Tiepolo,tractor,1195
+Tiepolo,tractor,1252
+Tiepolo,tractor,1321
+Tiepolo,stan,1321
+Tiepolo,tractor,1321
+Tiepolo,tractor,1322
+Tiepolo,tractor,1322
+Tiepolo,stan,1322
+Tiepolo,tractor,1323
+Cavalerio,stan,1207
+"da Trau",stan,1322
+Valaresso,stan,1226
+Malipiero,tractor,1319
+Malipiero,tractor,1319
+Malipiero,tractor,1319
+Malipiero,tractor,1320
+Malipiero,tractor,1320
+Spatario,stan,1250
+Spatario,stan,1250
+Pesaro,stan,1312
+Nicola,stan,1249
+Nicola,stan,1253
+Maciacavallo,stan,1159
+Marin,stan,1230
+Marin,stan,1230
+Marin,tractor,1234
+Marin,tractor,1257
+Marin,stan,1323
+Roberto,stan,1254
+Businago,stan,1253
+Businago,tractor,1254
+"da Vicenza",tractor,1236
+Simitecolo,tractor,1224
+Pagan,tractor,1255
+Pagan,tractor,1255
+Veronese,stan,1240
+Polini,stan,1197
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Giacomo,tractor,1239
+Darpin,stan,1224
+Navager,stan,1244
+Curtolo,tractor,1205
+Curtolo,stan,1206
+Curtolo,stan,1207
+Viaro,tractor,1197
+Viaro,tractor,1198
+Viaro,tractor,1198
+Viaro,tractor,1198
+Viaro,tractor,1199
+Viaro,tractor,1201
+Viaro,tractor,1201
+Viaro,tractor,1202
+Viaro,tractor,1202
+Viaro,tractor,1202
+Viaro,tractor,1204
+Viaro,tractor,1204
+Viaro,tractor,1205
+Viaro,tractor,1205
+Viaro,tractor,1205
+Viaro,tractor,1207
+Viaro,stan,1207
+Viaro,tractor,1209
+Viaro,tractor,1209
+Viaro,tractor,1212
+Viaro,stan,1255
+Viaro,stan,1255
+Viaro,tractor,1313
+Viaro,tractor,1313
+Viaro,tractor,1313
+Viaro,tractor,1313
+Viaro,tractor,1313
+Viaro,tractor,1313
+Viaro,tractor,1313
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+"de Suligo",tractor,1234
+Casolo,stan,1208
+"di Albiola",tractor,1200
+"de Iema",tractor,1312
+Gussoni,stan,1154
+Gussoni,tractor,1260
+Gussoni,tractor,1260
+Manguni,stan,1239
+D'Equilo,tractor,1225
+Bonoto,tractor,1312
+"Da Fano",tractor,1206
+"di Troia",stan,1254
+Veglia,stan,1234
+Veglia,tractor,1248
+Nadal,stan,1192
+Nadal,stan,1205
+Guido,tractor,1159
+Guido,stan,1222
+Zulian,tractor,1167
+Zulian,tractor,1324
+Zulian,tractor,1324
+"di Artico",stan,1326
+Soranzo,stan,1208
+Soranzo,stan,1213
+Soranzo,stan,1213
+Soranzo,tractor,1231
+Soranzo,tractor,1231
+Soranzo,tractor,1231
+Soranzo,tractor,1257
+Soranzo,stan,1313
+Soranzo,stan,1316
+Soranzo,stan,1316
+Soranzo,stan,1316
+Soranzo,stan,1316
+Soranzo,tractor,1328
+"di Bruges",tractor,1239
+Venier,tractor,1161
+Venier,stan,1170
+Venier,stan,1205
+Venier,stan,1222
+Venier,tractor,1233
+Venier,tractor,1239
+Venier,stan,1239
+Venier,tractor,1239
+Venier,stan,1242
+Venier,tractor,1249
+Venier,tractor,1251
+Venier,tractor,1258
+Venier,tractor,1261
+Venier,tractor,1312
+Istrigo,stan,1200
+Senadori,stan,1234
+Iantani,stan,1228
+Iantani,stan,1235
+Katarino,tractor,1255
+Centocori,stan,1154
+Ardizon,stan,1121
+Giustinian,stan,1138
+Giustinian,stan,1191
+Giustinian,stan,1243
+Giustinian,stan,1244
+Giustinian,stan,1246
+Giustinian,stan,1313
+Giustinian,stan,1313
+Giustinian,stan,1316
+Giustinian,stan,1319
+Giustinian,stan,1325
+Giustinian,stan,1326
+Giustinian,stan,1327
+Giustinian,stan,1328
+Giustinian,stan,1329
+Giustinian,stan,1331
+Giustinian,stan,1333
+Malaza,stan,1161
+Zusto,stan,1234
+Zusto,stan,1234
+Barbetta,stan,1314
+Barbetta,stan,1316
+Manolesso,stan,1159
+Grego,stan,1153
+Grego,stan,1248
+Navigroso,stan,1120
+Navigroso,stan,1156
+Navigroso,stan,1223
+Russo,tractor,1159
+Russo,tractor,1226
+"de Protis",tractor,1323
+"de Protis",tractor,1323
+"de Protis",tractor,1323
+"de Protis",tractor,1323
+"de Protis",stan,1323
+Duracino,tractor,1310
+Seio,stan,1239
+Seio,stan,1239
+Seio,stan,1239
+Canal,stan,1195
+Canal,stan,1212
+Canal,tractor,1223
+Canal,stan,1242
+Canal,stan,1260
+Canal,stan,1312
+Bellono,stan,1234
+Michiel,stan,1105
+Michiel,tractor,1131
+Michiel,stan,1191
+Michiel,stan,1192
+Michiel,tractor,1224
+Michiel,tractor,1234
+Michiel,stan,1260
+Michiel,stan,1260
+Michiel,stan,1261
+Michiel,stan,1261
+Michiel,stan,1312
+Michiel,stan,1316
+Michiel,stan,1323
+Michiel,tractor,1323
+Michiel,stan,1323
+Scutario,stan,1260
+Storladi,stan,1088
+Storladi,stan,1089
+"di Federico",stan,1323
+Lanfranchi,tractor,1247
+Acotanto,tractor,1234
+Acotanto,tractor,1234
+Barbo,stan,1222
+Barbo,tractor,1232
+Barbo,tractor,1232
+Barbo,tractor,1242
+Barbo,tractor,1242
+Barbo,tractor,1243
+Barbo,tractor,1243
+Barbo,tractor,1243
+Barbo,tractor,1244
+Barbo,tractor,1246
+Barbo,tractor,1324
+Tagliapietra,stan,1323
+Boldu,tractor,1319
+"di donna Maria",stan,1248
+Emo,tractor,1205
+Emo,tractor,1208
+Emo,tractor,1208
+Emo,tractor,1218
+Emo,tractor,1220
+Emo,tractor,1224
+Emo,tractor,1224
+Emo,tractor,1225
+Emo,tractor,1226
+Emo,tractor,1226
+Emo,tractor,1232
+Emo,tractor,1253
+Emo,tractor,1253
+Emo,tractor,1253
+Emo,tractor,1253
+"Dalla Fontana",stan,1239
+"Dalla Fontana",stan,1243
+"Dalla Fontana",stan,1315
+Sanudo,tractor,1316
+Sanudo,stan,1316
+Sanudo,tractor,1316
+Sanudo,tractor,1316
+Sanudo,tractor,1316
+Sanudo,tractor,1316
+Sanudo,stan,1316
+Sanudo,tractor,1316
+Sanudo,tractor,1316
+Mercadante,stan,1242
+Mercadante,stan,1243
+Mercadante,stan,1243
+Mercadante,stan,1244
+Mercadante,stan,1244
+Mercadante,stan,1248
+Mercadante,stan,1257
+Mercadante,stan,1257
+Mercadante,stan,1258
+Grioni,stan,1118
+Grioni,tractor,1325
+Bozolino,tractor,1206
+"Da Mula",tractor,1185
+"Da Mula",stan,1185
+"Da Mula",stan,1198
+"Da Mula",stan,1201
+Pigozo,tractor,1250
+Pigozo,tractor,1250
+Pigozo,tractor,1250
+Speziale,stan,1228
+Speziale,stan,1228
+Bilongo,tractor,1120
+Abriano,stan,1212
+Francesco,tractor,1251
+Bembo,stan,1131
+Bembo,stan,1213
+Bembo,stan,1217
+Bembo,stan,1218
+Bembo,tractor,1239
+Flabiano,tractor,1319
+Fradello,tractor,1222
+Fradello,stan,1234
+Martinazo,tractor,1320
+Mastrorso,stan,1231
+Voltani,stan,1170
+Voltani,stan,1172
+Voltani,stan,1186
+Voltani,stan,1198
+Boninsegna,tractor,1316
+Boninsegna,stan,1326
+"de Albrigeto",tractor,1235
+"de Albrigeto",tractor,1235
+"Lissado da Luprio",tractor,1073
+Barbarigo,stan,1200
+Barbarigo,tractor,1319
+Barbarigo,tractor,1319
+Barbarigo,tractor,1319
+Barbarigo,tractor,1321
+Barbarigo,tractor,1321
+Barbarigo,tractor,1321
+Barbarigo,tractor,1323
+Barbarigo,tractor,1323
+Barbarigo,tractor,1323
+Barbarigo,tractor,1325
+Barbarigo,tractor,1327
+Barbarigo,tractor,1329
+Barbarigo,tractor,1331
+Barbarigo,tractor,1338
+Barbarigo,tractor,1340
+Barbarigo,tractor,1342
+Lando,stan,1310
+Groscalco,stan,1253
+Bianco,tractor,1212
+Agadi,stan,1199
+Agadi,stan,1212
+Agadi,stan,1212
+Agadi,stan,1226
+Agadi,stan,1234
+Badoer,stan,1202
+Badoer,stan,1224
+Badoer,stan,1224
+Badoer,tractor,1225
+Badoer,stan,1225
+Badoer,stan,1253
+Badoer,stan,1253
+Badoer,tractor,1316
+Badoer,tractor,1316
+Badoer,tractor,1316
+Badoer,tractor,1316
+Badoer,stan,1319
+Badoer,stan,1321
+Badoer,tractor,1322
+Badoer,stan,1322
+Badoer,stan,1323
+d'Albiola,tractor,1189
+Addoldo,stan,1130
+Biondo,tractor,1312
+Biondo,tractor,1312
+"Da Molin",tractor,1118
+"Da Molin",tractor,1130
+"Da Molin",tractor,1154
+"Da Molin",tractor,1170
+"Da Molin",tractor,1184
+"Da Molin",stan,1184
+"Da Molin",tractor,1189
+"Da Molin",stan,1189
+"Da Molin",stan,1207
+"Da Molin",tractor,1247
+"Da Molin",stan,1247
+"Da Molin",stan,1323
+"Da Molin",tractor,1323
+"Da Molin",tractor,1331
+"Da Molin",tractor,1333
+"Da Molin",tractor,1338
+"Da Molin",stan,1338
+Savoner,stan,1243
+Vitaliano,tractor,1217
+"De Laurentio",stan,1326
+Marzolo,stan,1207
+Marzolo,stan,1207
+Marzolo,stan,1208
+Marzolo,stan,1209
+Marzolo,stan,1210
+Marzolo,stan,1212
+Coppo,stan,1188
+Coppo,tractor,1226
+Rozeri,stan,1312
+Faccio,tractor,1197
+Faccio,tractor,1214
+Faccio,tractor,1214
+Marcello,stan,1189
+Marcello,stan,1191
+Marcello,stan,1232
+Marcello,stan,1312
 Morosini,tractor,1083
 Morosini,stan,1083
 Morosini,stan,1130
@@ -153,37 +533,208 @@ Morosini,stan,1331
 Morosini,stan,1338
 Morosini,stan,1340
 Morosini,stan,1342
-Dauro,stan,1205
-Venier,tractor,1161
-Venier,stan,1170
-Venier,stan,1205
-Venier,stan,1222
-Venier,tractor,1233
-Venier,tractor,1239
-Venier,stan,1239
-Venier,tractor,1239
-Venier,stan,1242
-Venier,tractor,1249
-Venier,tractor,1251
-Venier,tractor,1258
-Venier,tractor,1261
-Venier,tractor,1312
+Spoletino,tractor,1244
+Zopolo,tractor,1311
+Dandolo,stan,1161
+Dandolo,stan,1234
+Dandolo,stan,1316
+Dandolo,stan,1316
+Marano,tractor,1154
+Marano,tractor,1155
+Marano,tractor,1156
+Marano,tractor,1159
+Marano,tractor,1161
+Marano,stan,1167
+Marano,stan,1167
+Marano,tractor,1192
+"Bocca d'Uomo",tractor,1205
+Mocenigo,stan,1205
+Mocenigo,stan,1207
+"de Galletto",stan,1246
+Semitecolo,stan,1182
+Semitecolo,stan,1190
+Semitecolo,stan,1205
+Semitecolo,stan,1206
+Semitecolo,tractor,1254
+Semitecolo,stan,1319
+"de Ranerio",stan,1234
+Donato,stan,1191
+Donato,stan,1220
+Donato,stan,1239
+Donato,stan,1239
+Donato,stan,1313
+Moro,tractor,1121
+Moro,stan,1323
+Moro,stan,1323
+Foscarini,tractor,1323
+Foscarini,stan,1328
+Ziani,stan,1190
+Ziani,stan,1201
+Ziani,stan,1208
+Ziani,stan,1209
+Ziani,stan,1209
+Ziani,stan,1223
+Falier,tractor,1130
+Falier,tractor,1167
+Falier,tractor,1191
+Falier,tractor,1191
+Falier,tractor,1231
+Falier,tractor,1231
+Falier,tractor,1231
+Falier,tractor,1235
+Falier,stan,1252
+Boccazo,stan,1189
+Boccazo,stan,1202
+Boccazo,stan,1214
+Boccazo,stan,1234
+Boccazo,stan,1234
+Zordani,stan,1326
+Zordani,stan,1328
+Zordani,stan,1329
+Messeta,stan,1256
+"da Ferraguto",tractor,1206
+"da Ferraguto",tractor,1206
+Marioni,stan,1235
+Marioni,stan,1235
+Marioni,stan,1236
+Marioni,stan,1238
+Marioni,stan,1239
+Marioni,stan,1239
+Marioni,stan,1242
+Marioni,stan,1252
+Marioni,stan,1253
+Marioni,stan,1257
+Barberius,stan,1312
+"di Burges",tractor,1253
+Giacobbe,tractor,1167
+Anastasio,tractor,1198
+Tebaldo,stan,1209
+Mosto,stan,1247
+Bendolo,tractor,1246
+Ruzier,tractor,1243
+Mussolino,tractor,1322
+D'Avanzago,tractor,1200
+"dei Boccoli",stan,1320
+Batello,tractor,1241
+Avenanzo,stan,1210
+Fel,tractor,1233
+Fel,stan,1233
+Zeno,stan,1313
+Zeno,stan,1323
+Mastroscoli,tractor,1088
+Mastroscoli,tractor,1089
+Zorzi,stan,1197
+Zorzi,stan,1218
+Zorzi,stan,1223
+Zorzi,stan,1310
+Arduini,stan,1198
+Arduini,stan,1199
+Arduini,stan,1204
+Grasso,stan,1226
+Contarini,tractor,1138
+Contarini,stan,1167
+Contarini,stan,1231
+Contarini,stan,1234
+Contarini,tractor,1310
+Contarini,tractor,1310
+Contarini,stan,1320
+Contarini,stan,1322
+Contarini,stan,1323
+Dolce,stan,1225
+Zane,stan,1206
+Ghisi,stan,1252
+Ghisi,tractor,1253
+Ghisi,stan,1316
+Ghisi,stan,1316
+Romani,tractor,1212
+Romani,tractor,1232
+Sceda,tractor,1312
+Baseggio,tractor,1192
+Baseggio,stan,1217
+Baseggio,stan,1321
+Lion,stan,1313
+Lion,stan,1326
+Calbo,tractor,1153
+Calbo,tractor,1235
+Mozo,tractor,1323
+Rustico,stan,1159
+Orio,tractor,1231
+Orio,tractor,1323
+Orio,tractor,1323
+Fiorentino,stan,1206
+Bonaldi,tractor,1153
+Civran,stan,1234
+Benedetti,tractor,1312
+Benedetti,stan,1313
+"di Fioravante",tractor,1313
+Pasqualigo,tractor,1170
+Muazzo,stan,1221
+Muazzo,stan,1221
+Muazzo,stan,1239
+Squaglia,tractor,1255
+Caravello,stan,1239
+Caravello,stan,1239
+Caravello,stan,1319
+Caravello,stan,1321
+Caravello,stan,1323
+"da Tumba",stan,1234
+Belli,tractor,1242
+Belli,tractor,1242
+Belli,tractor,1244
+Belli,tractor,1252
+Querini,stan,1155
+Querini,stan,1231
+Querini,tractor,1326
+Brizi,stan,1323
+Brizi,stan,1325
+Brizi,stan,1331
+Brizi,stan,1333
+Zantani,tractor,1220
+Zantani,stan,1251
+Marzulo,stan,1204
+Marzulo,stan,1205
+Gramentuni,stan,1220
+Tomato,stan,1231
+Tomato,stan,1231
+Barozzi,stan,1228
+Vidal,tractor,1165
+Vidal,tractor,1165
+Vidal,tractor,1183
+Bonizzo,stan,1234
+"de Rodanis da Cremona",stan,1312
+Staniario,tractor,1199
+Staniario,tractor,1200
+Staniario,tractor,1206
+Staniario,stan,1206
+Staniario,stan,1206
+Staniario,tractor,1210
+Staniario,tractor,1239
+Bon,tractor,1172
+Bon,tractor,1221
+Bon,tractor,1221
+Bon,stan,1234
+Bon,stan,1234
+Mangoni,stan,1239
+Morono,stan,1313
+Longo,stan,1207
+Longo,tractor,1212
+Longo,tractor,1227
+Longo,tractor,1228
+Longo,tractor,1228
+Longo,tractor,1236
+Villano,stan,1220
+Encio,stan,1209
+"Dalla Scala",stan,1324
+"Dalla Scala",stan,1324
+"Dalla Scala",stan,1329
+Tonisti,tractor,1191
+Minio,tractor,1228
+Minio,tractor,1230
+Minio,stan,1242
 "da Mantova",stan,1222
-Michiel,stan,1105
-Michiel,tractor,1131
-Michiel,stan,1191
-Michiel,stan,1192
-Michiel,tractor,1224
-Michiel,tractor,1234
-Michiel,stan,1260
-Michiel,stan,1260
-Michiel,stan,1261
-Michiel,stan,1261
-Michiel,stan,1312
-Michiel,stan,1316
-Michiel,stan,1323
-Michiel,tractor,1323
-Michiel,stan,1323
+Tolonegi,stan,1190
+Foscolo,tractor,1242
+Foscolo,stan,1323
 Gradenigo,tractor,1205
 Gradenigo,tractor,1207
 Gradenigo,tractor,1207
@@ -225,581 +776,30 @@ Gradenigo,stan,1225
 Gradenigo,stan,1255
 Gradenigo,stan,1323
 Gradenigo,stan,1323
-"de Rodanis da Cremona",stan,1312
-Giustinian,stan,1138
-Giustinian,stan,1191
-Giustinian,stan,1243
-Giustinian,stan,1244
-Giustinian,stan,1246
-Giustinian,stan,1313
-Giustinian,stan,1313
-Giustinian,stan,1316
-Giustinian,stan,1319
-Giustinian,stan,1325
-Giustinian,stan,1326
-Giustinian,stan,1327
-Giustinian,stan,1328
-Giustinian,stan,1329
-Giustinian,stan,1331
-Giustinian,stan,1333
-Cavalerio,stan,1207
-"di Federico",stan,1323
-"da Trau",stan,1322
-Seio,stan,1239
-Seio,stan,1239
-Seio,stan,1239
-Belegno,stan,1232
-Belegno,tractor,1314
-Belegno,tractor,1316
-Premarin,stan,1224
-Premarin,stan,1239
-Spatario,stan,1250
-Spatario,stan,1250
-"dei Boccoli",stan,1320
-Pergaminer,tractor,1242
-"da Ferraguto",tractor,1206
-"da Ferraguto",tractor,1206
-"de Albrigeto",tractor,1235
-"de Albrigeto",tractor,1235
-Ziani,stan,1190
-Ziani,stan,1201
-Ziani,stan,1208
-Ziani,stan,1209
-Ziani,stan,1209
-Ziani,stan,1223
-Bollani,stan,1324
 Marangon,tractor,1260
-Mussolino,tractor,1322
-Emo,tractor,1205
-Emo,tractor,1208
-Emo,tractor,1208
-Emo,tractor,1218
-Emo,tractor,1220
-Emo,tractor,1224
-Emo,tractor,1224
-Emo,tractor,1225
-Emo,tractor,1226
-Emo,tractor,1226
-Emo,tractor,1232
-Emo,tractor,1253
-Emo,tractor,1253
-Emo,tractor,1253
-Emo,tractor,1253
-Vitturi,tractor,1240
-"da Tumba",stan,1234
-Francesco,tractor,1251
-Zordani,stan,1326
-Zordani,stan,1328
-Zordani,stan,1329
-Bonoto,tractor,1312
-"di Albiola",tractor,1200
-Alberto,stan,1234
-Alberto,stan,1234
-Alberto,tractor,1311
-Alberto,tractor,1313
-Squaglia,tractor,1255
-Nani,stan,1238
-Nani,stan,1238
-Barbarigo,stan,1200
-Barbarigo,tractor,1319
-Barbarigo,tractor,1319
-Barbarigo,tractor,1319
-Barbarigo,tractor,1321
-Barbarigo,tractor,1321
-Barbarigo,tractor,1321
-Barbarigo,tractor,1323
-Barbarigo,tractor,1323
-Barbarigo,tractor,1323
-Barbarigo,tractor,1325
-Barbarigo,tractor,1327
-Barbarigo,tractor,1329
-Barbarigo,tractor,1331
-Barbarigo,tractor,1338
-Barbarigo,tractor,1340
-Barbarigo,tractor,1342
-Ragusio,tractor,1238
-Caravello,stan,1239
-Caravello,stan,1239
-Caravello,stan,1319
-Caravello,stan,1321
-Caravello,stan,1323
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Giacomo,tractor,1239
-Zulian,tractor,1167
-Zulian,tractor,1324
-Zulian,tractor,1324
-Nadal,stan,1192
-Nadal,stan,1205
-Zusto,stan,1234
-Zusto,stan,1234
-"Bocca d'Uomo",tractor,1205
-Soranzo,stan,1208
-Soranzo,stan,1213
-Soranzo,stan,1213
-Soranzo,tractor,1231
-Soranzo,tractor,1231
-Soranzo,tractor,1231
-Soranzo,tractor,1257
-Soranzo,stan,1313
-Soranzo,stan,1316
-Soranzo,stan,1316
-Soranzo,stan,1316
-Soranzo,stan,1316
-Soranzo,tractor,1328
-Lion,stan,1313
-Lion,stan,1326
-Bendolo,tractor,1246
+Centosoldi,stan,1183
+"de Manzolo",tractor,1220
+"de Manzolo",tractor,1222
+"de Stolla",stan,1312
+"de Stolla",stan,1316
+Rosso,stan,1234
+Rosso,stan,1234
+Rosso,tractor,1256
+Copula,stan,1165
+Copula,stan,1165
+Lombardo,tractor,1238
 Sagredo,tractor,1320
 Sagredo,tractor,1320
-Katarino,tractor,1255
-Navigroso,stan,1120
-Navigroso,stan,1156
-Navigroso,stan,1223
-Mastroscoli,tractor,1088
-Mastroscoli,tractor,1089
-"de Iema",tractor,1312
-Vitaliano,tractor,1217
-Faccio,tractor,1197
-Faccio,tractor,1214
-Faccio,tractor,1214
-"Da Fano",tractor,1206
-Lanfranchi,tractor,1247
-Barozzi,stan,1228
-Pentulo,tractor,1252
-Pentulo,stan,1252
-Rustico,stan,1159
-"di donna Maria",stan,1248
-Mercadante,stan,1242
-Mercadante,stan,1243
-Mercadante,stan,1243
-Mercadante,stan,1244
-Mercadante,stan,1244
-Mercadante,stan,1248
-Mercadante,stan,1257
-Mercadante,stan,1257
-Mercadante,stan,1258
-Duracino,tractor,1310
-Bembo,stan,1131
-Bembo,stan,1213
-Bembo,stan,1217
-Bembo,stan,1218
-Bembo,tractor,1239
-Marzolo,stan,1207
-Marzolo,stan,1207
-Marzolo,stan,1208
-Marzolo,stan,1209
-Marzolo,stan,1210
-Marzolo,stan,1212
-Marin,stan,1230
-Marin,stan,1230
-Marin,tractor,1234
-Marin,tractor,1257
-Marin,stan,1323
-"Dalla Fontana",stan,1239
-"Dalla Fontana",stan,1243
-"Dalla Fontana",stan,1315
-Barbani,stan,1200
-"de Ranerio",stan,1234
-"Dalle Sevole",stan,1327
-"Dalle Sevole",stan,1329
-"Dalle Sevole",stan,1331
-"Dalle Sevole",stan,1333
-Tiepolo,tractor,1182
-Tiepolo,stan,1182
-Tiepolo,tractor,1189
-Tiepolo,tractor,1190
-Tiepolo,tractor,1190
-Tiepolo,tractor,1190
-Tiepolo,stan,1190
-Tiepolo,tractor,1195
-Tiepolo,tractor,1252
-Tiepolo,tractor,1321
-Tiepolo,stan,1321
-Tiepolo,tractor,1321
-Tiepolo,tractor,1322
-Tiepolo,tractor,1322
-Tiepolo,stan,1322
-Tiepolo,tractor,1323
-Lando,stan,1310
-Banzon,tractor,1322
-Tolonegi,stan,1190
 Arimondo,stan,1198
 Arimondo,stan,1319
 Arimondo,stan,1319
 Arimondo,stan,1320
 Arimondo,stan,1320
 Arimondo,stan,1320
-Villano,stan,1220
-Bozolino,tractor,1206
-Barastro,stan,1242
-Barastro,stan,1242
-Barastro,tractor,1248
-Barastro,stan,1256
-Mastrorso,stan,1231
-"Da Mula",tractor,1185
-"Da Mula",stan,1185
-"Da Mula",stan,1198
-"Da Mula",stan,1201
-Marzulo,stan,1204
-Marzulo,stan,1205
-"Da Molin",tractor,1118
-"Da Molin",tractor,1130
-"Da Molin",tractor,1154
-"Da Molin",tractor,1170
-"Da Molin",tractor,1184
-"Da Molin",stan,1184
-"Da Molin",tractor,1189
-"Da Molin",stan,1189
-"Da Molin",stan,1207
-"Da Molin",tractor,1247
-"Da Molin",stan,1247
-"Da Molin",stan,1323
-"Da Molin",tractor,1323
-"Da Molin",tractor,1331
-"Da Molin",tractor,1333
-"Da Molin",tractor,1338
-"Da Molin",stan,1338
-Muazzo,stan,1221
-Muazzo,stan,1221
-Muazzo,stan,1239
-Boldu,tractor,1319
-Spoletino,tractor,1244
-Fiorentino,stan,1206
-Tomato,stan,1231
-Tomato,stan,1231
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-"de Suligo",tractor,1234
-Bon,tractor,1172
-Bon,tractor,1221
-Bon,tractor,1221
-Bon,stan,1234
-Bon,stan,1234
-Curtolo,tractor,1205
-Curtolo,stan,1206
-Curtolo,stan,1207
-"de Galletto",stan,1246
-Boccazo,stan,1189
-Boccazo,stan,1202
-Boccazo,stan,1214
-Boccazo,stan,1234
-Boccazo,stan,1234
-Albino,stan,1239
-Albino,stan,1239
-Barberius,stan,1312
-Groscalco,stan,1253
-Bianco,tractor,1212
-Zane,stan,1206
-Falier,tractor,1130
-Falier,tractor,1167
-Falier,tractor,1191
-Falier,tractor,1191
-Falier,tractor,1231
-Falier,tractor,1231
-Falier,tractor,1231
-Falier,tractor,1235
-Falier,stan,1252
-Corner,tractor,1156
-Corner,tractor,1159
-Corner,stan,1159
-Corner,stan,1159
-Corner,tractor,1182
-Corner,tractor,1190
-Corner,tractor,1191
-Corner,stan,1202
-Corner,tractor,1205
-Corner,stan,1205
-Corner,tractor,1206
-Corner,tractor,1207
-Corner,stan,1207
-Corner,tractor,1207
-Corner,tractor,1209
-Corner,tractor,1210
-Corner,tractor,1210
-Corner,tractor,1217
-Corner,stan,1320
-Navager,stan,1244
-Manguni,stan,1239
-Casolo,stan,1208
-Baseggio,tractor,1192
-Baseggio,stan,1217
-Baseggio,stan,1321
-"da Vicenza",tractor,1236
 Miani,tractor,1242
 Miani,tractor,1243
 Miani,tractor,1244
 Miani,tractor,1244
 Miani,tractor,1323
 Miani,tractor,1323
-Morono,stan,1313
-Donato,stan,1191
-Donato,stan,1220
-Donato,stan,1239
-Donato,stan,1239
-Donato,stan,1313
-Grimani,stan,1232
-Grimani,stan,1232
-Roberto,stan,1254
-Sceda,tractor,1312
-Zopolo,tractor,1311
-Malipiero,tractor,1319
-Malipiero,tractor,1319
-Malipiero,tractor,1319
-Malipiero,tractor,1320
-Malipiero,tractor,1320
-Tebaldo,stan,1209
-Acotanto,tractor,1234
-Acotanto,tractor,1234
-Straccivendolo,tractor,1326
-Copula,stan,1165
-Copula,stan,1165
-d'Ancontano,tractor,1313
-d'Ancontano,tractor,1313
-Benedetti,tractor,1312
-Benedetti,stan,1313
-Flabiano,tractor,1319
-Arduini,stan,1198
-Arduini,stan,1199
-Arduini,stan,1204
-Badoer,stan,1202
-Badoer,stan,1224
-Badoer,stan,1224
-Badoer,tractor,1225
-Badoer,stan,1225
-Badoer,stan,1253
-Badoer,stan,1253
-Badoer,tractor,1316
-Badoer,tractor,1316
-Badoer,tractor,1316
-Badoer,tractor,1316
-Badoer,stan,1319
-Badoer,stan,1321
-Badoer,tractor,1322
-Badoer,stan,1322
-Badoer,stan,1323
-Fradello,tractor,1222
-Fradello,stan,1234
-Gramentuni,stan,1220
-Romani,tractor,1212
-Romani,tractor,1232
-Balestrieri,stan,1250
-Grasso,stan,1226
-Centosoldi,stan,1183
-Orefice,stan,1073
-Scutario,stan,1260
-Bosio,stan,1210
-Bosio,stan,1210
-Bosio,stan,1217
-Lombardo,tractor,1238
-Marano,tractor,1154
-Marano,tractor,1155
-Marano,tractor,1156
-Marano,tractor,1159
-Marano,tractor,1161
-Marano,stan,1167
-Marano,stan,1167
-Marano,tractor,1192
-Addoldo,stan,1130
-Abriano,stan,1212
-Businago,stan,1253
-Businago,tractor,1254
-Contarini,tractor,1138
-Contarini,stan,1167
-Contarini,stan,1231
-Contarini,stan,1234
-Contarini,tractor,1310
-Contarini,tractor,1310
-Contarini,stan,1320
-Contarini,stan,1322
-Contarini,stan,1323
-Rachovich,tractor,1312
-"di Troia",stan,1254
-Barbetta,stan,1314
-Barbetta,stan,1316
-Ruzier,tractor,1243
-Grego,stan,1153
-Grego,stan,1248
-Pigozo,tractor,1250
-Pigozo,tractor,1250
-Pigozo,tractor,1250
-Urso,tractor,1138
-Urso,stan,1138
-Pesaro,stan,1312
-Bonaldi,tractor,1153
-Mazaman,stan,1156
-Coppo,stan,1188
-Coppo,tractor,1226
-Simitecolo,tractor,1224
-Storladi,stan,1088
-Storladi,stan,1089
-Mosto,stan,1247
-D'Equilo,tractor,1225
-Centocori,stan,1154
-Fel,tractor,1233
-Fel,stan,1233
-Gussoni,stan,1154
-Gussoni,tractor,1260
-Gussoni,tractor,1260
-Signolo,tractor,1188
-Signolo,tractor,1188
-Gritti,tractor,1211
-Gritti,stan,1211
-Nicola,stan,1249
-Nicola,stan,1253
-Veglia,stan,1234
-Veglia,tractor,1248
-Marcello,stan,1189
-Marcello,stan,1191
-Marcello,stan,1232
-Marcello,stan,1312
-Malaza,stan,1161
-Ghisi,stan,1252
-Ghisi,tractor,1253
-Ghisi,stan,1316
-Ghisi,stan,1316
-Capello,stan,1235
-Cazzamonti,stan,1319
-"de Protis",tractor,1323
-"de Protis",tractor,1323
-"de Protis",tractor,1323
-"de Protis",tractor,1323
-"de Protis",stan,1323
-Mozo,tractor,1323
-Avenanzo,stan,1210
-Mocenigo,stan,1205
-Mocenigo,stan,1207
-Mangoni,stan,1239
-Marioni,stan,1235
-Marioni,stan,1235
-Marioni,stan,1236
-Marioni,stan,1238
-Marioni,stan,1239
-Marioni,stan,1239
-Marioni,stan,1242
-Marioni,stan,1252
-Marioni,stan,1253
-Marioni,stan,1257
-Babilonio,stan,1333
-Savoner,stan,1243
-Valaresso,stan,1226
-"de Stolla",stan,1312
-"de Stolla",stan,1316
-Belli,tractor,1242
-Belli,tractor,1242
-Belli,tractor,1244
-Belli,tractor,1252
-Baro,tractor,1105
-"di Guazo",stan,1205
-Pagan,tractor,1255
-Pagan,tractor,1255
-Villari,stan,1208
-Foscolo,tractor,1242
-Foscolo,stan,1323
-Loredan,tractor,1333
-Bilongo,tractor,1120
-Anastasio,tractor,1198
-Canal,stan,1195
-Canal,stan,1212
-Canal,tractor,1223
-Canal,stan,1242
-Canal,stan,1260
-Canal,stan,1312
-Ardizon,stan,1121
-"di Bruges",tractor,1239
-Semitecolo,stan,1182
-Semitecolo,stan,1190
-Semitecolo,stan,1205
-Semitecolo,stan,1206
-Semitecolo,tractor,1254
-Semitecolo,stan,1319
-Veronese,stan,1240
-"di Loreo",stan,1207
-Zantani,tractor,1220
-Zantani,stan,1251
-Zeno,stan,1313
-Zeno,stan,1323
-"di Artico",stan,1326
-Biondo,tractor,1312
-Biondo,tractor,1312
-Viaro,tractor,1197
-Viaro,tractor,1198
-Viaro,tractor,1198
-Viaro,tractor,1198
-Viaro,tractor,1199
-Viaro,tractor,1201
-Viaro,tractor,1201
-Viaro,tractor,1202
-Viaro,tractor,1202
-Viaro,tractor,1202
-Viaro,tractor,1204
-Viaro,tractor,1204
-Viaro,tractor,1205
-Viaro,tractor,1205
-Viaro,tractor,1205
-Viaro,tractor,1207
-Viaro,stan,1207
-Viaro,tractor,1209
-Viaro,tractor,1209
-Viaro,tractor,1212
-Viaro,stan,1255
-Viaro,stan,1255
-Viaro,tractor,1313
-Viaro,tractor,1313
-Viaro,tractor,1313
-Viaro,tractor,1313
-Viaro,tractor,1313
-Viaro,tractor,1313
-Viaro,tractor,1313
-"Dalla Scala",stan,1324
-"Dalla Scala",stan,1324
-"Dalla Scala",stan,1329
-Manolesso,stan,1159
-Giacobbe,tractor,1167
-Encio,stan,1209
-"di Burges",tractor,1253
-Foscarini,tractor,1323
-Foscarini,stan,1328
-D'Avanzago,tractor,1200
-Sanudo,tractor,1316
-Sanudo,stan,1316
-Sanudo,tractor,1316
-Sanudo,tractor,1316
-Sanudo,tractor,1316
-Sanudo,tractor,1316
-Sanudo,stan,1316
-Sanudo,tractor,1316
-Sanudo,tractor,1316
-Martinazo,tractor,1320
-Iantani,stan,1228
-Iantani,stan,1235
-Dolce,stan,1225
-Dolfin,stan,1244
-Moro,tractor,1121
-Moro,stan,1323
-Moro,stan,1323
-Pizolo,tractor,1228
-"de Manzolo",tractor,1220
-"de Manzolo",tractor,1222
-Grioni,stan,1118
-Grioni,tractor,1325
+Simone,tractor,1207

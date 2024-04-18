@@ -18,6 +18,7 @@ for @rows[0..*] -> %row {
     my @families = [];
     my $tractor-families = Set();
     my $stan-families = Set();
+    next if %row<tractor_familyname_italian> eq "";
     for <tractor_familyname tractor_2_familyname stans_familyname stans_2_familyname> -> $key {
         my Str $std-name = "";
         if (%row{$key ~ "_std"}) {
