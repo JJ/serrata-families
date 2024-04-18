@@ -12,8 +12,12 @@ my %stans;
 my %tractors;
 my $gc-families = Set.new();
 my %years-contracts;
+my @self-loops;
+@self-loops.push: ["Families", "Year"];
 for @rows[0..*] -> %row {
     my @families = [];
+    my $tractor-families = Set();
+    my $stan-families = Set();
     for <tractor_familyname tractor_2_familyname stans_familyname stans_2_familyname> -> $key {
         my Str $std-name = "";
         if (%row{$key ~ "_std"}) {
@@ -30,6 +34,7 @@ for @rows[0..*] -> %row {
             @families.push: $std-name;
 
             if $key ~~ /tractor/ {
+                $tractor-families ∪= $std-name;
                 if ( %tractors{$std-name} < %row<year> ) {
                     %tractors{$std-name} = %row<year>;
                 }
@@ -38,9 +43,10 @@ for @rows[0..*] -> %row {
                     %years-contracts{$std-name} = [];
                 }
                 %years-contracts{$std-name}.push: ["tractor", %row<year>];
-
             }
+
             if $key ~~ /stans/ {
+                $stan-families ∪= $std-name;
                 if ( %stans{$std-name} < %row<year> ) {
                     %stans{$std-name} = %row<year>;
                 }
@@ -52,6 +58,12 @@ for @rows[0..*] -> %row {
 
             }
         }
+    }
+
+    if $tractor-families ∩ $stan-families != ∅ {
+        say %row;
+        say $tractor-families ∩ $stan-families;
+        @self-loops.push: [ $tractor-families ∩ $stan-families, %row<year> ];
     }
     @families = @families.grep: * ne "unknown";
     @all-families.push: @families;
@@ -68,6 +80,7 @@ spurt( "data-raw/colleganza-tractors.json", to-json %tractors);
 spurt( "data-raw/colleganza-stans.json", to-json %stans);
 spurt( "data-raw/colleganza-type-contract.json", to-json %years-contracts);
 csv( out=> "data-raw/colleganza-pairs-date.csv", in => @all-pairs);
+csv( out=> "data-raw/self-loop-families-colleganza.csv", in => @self-loops);
 
 my @contracts-family-year = [];
 @contracts-family-year.push: ["Family","Contract Type", "Year"];
