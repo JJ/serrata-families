@@ -1,6 +1,7 @@
 require(igraph)
 require(dupNodes)
 require(serrata.families)
+require(ggplot2)
 
 load("../data/colleganza.graph.rda")
 V(colleganza.graph)$betweenness <- betweenness(colleganza.graph)
@@ -32,8 +33,6 @@ V(pre.serrata)$betweenness <- betweenness(pre.serrata)
 V(pre.serrata)$color <- "yellow"
 V(pre.serrata)[V(pre.serrata)$name %in% great.council.families]$color <- rgb(0.7,0,0,0.5)
 plot(pre.serrata, vertex.size=V(pre.serrata)$betweenness/200, vertex.color=V(pre.serrata)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph, pre-serrata")
-
-
 
 pre.serrata.components <- igraph::components(pre.serrata, mode="weak")
 pre.serrata.biggest_cluster_id <- which.max(pre.serrata.components$csize)
@@ -74,3 +73,12 @@ plot(pre.serrata, vertex.size=V(pre.serrata)$betweenness/200, vertex.color=V(pre
 # Compute average betweenness for every type of node
 V(pre.serrata)$type <- factor(V(pre.serrata)$type)
 betweenness.type <- tapply(V(pre.serrata)$betweenness, V(pre.serrata)$type, mean)
+
+V(pre.serrata)$DNSLbetweenness <- DNSLbetweenness_for_graph(pre.serrata)
+DNSLbetweenness.type <- tapply(V(pre.serrata)$DNSLbetweenness, V(pre.serrata)$type, mean)
+
+DNSLbetweenness.type.df <- data.frame(DNSLbetweenness=V(pre.serrata)$DNSLbetweenness, type=V(pre.serrata)$type)
+
+ggplot(DNSLbetweenness.type.df, aes(x=DNSLbetweenness, fill=type)) + geom_density(alpha=0.5) + ggtitle("DNSL betweenness by type")
+
+ggplot(DNSLbetweenness.type.df, aes(x=DNSLbetweenness, fill=type)) + geom_histogram(position="dodge") + ggtitle("DNSL betweenness by type")
