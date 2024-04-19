@@ -82,3 +82,5 @@ DNSLbetweenness.type.df <- data.frame(DNSLbetweenness=V(pre.serrata)$DNSLbetween
 ggplot(DNSLbetweenness.type.df, aes(x=DNSLbetweenness, fill=type)) + geom_density(alpha=0.5) + ggtitle("DNSL betweenness by type")
 
 ggplot(DNSLbetweenness.type.df, aes(x=DNSLbetweenness, fill=type)) + geom_histogram(position="dodge") + ggtitle("DNSL betweenness by type")
+
+ggplot(DNSLbetweenness.type.df, aes(x=type, fill=type, y=DNSLbetweenness)) + geom_violin() + ggtitle("DNSL betweenness by type")
