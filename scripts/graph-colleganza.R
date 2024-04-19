@@ -55,3 +55,20 @@ V(post.serrata)$color <- "yellow"
 V(post.serrata)[V(post.serrata)$name %in% great.council.families]$color <- rgb(0.7,0,0,0.5)
 plot(post.serrata, vertex.size=V(post.serrata)$betweenness/200, vertex.color=V(post.serrata)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph, post-serrata")
 
+load("../data/colleganza.family.types.rda")
+
+for ( family in V(pre.serrata)$name ) {
+  if ( family %in% colleganza.family.types$family ) {
+    V(pre.serrata)[family]$type <- colleganza.family.types[colleganza.family.types$family == family,]$type
+  } else {
+    V(pre.serrata)[V(pre.serrata)$name == family]$type <- "Unknown"
+  }
+}
+
+# map types to shapes
+
+V(pre.serrata)$shape <- "circle"
+V(pre.serrata)[V(pre.serrata)$type == "both"]$shape <- "square"
+V(pre.serrata)[V(pre.serrata)$type == "tractor"]$shape <- "csquare"
+
+plot(pre.serrata, vertex.size=V(pre.serrata)$betweenness/200, vertex.color=V(pre.serrata)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph, pre-serrata",vertex.shapes=V(pre.serrata)$shape)
