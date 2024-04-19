@@ -65,10 +65,12 @@ for ( family in V(pre.serrata)$name ) {
   }
 }
 
-# map types to shapes
-
 V(pre.serrata)$shape <- "circle"
 V(pre.serrata)[V(pre.serrata)$type == "both"]$shape <- "square"
 V(pre.serrata)[V(pre.serrata)$type == "tractor"]$shape <- "csquare"
 
 plot(pre.serrata, vertex.size=V(pre.serrata)$betweenness/200, vertex.color=V(pre.serrata)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph, pre-serrata",vertex.shapes=V(pre.serrata)$shape)
+
+# Compute average betweenness for every type of node
+V(pre.serrata)$type <- factor(V(pre.serrata)$type)
+betweenness.type <- tapply(V(pre.serrata)$betweenness, V(pre.serrata)$type, mean)
