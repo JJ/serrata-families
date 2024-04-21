@@ -21,3 +21,15 @@ Create social networks with slices from the colleganza Dataset
 \references{
 \insertAllCited{}
 }
+
+\examples{
+library(serrata.families)
+library(igraph)
+# There is a gap between 1261 and 1310
+contracts.pre.1261 <- colleganza.slice(to=1261)
+plot(contracts.pre.1261)
+
+# The serrata took place between 1295 and 1330, but the dataset goes until 1342
+contracts.post.1310 <- colleganza.slice(from=1310)
+plot(contracts.post.1310)
+}
