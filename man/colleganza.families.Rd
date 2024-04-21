@@ -16,6 +16,6 @@ A list with the names of the families, in its Italian or standard form (in the c
 library(serrata.families)
 data("colleganza.families")
 
-# How many families were there
+# How many families were there?
 print(length(colleganza.families))
 }

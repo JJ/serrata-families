@@ -23,5 +23,4 @@ data("all.great.council.families.date")
 # A summary of dates of contracts
 summary(all.great.council.families.date$Start)
 
-
 }
