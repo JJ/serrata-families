@@ -24,5 +24,5 @@ use_data(great.council.families.date, overwrite=T)
 all.great.council.families.date <- great.council.families.dates
 use_data(all.great.council.families.date, overwrite=T)
 
-colleganza.family.types <- read.csv("../data-raw/colleganza-family-types.csv",header=T)
+colleganza.family.types <- read.csv("../data-raw/colleganza-family-types.csv",header=T,sep=";")
 use_data(colleganza.family.types, overwrite=T)
