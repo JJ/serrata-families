@@ -18,3 +18,17 @@ say $only-stans;
 my $only-tractors = %tractors.keys() ⊖ $both;
 
 say $only-tractors;
+
+my @family-type= [];
+@family-type.push: ["Family","Type"];
+for $both.keys() -> $family {
+    if ( $family ∈  $only-stans ) {
+        @family-type.push: [$family, "Stans"];
+    } elsif ( $family ∈  $only-tractors ) {
+        @family-type.push: [$family, "Tractor" ];
+    } else {
+        @family-type.push: [$family, "Both" ];
+    }
+}
+
+spurt("data-raw/colleganza-family-types.csv", @family-type.map( *.join(";")).join("\n"));
