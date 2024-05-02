@@ -5,6 +5,7 @@ use JSON::Fast;
 my %tractors = from-json slurp( "data-raw/colleganza-tractors.json");
 my %stans = from-json slurp( "data-raw/colleganza-stans.json");
 
+my $all = %tractors.keys() ∪ %stans.keys();
 my $both = %tractors.keys() ∩ %stans.keys();
 
 for $both.keys -> $family {
@@ -21,7 +22,7 @@ say $only-tractors;
 
 my @family-type= [];
 @family-type.push: ["Family","Type"];
-for $both.keys() -> $family {
+for $all.keys -> $family {
     if ( $family ∈  $only-stans ) {
         @family-type.push: [$family, "Stans"];
     } elsif ( $family ∈  $only-tractors ) {
