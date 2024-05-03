@@ -85,21 +85,41 @@ my @contracts-family-year = [];
 @contracts-family-year.push: ["Family","Contract Type", "Year"];
 my @contracts-changes = [];
 @contracts-changes.push: ["Family","First","Last","Flips","Percentage"];
+my @contracts-changes-pre = [];
+@contracts-changes-pre.push: ["Family","First","Last","Flips","Percentage"];
+my @contracts-changes-post = [];
+@contracts-changes-post.push: ["Family","First","Last","Flips","Percentage"];
 for %years-contracts.keys -> $family {
     my @contracts = %years-contracts{$family}.sort: *[1];
     for @contracts -> @contract {
         @contracts-family-year.push: [ $family, |@contract ];
     }
 
+    @contracts-changes.push: flips( $family, @contracts );
+    if @contracts.grep: *[1] < 1300 {
+        @contracts-changes-pre.push:
+                flips($family, @contracts.grep: *[1] < 1300);
+    }
+    if @contracts.grep: *[1] > 1300 {
+        @contracts-changes-post.push:
+                flips($family, @contracts.grep: *[1] > 1300);
+    }
+}
+
+csv( out => "data-raw/contract-family-year.csv", in=> @contracts-family-year);
+csv( out => "data-raw/contract-family-flips.csv", in=> @contracts-changes);
+csv( out => "data-raw/contract-family-flips-pre.csv",
+        in=> @contracts-changes-pre);
+csv( out => "data-raw/contract-family-flips-post.csv",
+        in=> @contracts-changes-post);
+
+sub flips( $family, @contracts ) returns Array {
     my $flips = 0;
     if (@contracts.elems > 1) {
         for 1 .. @contracts.elems-1 -> $i {
             $flips++ if @contracts[$i][0] ne @contracts[$i - 1][0];
         }
     }
-    @contracts-changes.push: [$family, @contracts[0][0], @contracts[*-1][0],
+    return [$family, @contracts[0][0], @contracts[*-1][0],
                               $flips, $flips/@contracts.elems ];
 }
-
-csv( out => "data-raw/contract-family-year.csv", in=> @contracts-family-year);
-csv( out => "data-raw/contract-family-flips.csv", in=> @contracts-changes);
