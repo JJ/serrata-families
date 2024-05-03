@@ -29,3 +29,9 @@ use_data(colleganza.family.types, overwrite=T)
 
 colleganza.family.flips <- read.csv("data-raw/contract-family-flips.csv",header=T)
 use_data(colleganza.family.flips, overwrite=T)
+
+colleganza.family.flips.pre <- read.csv("data-raw/contract-family-flips-pre.csv",header=T)
+use_data(colleganza.family.flips, overwrite=T)
+
+colleganza.family.flips.post <- read.csv("data-raw/contract-family-flips-post.csv",header=T)
+use_data(colleganza.family.flips, overwrite=T)
