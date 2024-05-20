@@ -27,11 +27,11 @@ use_data(all.great.council.families.date, overwrite=T)
 colleganza.family.types <- read.csv("../data-raw/colleganza-family-types.csv",header=T,sep=";")
 use_data(colleganza.family.types, overwrite=T)
 
-colleganza.family.flips <- read.csv("data-raw/contract-family-flips.csv",header=T)
+colleganza.family.flips <- read.csv("../data-raw/contract-family-flips.csv",header=T)
 use_data(colleganza.family.flips, overwrite=T)
 
-colleganza.family.flips.pre <- read.csv("data-raw/contract-family-flips-pre.csv",header=T)
-use_data(colleganza.family.flips, overwrite=T)
+colleganza.family.flips.pre <- read.csv("../data-raw/contract-family-flips-pre.csv",header=T)
+use_data(colleganza.family.flips.pre, overwrite=T)
 
-colleganza.family.flips.post <- read.csv("data-raw/contract-family-flips-post.csv",header=T)
-use_data(colleganza.family.flips, overwrite=T)
+colleganza.family.flips.post <- read.csv("../data-raw/contract-family-flips-post.csv",header=T)
+use_data(colleganza.family.flips.post, overwrite=T)
