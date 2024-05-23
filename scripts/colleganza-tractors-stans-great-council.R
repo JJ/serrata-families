@@ -39,4 +39,4 @@ colleganza.family.types %>%
   group_by(type) %>%
   summarise(n= n(), great_council_percentage = sum(great.council) / n() * 100) -> colleganza.family.types.summary
 
-use_data(colleganza.family.types, overwrite=TRUE)
+use_data(colleganza.family.types.summary, overwrite=TRUE)
