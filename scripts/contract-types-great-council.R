@@ -7,7 +7,7 @@ load("data/contract.data.families.rda")
 
 contract.data.families$great.council <- contract.data.families$Family %in% great.council.families
 
-print(contract.data.families[ contract.data.families$great.council == FALSE & contract.data.families$Role == "both", ]$Family)
+print(contract.data.families[ contract.data.families$great.council == FALSE & contract.data.families$Role == "both", ])
 
 ggplot( contract.data.families, aes(x=Role, y=Last.Year, shape=great.council, size=Total.Contracts)) +
   geom_jitter(aes(color=great.council)) +
