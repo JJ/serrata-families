@@ -7,6 +7,8 @@ load("data/contract.data.families.rda")
 
 contract.data.families$great.council <- contract.data.families$Family %in% great.council.families
 
+print(contract.data.families[ contract.data.families$great.council == FALSE & contract.data.families$Role == "both", ]$Family)
+
 ggplot( contract.data.families, aes(x=Role, y=Last.Year, shape=great.council, size=Total.Contracts)) +
   geom_jitter(aes(color=great.council)) +
   labs(title="Great Council Families in Contracts", x="Family", y="Count")
@@ -28,12 +30,12 @@ ggplot( contract.data.families, aes(x=Role, y=Last.Year)) +
 
 ggplot( contract.data.families, aes(x=great.council, y=Last.Year)) +
   geom_jitter(aes(shape=Role)) + geom_boxplot(notch=T) +
-  labs(title="Great Council Families in Contracts", x="Role", y="Count") +
+  labs(title="Great Council Families in Contracts", x="Great Council", y="Count") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 ggplot( contract.data.families, aes(x=great.council, y=Total.Contracts)) +
   geom_jitter(aes(shape=Role,color=Last.Year)) + geom_boxplot(notch=T) +
-  labs(title="Great Council Families in Contracts", x="Role", y="Count") +
+  labs(title="Great Council Families in Contracts", x="Great Council", y="Count") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 
