@@ -12,6 +12,7 @@ my %stans;
 my %tractors;
 my $gc-families = Set.new();
 my %years-contracts;
+my %contracts-persons-year;
 my @self-loops;
 @self-loops.push: ["Families", "Year"];
 for @rows[0..*] -> %row {
@@ -21,6 +22,7 @@ for @rows[0..*] -> %row {
     next if %row<tractor_familyname_italian> eq "";
     for <tractor_familyname tractor_2_familyname stans_familyname stans_2_familyname> -> $key {
         my Str $std-name = "";
+
         if (%row{$key ~ "_std"}) {
             $std-name = %row{$key ~ "_std"}
         } elsif (%row{$key ~ "_italian"}) {
@@ -35,6 +37,11 @@ for @rows[0..*] -> %row {
             @families.push: $std-name;
 
             if $key ~~ /tractor/ {
+                my $Str $first-name = $key ~~ /2/ ??
+                %row<tractor_2_firstname_italian> !!
+                %row<tractor_irstname_italian>;
+
+                my $complete-name = "$std-name,$first-name";
                 $tractor-families ∪= $std-name;
                 if ( %tractors{$std-name} < %row<year> ) {
                     %tractors{$std-name} = %row<year>;
@@ -44,6 +51,11 @@ for @rows[0..*] -> %row {
                     %years-contracts{$std-name} = [];
                 }
                 %years-contracts{$std-name}.push: ["tractor", %row<year>];
+                if %contracts-persons-year{$complete-name}:!exists {
+                    %contracts-persons-year{$complete-name} = [];
+                }
+                %contracts-persons-year{$complete-name}.push: [%row<year>,
+                                                               "tractor"];
             }
 
             if $key ~~ /stans/ {
