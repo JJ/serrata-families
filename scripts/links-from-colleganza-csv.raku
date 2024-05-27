@@ -37,11 +37,11 @@ for @rows[0..*] -> %row {
             @families.push: $std-name;
 
             if $key ~~ /tractor/ {
-                my $Str $first-name = $key ~~ /2/ ??
+                my Str $first-name = $key ~~ /2/ ??
                 %row<tractor_2_firstname_italian> !!
-                %row<tractor_irstname_italian>;
+                %row<tractor_firstname_italian>;
 
-                my $complete-name = "$std-name,$first-name";
+                my $complete-name = "$first-name $std-name";
                 $tractor-families ∪= $std-name;
                 if ( %tractors{$std-name} < %row<year> ) {
                     %tractors{$std-name} = %row<year>;
@@ -59,6 +59,11 @@ for @rows[0..*] -> %row {
             }
 
             if $key ~~ /stans/ {
+                my Str $first-name = $key ~~ /2/ ??
+                %row<stans_2_firstname_italian> !!
+                        %row<stans_firstname_italian>;
+
+                my $complete-name = "$first-name $std-name";
                 $stan-families ∪= $std-name;
                 if ( %stans{$std-name} < %row<year> ) {
                     %stans{$std-name} = %row<year>;
@@ -69,10 +74,14 @@ for @rows[0..*] -> %row {
                 }
                 %years-contracts{$std-name}.push: ["stan", %row<year>];
 
+                if %contracts-persons-year{$complete-name}:!exists {
+                    %contracts-persons-year{$complete-name} = [];
+                }
+                %contracts-persons-year{$complete-name}.push: [%row<year>,
+                                                               "stans"];
             }
         }
     }
-
     if $tractor-families ∩ $stan-families != ∅ {
         @self-loops.push: [ $tractor-families ∩ $stan-families, %row<year> ];
     }
@@ -124,6 +133,31 @@ csv( out => "data-raw/contract-family-flips-pre.csv",
         in=> @contracts-changes-pre);
 csv( out => "data-raw/contract-family-flips-post.csv",
         in=> @contracts-changes-post);
+
+my @persons-year-type;
+@persons-year-type.push: ["Name","Year","Type"];
+my @person-contracts-type;
+@person-contracts-type.push: ["Name","Contracts","Type"];
+for %contracts-persons-year.keys().sort() -> $person {
+    my @contracts =
+            %contracts-persons-year{$person}.sort: { $^a[0]  <=>  $^b[0] };
+
+    my $types = Set();
+    for @contracts -> @contract {
+        $types ∪= @contract[1];
+        @persons-year-type.push: [$person, |@contract];
+    }
+    @person-contracts-type.push:
+            [ $person,
+              @contracts.elems(),
+              $types.elems() == 1
+                ?? $types.keys()[0]
+                !! @contracts[0][1] ~ "→" ~ @contracts[*-1][1] ];
+}
+
+
+csv( out=> "data-raw/person-type-year.csv", in=>  @persons-year-type );
+csv( out=> "data-raw/person-contracts-type.csv", in=> @person-contracts-type);
 
 sub flips( $family, @contracts ) returns Array {
     my $flips = 0;
