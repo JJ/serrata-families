@@ -21,8 +21,6 @@ Name,Year,Type
 "Andrea Sanudo",1316,stans
 "Andrea Soranzo",1231,tractor
 "Andrea Soranzo",1231,tractor
-"Andrea Soranzo",1231,tractor
-"Andrea Tomato",1231,stans
 "Andrea Tomato",1231,stans
 "Andriolo Baseggio",1321,stans
 "Andriolo Da Molin",1338,tractor
@@ -36,7 +34,6 @@ Name,Year,Type
 "Angelo Marangon",1260,tractor
 "Angelo Semitecolo",1205,stans
 "Angelo Semitecolo",1206,stans
-"Angelo Vidal",1165,tractor
 "Angelo Vidal",1165,tractor
 "Angelo de Albrigeto",1235,tractor
 "Angelo de Albrigeto",1235,tractor
@@ -88,7 +85,6 @@ Name,Year,Type
 "Cecilia Giustinian",1328,stans
 "Cecilia Michiel",1323,stans
 "Cipriano Mangoni",1239,stans
-"Cipriano Manguni",1239,stans
 "Clemenazo Rosso",1256,tractor
 "Clemente Bonizzo",1234,stans
 "Colomanno Bembo",1131,stans
@@ -123,8 +119,6 @@ Name,Year,Type
 "Domenico Gradenigo",1207,tractor
 "Domenico Gradenigo",1207,tractor
 "Domenico Gradenigo",1207,tractor
-"Domenico Gradenigo",1207,tractor
-"Domenico Gradenigo",1208,tractor
 "Domenico Gradenigo",1208,tractor
 "Domenico Gradenigo",1208,tractor
 "Domenico Gradenigo",1208,tractor
@@ -193,7 +187,6 @@ Name,Year,Type
 "Filippo Boccazo",1202,stans
 "Filippo Corner",1207,stans
 "Filippo Corner",1320,stans
-"Filippo Donato",1239,stans
 "Filippo Donato",1239,stans
 "Filippo Grimani",1232,stans
 "Filippo Guido",1222,stans
@@ -281,9 +274,7 @@ Name,Year,Type
 "Giocomo Muazzo",1221,stans
 "Giovani Badoer",1202,stans
 "Giovanni Acotanto",1234,tractor
-"Giovanni Acotanto",1234,tractor
 "Giovanni Agadi",1199,stans
-"Giovanni Albino",1239,stans
 "Giovanni Albino",1239,stans
 "Giovanni Anastasio",1198,tractor
 "Giovanni Badoer",1224,stans
@@ -303,7 +294,6 @@ Name,Year,Type
 "Giovanni Corner",1207,tractor
 "Giovanni Corner",1207,tractor
 "Giovanni Corner",1209,tractor
-"Giovanni Corner",1210,tractor
 "Giovanni Corner",1210,tractor
 "Giovanni Corner",1217,tractor
 "Giovanni Dalla Fontana",1239,stans
@@ -375,14 +365,12 @@ Name,Year,Type
 "Lazzaro Mercadante",1243,stans
 "Lazzaro Mercadante",1243,stans
 "Lazzaro Mercadante",1244,stans
-"Lazzaro Mercadante",1244,stans
 "Lazzaro Mercadante",1248,stans
 "Lazzaro Mercadante",1257,stans
 "Lazzaro Mercadante",1257,stans
 "Lazzaro Mercadante",1258,stans
 "Lazzaro Scutario",1260,stans
 "Leonardo Boccazo",1189,stans
-"Leonardo Bosio",1210,stans
 "Leonardo Bosio",1210,stans
 "Leonardo Bosio",1217,stans
 "Leonardo Donato",1220,stans
@@ -392,7 +380,6 @@ Name,Year,Type
 "Leonardo Minio",1242,stans
 "Leonardo Venier",1312,tractor
 "Leonardo Villano",1220,stans
-"Leone Copula",1165,stans
 "Leone Copula",1165,stans
 "Leone Corner",1159,stans
 "Lipefina Manolesso",1159,stans
@@ -442,7 +429,6 @@ Name,Year,Type
 "Marco Romani",1212,tractor
 "Marco Romani",1232,tractor
 "Marco Seio",1239,stans
-"Marco Seio",1239,stans
 "Marco Semitecolo",1254,tractor
 "Marco Signolo",1188,tractor
 "Marco Simone",1207,tractor
@@ -463,17 +449,12 @@ Name,Year,Type
 "Margarito Giacomo",1239,tractor
 "Margarito Giacomo",1239,tractor
 "Margarito Giacomo",1239,tractor
-"Margarito Giacomo",1239,tractor
-"Margarito Giacomo",1239,tractor
-"Margarito Giacomo",1239,tractor
-"Margarito Giacomo",1239,tractor
 "Maria Soranzo",1316,stans
 "Maria Tagliapietra",1323,stans
 "Maria Zeno",1313,stans
 "Maria Ziani",1208,stans
 "Maria Ziani",1209,stans
 "Maria Ziani",1209,stans
-"Maria Zusto",1234,stans
 "Maria Zusto",1234,stans
 "Marinello Badoer",1316,tractor
 "Marinello Badoer",1316,tractor
@@ -509,13 +490,11 @@ Name,Year,Type
 "Marino da Tumba",1234,stans
 "Martino Messeta",1256,stans
 "Martino Miani",1244,tractor
-"Martino Miani",1244,tractor
 "Martino Speziale",1228,stans
 "Marziale Banzon",1322,tractor
 "Matteo Barbarigo",1338,tractor
 "Matteo Barbo",1222,stans
 "Matteo Flabiano",1319,tractor
-"Matteo Marzolo",1207,stans
 "Matteo Marzolo",1207,stans
 "Matteo Marzolo",1208,stans
 "Matteo Marzolo",1209,stans
@@ -609,7 +588,6 @@ Name,Year,Type
 "Paolo Da Molin",1247,stans
 "Paolo Foscarini",1328,stans
 "Paolo Navigroso",1223,stans
-"Pasquale Muazzo",1239,stans
 "Pietro Addoldo",1130,stans
 "Pietro Agadi",1212,stans
 "Pietro Alberto",1234,stans
@@ -637,7 +615,6 @@ Name,Year,Type
 "Pietro Falier",1252,stans
 "Pietro Foscolo",1242,tractor
 "Pietro Ghisi",1316,stans
-"Pietro Gradenigo",1208,stans
 "Pietro Gradenigo",1208,stans
 "Pietro Gussoni",1260,tractor
 "Pietro Gussoni",1260,tractor
@@ -675,7 +652,6 @@ Name,Year,Type
 "Pietro Ziani",1201,stans
 "Pietro Ziani",1223,stans
 "Pietro Zorzi",1197,stans
-"Pietro da Ferraguto",1206,tractor
 "Pietro da Ferraguto",1206,tractor
 "Pietro da Vicenza",1236,tractor
 "Pietro di Guazo",1205,stans
@@ -744,7 +720,6 @@ Name,Year,Type
 "Tommaso Bon",1221,tractor
 "Tommaso Falier",1231,tractor
 "Tommaso Falier",1231,tractor
-"Tommaso Falier",1231,tractor
 "Tommaso Gradenigo",1220,stans
 "Tommaso Gradenigo",1225,stans
 "Tommaso Marin",1257,tractor
@@ -792,7 +767,6 @@ Name,Year,Type
 "Zaccaria Staniario",1199,tractor
 "Zaccaria Staniario",1200,tractor
 "Zaccaria Staniario",1206,tractor
-"Zaccaria Staniario",1206,stans
 "Zaccaria Staniario",1206,stans
 "Zaccaria Staniario",1210,tractor
 "Zambonino de Rodanis da Cremona",1312,stans

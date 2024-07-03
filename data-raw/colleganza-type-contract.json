@@ -1,200 +1,8 @@
 {
-  "Bonaldi": [
-    [
-      "tractor",
-      "1153"
-    ]
-  ],
-  "dei Boccoli": [
+  "Barbani": [
     [
       "stan",
-      "1320"
-    ]
-  ],
-  "Malaza": [
-    [
-      "stan",
-      "1161"
-    ]
-  ],
-  "Manolesso": [
-    [
-      "stan",
-      "1159"
-    ]
-  ],
-  "Casolo": [
-    [
-      "stan",
-      "1208"
-    ]
-  ],
-  "Dauro": [
-    [
-      "stan",
-      "1205"
-    ]
-  ],
-  "Marcello": [
-    [
-      "stan",
-      "1312"
-    ],
-    [
-      "stan",
-      "1191"
-    ],
-    [
-      "stan",
-      "1189"
-    ],
-    [
-      "stan",
-      "1232"
-    ]
-  ],
-  "Bon": [
-    [
-      "tractor",
-      "1221"
-    ],
-    [
-      "tractor",
-      "1172"
-    ],
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1221"
-    ]
-  ],
-  "Mussolino": [
-    [
-      "tractor",
-      "1322"
-    ]
-  ],
-  "Longo": [
-    [
-      "tractor",
-      "1228"
-    ],
-    [
-      "tractor",
-      "1236"
-    ],
-    [
-      "stan",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1228"
-    ],
-    [
-      "tractor",
-      "1212"
-    ],
-    [
-      "tractor",
-      "1227"
-    ]
-  ],
-  "da Tumba": [
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Zordani": [
-    [
-      "stan",
-      "1329"
-    ],
-    [
-      "stan",
-      "1326"
-    ],
-    [
-      "stan",
-      "1328"
-    ]
-  ],
-  "Coppo": [
-    [
-      "tractor",
-      "1226"
-    ],
-    [
-      "stan",
-      "1188"
-    ]
-  ],
-  "Zusto": [
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Dolfin": [
-    [
-      "stan",
-      "1244"
-    ]
-  ],
-  "Gritti": [
-    [
-      "tractor",
-      "1211"
-    ],
-    [
-      "stan",
-      "1211"
-    ]
-  ],
-  "Veglia": [
-    [
-      "tractor",
-      "1248"
-    ],
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Bosio": [
-    [
-      "stan",
-      "1210"
-    ],
-    [
-      "stan",
-      "1210"
-    ],
-    [
-      "stan",
-      "1217"
-    ]
-  ],
-  "Fradello": [
-    [
-      "tractor",
-      "1222"
-    ],
-    [
-      "stan",
-      "1234"
+      "1200"
     ]
   ],
   "Grioni": [
@@ -207,32 +15,266 @@
       "1325"
     ]
   ],
-  "Loredan": [
-    [
-      "tractor",
-      "1333"
-    ]
-  ],
-  "Groscalco": [
+  "di Federico": [
     [
       "stan",
-      "1253"
+      "1323"
     ]
   ],
-  "Pentulo": [
+  "Faccio": [
     [
       "tractor",
-      "1252"
+      "1197"
+    ],
+    [
+      "tractor",
+      "1214"
+    ],
+    [
+      "tractor",
+      "1214"
+    ]
+  ],
+  "Bilongo": [
+    [
+      "tractor",
+      "1120"
+    ]
+  ],
+  "Addoldo": [
+    [
+      "stan",
+      "1130"
+    ]
+  ],
+  "Gradenigo": [
+    [
+      "tractor",
+      "1210"
+    ],
+    [
+      "tractor",
+      "1208"
+    ],
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1217"
+    ],
+    [
+      "tractor",
+      "1218"
+    ],
+    [
+      "tractor",
+      "1223"
+    ],
+    [
+      "tractor",
+      "1225"
     ],
     [
       "stan",
-      "1252"
-    ]
-  ],
-  "Dalla Scala": [
+      "1225"
+    ],
+    [
+      "tractor",
+      "1213"
+    ],
+    [
+      "tractor",
+      "1208"
+    ],
     [
       "stan",
-      "1324"
+      "1208"
+    ],
+    [
+      "tractor",
+      "1205"
+    ],
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1208"
+    ],
+    [
+      "stan",
+      "1255"
+    ],
+    [
+      "tractor",
+      "1220"
+    ],
+    [
+      "stan",
+      "1220"
+    ],
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1223"
+    ],
+    [
+      "tractor",
+      "1209"
+    ],
+    [
+      "tractor",
+      "1222"
+    ],
+    [
+      "tractor",
+      "1209"
+    ],
+    [
+      "tractor",
+      "1208"
+    ],
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1222"
+    ],
+    [
+      "stan",
+      "1222"
+    ],
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1225"
+    ],
+    [
+      "stan",
+      "1225"
+    ],
+    [
+      "tractor",
+      "1222"
+    ],
+    [
+      "stan",
+      "1222"
+    ],
+    [
+      "tractor",
+      "1222"
+    ],
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1220"
+    ],
+    [
+      "stan",
+      "1220"
+    ],
+    [
+      "tractor",
+      "1208"
+    ],
+    [
+      "tractor",
+      "1213"
+    ]
+  ],
+  "Giacomo": [
+    [
+      "tractor",
+      "1239"
+    ],
+    [
+      "tractor",
+      "1239"
+    ],
+    [
+      "tractor",
+      "1239"
+    ],
+    [
+      "tractor",
+      "1239"
+    ],
+    [
+      "tractor",
+      "1239"
+    ],
+    [
+      "tractor",
+      "1239"
+    ],
+    [
+      "tractor",
+      "1239"
+    ]
+  ],
+  "Mercadante": [
+    [
+      "stan",
+      "1243"
+    ],
+    [
+      "stan",
+      "1244"
+    ],
+    [
+      "stan",
+      "1257"
+    ],
+    [
+      "stan",
+      "1243"
+    ],
+    [
+      "stan",
+      "1258"
+    ],
+    [
+      "stan",
+      "1257"
+    ],
+    [
+      "stan",
+      "1242"
+    ],
+    [
+      "stan",
+      "1248"
+    ]
+  ],
+  "Rachovich": [
+    [
+      "tractor",
+      "1312"
+    ]
+  ],
+  "Giustinian": [
+    [
+      "stan",
+      "1327"
     ],
     [
       "stan",
@@ -240,19 +282,529 @@
     ],
     [
       "stan",
+      "1244"
+    ],
+    [
+      "stan",
+      "1326"
+    ],
+    [
+      "stan",
+      "1138"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "stan",
+      "1328"
+    ],
+    [
+      "stan",
+      "1243"
+    ],
+    [
+      "stan",
+      "1325"
+    ],
+    [
+      "stan",
+      "1313"
+    ],
+    [
+      "stan",
+      "1333"
+    ],
+    [
+      "stan",
+      "1191"
+    ],
+    [
+      "stan",
+      "1246"
+    ],
+    [
+      "stan",
+      "1331"
+    ],
+    [
+      "stan",
+      "1319"
+    ],
+    [
+      "stan",
+      "1313"
+    ]
+  ],
+  "Batello": [
+    [
+      "tractor",
+      "1241"
+    ]
+  ],
+  "Straccivendolo": [
+    [
+      "tractor",
+      "1326"
+    ]
+  ],
+  "Bollani": [
+    [
+      "stan",
       "1324"
     ]
   ],
-  "Cavalerio": [
+  "Belegno": [
+    [
+      "tractor",
+      "1314"
+    ],
+    [
+      "stan",
+      "1232"
+    ],
+    [
+      "tractor",
+      "1316"
+    ]
+  ],
+  "Zusto": [
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Mazaman": [
+    [
+      "stan",
+      "1156"
+    ]
+  ],
+  "di Albiola": [
+    [
+      "tractor",
+      "1200"
+    ]
+  ],
+  "di Loreo": [
     [
       "stan",
       "1207"
     ]
   ],
-  "Duracino": [
+  "Bendolo": [
     [
       "tractor",
-      "1310"
+      "1246"
+    ]
+  ],
+  "Senadori": [
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Gussoni": [
+    [
+      "stan",
+      "1154"
+    ],
+    [
+      "tractor",
+      "1260"
+    ],
+    [
+      "tractor",
+      "1260"
+    ]
+  ],
+  "Da Molin": [
+    [
+      "tractor",
+      "1170"
+    ],
+    [
+      "tractor",
+      "1118"
+    ],
+    [
+      "tractor",
+      "1333"
+    ],
+    [
+      "stan",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1184"
+    ],
+    [
+      "stan",
+      "1184"
+    ],
+    [
+      "tractor",
+      "1130"
+    ],
+    [
+      "tractor",
+      "1247"
+    ],
+    [
+      "stan",
+      "1247"
+    ],
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1189"
+    ],
+    [
+      "stan",
+      "1189"
+    ],
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1338"
+    ],
+    [
+      "stan",
+      "1338"
+    ],
+    [
+      "tractor",
+      "1331"
+    ],
+    [
+      "tractor",
+      "1154"
+    ]
+  ],
+  "di Fioravante": [
+    [
+      "tractor",
+      "1313"
+    ]
+  ],
+  "dei Boccoli": [
+    [
+      "stan",
+      "1320"
+    ]
+  ],
+  "Bellono": [
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Businago": [
+    [
+      "tractor",
+      "1254"
+    ],
+    [
+      "stan",
+      "1253"
+    ]
+  ],
+  "Avenanzo": [
+    [
+      "stan",
+      "1210"
+    ]
+  ],
+  "Alberto": [
+    [
+      "stan",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1313"
+    ],
+    [
+      "stan",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1311"
+    ]
+  ],
+  "Mastropetro": [
+    [
+      "stan",
+      "1153"
+    ]
+  ],
+  "Marin": [
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1257"
+    ],
+    [
+      "stan",
+      "1230"
+    ],
+    [
+      "stan",
+      "1230"
+    ]
+  ],
+  "Bocca d'Uomo": [
+    [
+      "tractor",
+      "1205"
+    ]
+  ],
+  "Foscarini": [
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "stan",
+      "1328"
+    ]
+  ],
+  "Marioni": [
+    [
+      "stan",
+      "1236"
+    ],
+    [
+      "stan",
+      "1239"
+    ],
+    [
+      "stan",
+      "1238"
+    ],
+    [
+      "stan",
+      "1253"
+    ],
+    [
+      "stan",
+      "1235"
+    ],
+    [
+      "stan",
+      "1239"
+    ],
+    [
+      "stan",
+      "1242"
+    ],
+    [
+      "stan",
+      "1235"
+    ],
+    [
+      "stan",
+      "1252"
+    ],
+    [
+      "stan",
+      "1257"
+    ]
+  ],
+  "Sceda": [
+    [
+      "tractor",
+      "1312"
+    ]
+  ],
+  "Canal": [
+    [
+      "stan",
+      "1312"
+    ],
+    [
+      "stan",
+      "1242"
+    ],
+    [
+      "stan",
+      "1212"
+    ],
+    [
+      "stan",
+      "1260"
+    ],
+    [
+      "stan",
+      "1195"
+    ],
+    [
+      "tractor",
+      "1223"
+    ]
+  ],
+  "di Artico": [
+    [
+      "stan",
+      "1326"
+    ]
+  ],
+  "Minio": [
+    [
+      "tractor",
+      "1228"
+    ],
+    [
+      "stan",
+      "1242"
+    ],
+    [
+      "tractor",
+      "1230"
+    ]
+  ],
+  "Veronese": [
+    [
+      "stan",
+      "1240"
+    ]
+  ],
+  "Vidal": [
+    [
+      "tractor",
+      "1183"
+    ],
+    [
+      "tractor",
+      "1165"
+    ]
+  ],
+  "Marzulo": [
+    [
+      "stan",
+      "1204"
+    ],
+    [
+      "stan",
+      "1205"
+    ]
+  ],
+  "Encio": [
+    [
+      "stan",
+      "1209"
+    ]
+  ],
+  "Centosoldi": [
+    [
+      "stan",
+      "1183"
+    ]
+  ],
+  "da Mantova": [
+    [
+      "stan",
+      "1222"
+    ]
+  ],
+  "Katarino": [
+    [
+      "tractor",
+      "1255"
+    ]
+  ],
+  "Capello": [
+    [
+      "stan",
+      "1235"
+    ]
+  ],
+  "Baseggio": [
+    [
+      "stan",
+      "1217"
+    ],
+    [
+      "stan",
+      "1321"
+    ],
+    [
+      "tractor",
+      "1192"
+    ]
+  ],
+  "Nicola": [
+    [
+      "stan",
+      "1249"
+    ],
+    [
+      "stan",
+      "1253"
+    ]
+  ],
+  "Coppo": [
+    [
+      "tractor",
+      "1226"
+    ],
+    [
+      "stan",
+      "1188"
+    ]
+  ],
+  "Marangon": [
+    [
+      "tractor",
+      "1260"
+    ]
+  ],
+  "Rustico": [
+    [
+      "stan",
+      "1159"
+    ]
+  ],
+  "Speziale": [
+    [
+      "stan",
+      "1228"
+    ],
+    [
+      "stan",
+      "1228"
+    ]
+  ],
+  "Barberius": [
+    [
+      "stan",
+      "1312"
+    ]
+  ],
+  "de Stolla": [
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "stan",
+      "1312"
     ]
   ],
   "Barozzi": [
@@ -261,10 +813,666 @@
       "1228"
     ]
   ],
-  "Abriano": [
+  "Falier": [
+    [
+      "tractor",
+      "1130"
+    ],
+    [
+      "tractor",
+      "1231"
+    ],
+    [
+      "tractor",
+      "1235"
+    ],
+    [
+      "tractor",
+      "1167"
+    ],
+    [
+      "tractor",
+      "1191"
+    ],
+    [
+      "stan",
+      "1252"
+    ],
+    [
+      "tractor",
+      "1231"
+    ],
+    [
+      "tractor",
+      "1191"
+    ]
+  ],
+  "Tonisti": [
+    [
+      "tractor",
+      "1191"
+    ]
+  ],
+  "Zulian": [
+    [
+      "tractor",
+      "1324"
+    ],
+    [
+      "tractor",
+      "1324"
+    ],
+    [
+      "tractor",
+      "1167"
+    ]
+  ],
+  "Arduini": [
+    [
+      "stan",
+      "1199"
+    ],
+    [
+      "stan",
+      "1204"
+    ],
+    [
+      "stan",
+      "1198"
+    ]
+  ],
+  "Zopolo": [
+    [
+      "tractor",
+      "1311"
+    ]
+  ],
+  "Navigroso": [
+    [
+      "stan",
+      "1120"
+    ],
+    [
+      "stan",
+      "1156"
+    ],
+    [
+      "stan",
+      "1223"
+    ]
+  ],
+  "Fradello": [
+    [
+      "tractor",
+      "1222"
+    ],
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Storladi": [
+    [
+      "stan",
+      "1089"
+    ],
+    [
+      "stan",
+      "1088"
+    ]
+  ],
+  "Zeno": [
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "stan",
+      "1313"
+    ]
+  ],
+  "Bonizzo": [
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Malipiero": [
+    [
+      "tractor",
+      "1319"
+    ],
+    [
+      "tractor",
+      "1319"
+    ],
+    [
+      "tractor",
+      "1319"
+    ],
+    [
+      "tractor",
+      "1320"
+    ],
+    [
+      "tractor",
+      "1320"
+    ]
+  ],
+  "Grego": [
+    [
+      "stan",
+      "1248"
+    ],
+    [
+      "stan",
+      "1153"
+    ]
+  ],
+  "Agadi": [
+    [
+      "stan",
+      "1226"
+    ],
+    [
+      "stan",
+      "1234"
+    ],
+    [
+      "stan",
+      "1199"
+    ],
     [
       "stan",
       "1212"
+    ],
+    [
+      "stan",
+      "1212"
+    ]
+  ],
+  "Vitturi": [
+    [
+      "tractor",
+      "1240"
+    ]
+  ],
+  "da Ferraguto": [
+    [
+      "tractor",
+      "1206"
+    ]
+  ],
+  "Nadal": [
+    [
+      "stan",
+      "1205"
+    ],
+    [
+      "stan",
+      "1192"
+    ]
+  ],
+  "Tron": [
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "stan",
+      "1323"
+    ]
+  ],
+  "Lissado da Luprio": [
+    [
+      "tractor",
+      "1073"
+    ]
+  ],
+  "Tomato": [
+    [
+      "stan",
+      "1231"
+    ]
+  ],
+  "Manolesso": [
+    [
+      "stan",
+      "1159"
+    ]
+  ],
+  "Belli": [
+    [
+      "tractor",
+      "1242"
+    ],
+    [
+      "tractor",
+      "1244"
+    ],
+    [
+      "tractor",
+      "1242"
+    ],
+    [
+      "tractor",
+      "1252"
+    ]
+  ],
+  "de Ranerio": [
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Pagan": [
+    [
+      "tractor",
+      "1255"
+    ],
+    [
+      "tractor",
+      "1255"
+    ]
+  ],
+  "di Burges": [
+    [
+      "tractor",
+      "1253"
+    ]
+  ],
+  "Donato": [
+    [
+      "stan",
+      "1220"
+    ],
+    [
+      "stan",
+      "1239"
+    ],
+    [
+      "stan",
+      "1313"
+    ],
+    [
+      "stan",
+      "1191"
+    ]
+  ],
+  "Babilonio": [
+    [
+      "stan",
+      "1333"
+    ]
+  ],
+  "Dalla Fontana": [
+    [
+      "stan",
+      "1243"
+    ],
+    [
+      "stan",
+      "1239"
+    ],
+    [
+      "stan",
+      "1315"
+    ]
+  ],
+  "Soranzo": [
+    [
+      "stan",
+      "1208"
+    ],
+    [
+      "stan",
+      "1313"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "tractor",
+      "1328"
+    ],
+    [
+      "tractor",
+      "1257"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "tractor",
+      "1231"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "tractor",
+      "1231"
+    ],
+    [
+      "stan",
+      "1213"
+    ],
+    [
+      "stan",
+      "1213"
+    ]
+  ],
+  "de Protis": [
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "stan",
+      "1323"
+    ]
+  ],
+  "di Troia": [
+    [
+      "stan",
+      "1254"
+    ]
+  ],
+  "Albino": [
+    [
+      "stan",
+      "1239"
+    ]
+  ],
+  "Duracino": [
+    [
+      "tractor",
+      "1310"
+    ]
+  ],
+  "Groscalco": [
+    [
+      "stan",
+      "1253"
+    ]
+  ],
+  "Dalle Sevole": [
+    [
+      "stan",
+      "1329"
+    ],
+    [
+      "stan",
+      "1327"
+    ],
+    [
+      "stan",
+      "1333"
+    ],
+    [
+      "stan",
+      "1331"
+    ]
+  ],
+  "Nani": [
+    [
+      "stan",
+      "1238"
+    ],
+    [
+      "stan",
+      "1238"
+    ]
+  ],
+  "Baro": [
+    [
+      "tractor",
+      "1105"
+    ]
+  ],
+  "Da Fano": [
+    [
+      "tractor",
+      "1206"
+    ]
+  ],
+  "Banzon": [
+    [
+      "tractor",
+      "1322"
+    ]
+  ],
+  "Tebaldo": [
+    [
+      "stan",
+      "1209"
+    ]
+  ],
+  "Tagliapietra": [
+    [
+      "stan",
+      "1323"
+    ]
+  ],
+  "Pergaminer": [
+    [
+      "tractor",
+      "1242"
+    ]
+  ],
+  "Squaglia": [
+    [
+      "tractor",
+      "1255"
+    ]
+  ],
+  "Corner": [
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "stan",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1205"
+    ],
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1209"
+    ],
+    [
+      "stan",
+      "1205"
+    ],
+    [
+      "tractor",
+      "1210"
+    ],
+    [
+      "tractor",
+      "1156"
+    ],
+    [
+      "stan",
+      "1202"
+    ],
+    [
+      "tractor",
+      "1206"
+    ],
+    [
+      "tractor",
+      "1217"
+    ],
+    [
+      "tractor",
+      "1182"
+    ],
+    [
+      "tractor",
+      "1191"
+    ],
+    [
+      "tractor",
+      "1190"
+    ],
+    [
+      "stan",
+      "1320"
+    ],
+    [
+      "tractor",
+      "1159"
+    ],
+    [
+      "stan",
+      "1159"
+    ],
+    [
+      "stan",
+      "1159"
+    ]
+  ],
+  "Dolfin": [
+    [
+      "stan",
+      "1244"
+    ]
+  ],
+  "Lion": [
+    [
+      "stan",
+      "1326"
+    ],
+    [
+      "stan",
+      "1313"
+    ]
+  ],
+  "Mastrorso": [
+    [
+      "stan",
+      "1231"
+    ]
+  ],
+  "Semitecolo": [
+    [
+      "stan",
+      "1205"
+    ],
+    [
+      "stan",
+      "1319"
+    ],
+    [
+      "tractor",
+      "1254"
+    ],
+    [
+      "stan",
+      "1206"
+    ],
+    [
+      "stan",
+      "1182"
+    ],
+    [
+      "stan",
+      "1190"
+    ]
+  ],
+  "da Vicenza": [
+    [
+      "tractor",
+      "1236"
+    ]
+  ],
+  "Michiel": [
+    [
+      "tractor",
+      "1131"
+    ],
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "stan",
+      "1192"
+    ],
+    [
+      "stan",
+      "1312"
+    ],
+    [
+      "stan",
+      "1191"
+    ],
+    [
+      "tractor",
+      "1224"
+    ],
+    [
+      "stan",
+      "1105"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "stan",
+      "1260"
+    ],
+    [
+      "stan",
+      "1260"
+    ],
+    [
+      "stan",
+      "1261"
+    ],
+    [
+      "stan",
+      "1261"
     ]
   ],
   "Venier": [
@@ -325,19 +1533,77 @@
       "1261"
     ]
   ],
-  "Caravello": [
+  "D'Equilo": [
+    [
+      "tractor",
+      "1225"
+    ]
+  ],
+  "Maciacavallo": [
     [
       "stan",
-      "1321"
+      "1159"
+    ]
+  ],
+  "Voltani": [
+    [
+      "stan",
+      "1186"
     ],
     [
       "stan",
-      "1319"
+      "1172"
     ],
     [
       "stan",
-      "1323"
+      "1198"
     ],
+    [
+      "stan",
+      "1170"
+    ]
+  ],
+  "Da Mula": [
+    [
+      "stan",
+      "1198"
+    ],
+    [
+      "stan",
+      "1201"
+    ],
+    [
+      "tractor",
+      "1185"
+    ],
+    [
+      "stan",
+      "1185"
+    ]
+  ],
+  "Dauro": [
+    [
+      "stan",
+      "1205"
+    ]
+  ],
+  "Loredan": [
+    [
+      "tractor",
+      "1333"
+    ]
+  ],
+  "Romani": [
+    [
+      "tractor",
+      "1232"
+    ],
+    [
+      "tractor",
+      "1212"
+    ]
+  ],
+  "Seio": [
     [
       "stan",
       "1239"
@@ -345,106 +1611,6 @@
     [
       "stan",
       "1239"
-    ]
-  ],
-  "Banzon": [
-    [
-      "tractor",
-      "1322"
-    ]
-  ],
-  "Roberto": [
-    [
-      "stan",
-      "1254"
-    ]
-  ],
-  "Rosso": [
-    [
-      "tractor",
-      "1256"
-    ],
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Benedetti": [
-    [
-      "stan",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1312"
-    ]
-  ],
-  "Bollani": [
-    [
-      "stan",
-      "1324"
-    ]
-  ],
-  "Biondo": [
-    [
-      "tractor",
-      "1312"
-    ],
-    [
-      "tractor",
-      "1312"
-    ]
-  ],
-  "da Ferraguto": [
-    [
-      "tractor",
-      "1206"
-    ],
-    [
-      "tractor",
-      "1206"
-    ]
-  ],
-  "Mozo": [
-    [
-      "tractor",
-      "1323"
-    ]
-  ],
-  "Lanfranchi": [
-    [
-      "tractor",
-      "1247"
-    ]
-  ],
-  "Querini": [
-    [
-      "tractor",
-      "1326"
-    ],
-    [
-      "stan",
-      "1155"
-    ],
-    [
-      "stan",
-      "1231"
-    ]
-  ],
-  "Ruzier": [
-    [
-      "tractor",
-      "1243"
-    ]
-  ],
-  "da Trau": [
-    [
-      "stan",
-      "1322"
     ]
   ],
   "Rozeri": [
@@ -453,670 +1619,36 @@
       "1312"
     ]
   ],
-  "Pizolo": [
-    [
-      "tractor",
-      "1228"
-    ]
-  ],
-  "Barbo": [
-    [
-      "tractor",
-      "1244"
-    ],
-    [
-      "tractor",
-      "1243"
-    ],
-    [
-      "tractor",
-      "1243"
-    ],
-    [
-      "tractor",
-      "1242"
-    ],
-    [
-      "tractor",
-      "1324"
-    ],
-    [
-      "tractor",
-      "1246"
-    ],
+  "Albizzo": [
     [
       "stan",
-      "1222"
-    ],
-    [
-      "tractor",
-      "1232"
-    ],
-    [
-      "tractor",
-      "1243"
-    ],
-    [
-      "tractor",
-      "1242"
-    ],
-    [
-      "tractor",
-      "1232"
-    ]
-  ],
-  "Grego": [
-    [
-      "stan",
-      "1248"
-    ],
-    [
-      "stan",
-      "1153"
-    ]
-  ],
-  "Viaro": [
-    [
-      "tractor",
-      "1199"
-    ],
-    [
-      "tractor",
-      "1201"
-    ],
-    [
-      "tractor",
-      "1209"
-    ],
-    [
-      "tractor",
-      "1202"
-    ],
-    [
-      "tractor",
-      "1198"
-    ],
-    [
-      "tractor",
-      "1209"
-    ],
-    [
-      "tractor",
-      "1204"
-    ],
-    [
-      "tractor",
-      "1204"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1198"
-    ],
-    [
-      "tractor",
-      "1205"
-    ],
-    [
-      "stan",
-      "1255"
-    ],
-    [
-      "tractor",
-      "1197"
-    ],
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1202"
-    ],
-    [
-      "tractor",
-      "1205"
-    ],
-    [
-      "tractor",
-      "1212"
-    ],
-    [
-      "tractor",
-      "1202"
-    ],
-    [
-      "stan",
-      "1255"
-    ],
-    [
-      "stan",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1198"
-    ],
-    [
-      "tractor",
-      "1205"
-    ],
-    [
-      "tractor",
-      "1201"
-    ],
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1313"
-    ]
-  ],
-  "Straccivendolo": [
-    [
-      "tractor",
-      "1326"
-    ]
-  ],
-  "Malipiero": [
-    [
-      "tractor",
-      "1319"
-    ],
-    [
-      "tractor",
-      "1319"
-    ],
-    [
-      "tractor",
-      "1319"
-    ],
-    [
-      "tractor",
-      "1320"
-    ],
-    [
-      "tractor",
-      "1320"
-    ]
-  ],
-  "Vitaliano": [
-    [
-      "tractor",
-      "1217"
-    ]
-  ],
-  "Dalle Sevole": [
-    [
-      "stan",
-      "1329"
-    ],
-    [
-      "stan",
-      "1327"
-    ],
-    [
-      "stan",
-      "1333"
-    ],
-    [
-      "stan",
-      "1331"
-    ]
-  ],
-  "Agadi": [
-    [
-      "stan",
-      "1226"
-    ],
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "stan",
-      "1199"
-    ],
-    [
-      "stan",
-      "1212"
-    ],
-    [
-      "stan",
-      "1212"
-    ]
-  ],
-  "Tonisti": [
-    [
-      "tractor",
-      "1191"
-    ]
-  ],
-  "Flabiano": [
-    [
-      "tractor",
-      "1319"
-    ]
-  ],
-  "Orio": [
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1231"
-    ],
-    [
-      "tractor",
-      "1323"
-    ]
-  ],
-  "Zorzi": [
-    [
-      "stan",
-      "1310"
-    ],
-    [
-      "stan",
-      "1223"
-    ],
-    [
-      "stan",
-      "1197"
-    ],
-    [
-      "stan",
-      "1218"
-    ]
-  ],
-  "d'Ancontano": [
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "tractor",
-      "1313"
-    ]
-  ],
-  "Zantani": [
-    [
-      "tractor",
-      "1220"
-    ],
-    [
-      "stan",
-      "1251"
-    ]
-  ],
-  "Mazaman": [
-    [
-      "stan",
-      "1156"
-    ]
-  ],
-  "Pagan": [
-    [
-      "tractor",
-      "1255"
-    ],
-    [
-      "tractor",
-      "1255"
-    ]
-  ],
-  "Messeta": [
-    [
-      "stan",
-      "1256"
-    ]
-  ],
-  "Ardizon": [
-    [
-      "stan",
-      "1121"
-    ]
-  ],
-  "Nicola": [
-    [
-      "stan",
-      "1249"
-    ],
-    [
-      "stan",
-      "1253"
-    ]
-  ],
-  "de Protis": [
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "stan",
-      "1323"
-    ]
-  ],
-  "Mastroscoli": [
-    [
-      "tractor",
-      "1089"
-    ],
-    [
-      "tractor",
-      "1088"
-    ]
-  ],
-  "de Iema": [
-    [
-      "tractor",
-      "1312"
-    ]
-  ],
-  "Addoldo": [
-    [
-      "stan",
-      "1130"
-    ]
-  ],
-  "Tron": [
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "stan",
-      "1323"
-    ]
-  ],
-  "Premarin": [
-    [
-      "stan",
-      "1239"
-    ],
-    [
-      "stan",
-      "1224"
-    ]
-  ],
-  "Grasso": [
-    [
-      "stan",
-      "1226"
-    ]
-  ],
-  "Navigroso": [
-    [
-      "stan",
-      "1120"
-    ],
-    [
-      "stan",
-      "1156"
-    ],
-    [
-      "stan",
-      "1223"
-    ]
-  ],
-  "Rachovich": [
-    [
-      "tractor",
-      "1312"
-    ]
-  ],
-  "Istrigo": [
-    [
-      "stan",
-      "1200"
-    ]
-  ],
-  "Arduini": [
-    [
-      "stan",
-      "1199"
-    ],
-    [
-      "stan",
-      "1204"
-    ],
-    [
-      "stan",
-      "1198"
-    ]
-  ],
-  "Urso": [
-    [
-      "tractor",
-      "1138"
-    ],
-    [
-      "stan",
-      "1138"
-    ]
-  ],
-  "di Loreo": [
-    [
-      "stan",
-      "1207"
-    ]
-  ],
-  "Alberto": [
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1313"
-    ],
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1311"
-    ]
-  ],
-  "Dolce": [
-    [
-      "stan",
-      "1225"
-    ]
-  ],
-  "di Bruges": [
-    [
-      "tractor",
-      "1239"
-    ]
-  ],
-  "Bellono": [
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Pigozo": [
-    [
-      "tractor",
-      "1250"
-    ],
-    [
-      "tractor",
-      "1250"
-    ],
-    [
-      "tractor",
-      "1250"
-    ]
-  ],
-  "Curtolo": [
-    [
-      "stan",
-      "1206"
-    ],
-    [
-      "tractor",
-      "1205"
-    ],
-    [
-      "stan",
-      "1207"
-    ]
-  ],
-  "di Guazo": [
-    [
-      "stan",
-      "1205"
-    ]
-  ],
-  "da Vicenza": [
-    [
-      "tractor",
       "1236"
-    ]
-  ],
-  "Anastasio": [
-    [
-      "tractor",
-      "1198"
-    ]
-  ],
-  "Balestrieri": [
+    ],
     [
       "stan",
-      "1250"
+      "1232"
     ]
   ],
-  "Balbi": [
+  "Marzolo": [
     [
       "stan",
-      "1239"
-    ]
-  ],
-  "Corner": [
-    [
-      "tractor",
-      "1207"
+      "1210"
     ],
     [
       "stan",
       "1207"
     ],
     [
-      "tractor",
-      "1205"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
-      "tractor",
+      "stan",
       "1209"
     ],
     [
       "stan",
-      "1205"
-    ],
-    [
-      "tractor",
-      "1210"
-    ],
-    [
-      "tractor",
-      "1210"
-    ],
-    [
-      "tractor",
-      "1156"
+      "1208"
     ],
     [
       "stan",
-      "1202"
-    ],
-    [
-      "tractor",
-      "1206"
-    ],
-    [
-      "tractor",
-      "1217"
-    ],
-    [
-      "tractor",
-      "1182"
-    ],
-    [
-      "tractor",
-      "1191"
-    ],
-    [
-      "tractor",
-      "1190"
-    ],
-    [
-      "stan",
-      "1320"
-    ],
-    [
-      "tractor",
-      "1159"
-    ],
-    [
-      "stan",
-      "1159"
-    ],
-    [
-      "stan",
-      "1159"
-    ]
-  ],
-  "Spoletino": [
-    [
-      "tractor",
-      "1244"
-    ]
-  ],
-  "Lissado da Luprio": [
-    [
-      "tractor",
-      "1073"
+      "1212"
     ]
   ],
   "Barbarigo": [
@@ -1189,174 +1721,48 @@
       "1321"
     ]
   ],
-  "de Galletto": [
-    [
-      "stan",
-      "1246"
-    ]
-  ],
-  "Villano": [
-    [
-      "stan",
-      "1220"
-    ]
-  ],
-  "Francesco": [
+  "Orio": [
     [
       "tractor",
-      "1251"
-    ]
-  ],
-  "Nani": [
-    [
-      "stan",
-      "1238"
-    ],
-    [
-      "stan",
-      "1238"
-    ]
-  ],
-  "Nadal": [
-    [
-      "stan",
-      "1205"
-    ],
-    [
-      "stan",
-      "1192"
-    ]
-  ],
-  "Marzulo": [
-    [
-      "stan",
-      "1204"
-    ],
-    [
-      "stan",
-      "1205"
-    ]
-  ],
-  "Ghisi": [
-    [
-      "stan",
-      "1252"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1253"
-    ],
-    [
-      "stan",
-      "1316"
-    ]
-  ],
-  "Bendolo": [
-    [
-      "tractor",
-      "1246"
-    ]
-  ],
-  "Brizi": [
-    [
-      "stan",
-      "1333"
-    ],
-    [
-      "stan",
-      "1325"
-    ],
-    [
-      "stan",
       "1323"
     ],
     [
-      "stan",
-      "1331"
+      "tractor",
+      "1231"
+    ],
+    [
+      "tractor",
+      "1323"
     ]
   ],
-  "Marioni": [
+  "Spatario": [
     [
       "stan",
-      "1236"
+      "1250"
     ],
     [
       "stan",
-      "1239"
+      "1250"
+    ]
+  ],
+  "Urso": [
+    [
+      "tractor",
+      "1138"
     ],
     [
       "stan",
-      "1238"
-    ],
-    [
-      "stan",
-      "1253"
-    ],
+      "1138"
+    ]
+  ],
+  "Iantani": [
     [
       "stan",
       "1235"
     ],
     [
       "stan",
-      "1239"
-    ],
-    [
-      "stan",
-      "1242"
-    ],
-    [
-      "stan",
-      "1235"
-    ],
-    [
-      "stan",
-      "1252"
-    ],
-    [
-      "stan",
-      "1257"
-    ]
-  ],
-  "Copula": [
-    [
-      "stan",
-      "1165"
-    ],
-    [
-      "stan",
-      "1165"
-    ]
-  ],
-  "Rustico": [
-    [
-      "stan",
-      "1159"
-    ]
-  ],
-  "Orefice": [
-    [
-      "stan",
-      "1073"
-    ]
-  ],
-  "Acotanto": [
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ]
-  ],
-  "Tolonegi": [
-    [
-      "stan",
-      "1190"
+      "1228"
     ]
   ],
   "Marano": [
@@ -1393,102 +1799,204 @@
       "1167"
     ]
   ],
-  "Bembo": [
+  "Dolce": [
     [
       "stan",
-      "1131"
+      "1225"
+    ]
+  ],
+  "Darpin": [
+    [
+      "stan",
+      "1224"
+    ]
+  ],
+  "Bosio": [
+    [
+      "stan",
+      "1210"
     ],
     [
       "stan",
       "1217"
+    ]
+  ],
+  "Istrigo": [
+    [
+      "stan",
+      "1200"
+    ]
+  ],
+  "Marcello": [
+    [
+      "stan",
+      "1312"
     ],
     [
       "stan",
-      "1218"
+      "1191"
     ],
     [
       "stan",
-      "1213"
+      "1189"
+    ],
+    [
+      "stan",
+      "1232"
+    ]
+  ],
+  "Bonoto": [
+    [
+      "tractor",
+      "1312"
+    ]
+  ],
+  "Gramentuni": [
+    [
+      "stan",
+      "1220"
+    ]
+  ],
+  "Brizi": [
+    [
+      "stan",
+      "1333"
+    ],
+    [
+      "stan",
+      "1325"
+    ],
+    [
+      "stan",
+      "1323"
+    ],
+    [
+      "stan",
+      "1331"
+    ]
+  ],
+  "Pasqualigo": [
+    [
+      "tractor",
+      "1170"
+    ]
+  ],
+  "Dandolo": [
+    [
+      "stan",
+      "1161"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Mozo": [
+    [
+      "tractor",
+      "1323"
+    ]
+  ],
+  "d'Ancontano": [
+    [
+      "tractor",
+      "1313"
     ],
     [
       "tractor",
-      "1239"
+      "1313"
     ]
   ],
-  "Boninsegna": [
+  "Roberto": [
+    [
+      "stan",
+      "1254"
+    ]
+  ],
+  "Scutario": [
+    [
+      "stan",
+      "1260"
+    ]
+  ],
+  "Sanudo": [
     [
       "tractor",
       "1316"
     ],
     [
       "stan",
-      "1326"
-    ]
-  ],
-  "Zulian": [
-    [
-      "tractor",
-      "1324"
+      "1316"
     ],
     [
       "tractor",
-      "1324"
+      "1316"
     ],
     [
       "tractor",
-      "1167"
-    ]
-  ],
-  "Giacomo": [
-    [
-      "tractor",
-      "1239"
+      "1316"
     ],
     [
       "tractor",
-      "1239"
+      "1316"
     ],
     [
       "tractor",
-      "1239"
+      "1316"
     ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "tractor",
-      "1239"
-    ]
-  ],
-  "Veronese": [
     [
       "stan",
-      "1240"
+      "1316"
+    ],
+    [
+      "tractor",
+      "1316"
+    ],
+    [
+      "tractor",
+      "1316"
+    ]
+  ],
+  "Mocenigo": [
+    [
+      "stan",
+      "1205"
+    ],
+    [
+      "stan",
+      "1207"
+    ]
+  ],
+  "Pigozo": [
+    [
+      "tractor",
+      "1250"
+    ],
+    [
+      "tractor",
+      "1250"
+    ],
+    [
+      "tractor",
+      "1250"
+    ]
+  ],
+  "Pentulo": [
+    [
+      "tractor",
+      "1252"
+    ],
+    [
+      "stan",
+      "1252"
     ]
   ],
   "Signolo": [
@@ -1501,374 +2009,48 @@
       "1188"
     ]
   ],
-  "Civran": [
+  "Tolonegi": [
     [
       "stan",
-      "1234"
+      "1190"
     ]
   ],
-  "Romani": [
+  "Simone": [
     [
       "tractor",
-      "1232"
-    ],
-    [
-      "tractor",
-      "1212"
+      "1207"
     ]
   ],
-  "Mangoni": [
-    [
-      "stan",
-      "1239"
-    ]
-  ],
-  "D'Avanzago": [
-    [
-      "tractor",
-      "1200"
-    ]
-  ],
-  "Cazzamonti": [
-    [
-      "stan",
-      "1319"
-    ]
-  ],
-  "Mercadante": [
-    [
-      "stan",
-      "1243"
-    ],
-    [
-      "stan",
-      "1244"
-    ],
-    [
-      "stan",
-      "1257"
-    ],
-    [
-      "stan",
-      "1243"
-    ],
-    [
-      "stan",
-      "1244"
-    ],
-    [
-      "stan",
-      "1258"
-    ],
-    [
-      "stan",
-      "1257"
-    ],
-    [
-      "stan",
-      "1242"
-    ],
-    [
-      "stan",
-      "1248"
-    ]
-  ],
-  "Soranzo": [
-    [
-      "stan",
-      "1208"
-    ],
-    [
-      "stan",
-      "1313"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1328"
-    ],
-    [
-      "tractor",
-      "1257"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1231"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1231"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1231"
-    ],
-    [
-      "stan",
-      "1213"
-    ],
-    [
-      "stan",
-      "1213"
-    ]
-  ],
-  "Ragusio": [
-    [
-      "tractor",
-      "1238"
-    ]
-  ],
-  "Michiel": [
-    [
-      "tractor",
-      "1131"
-    ],
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "stan",
-      "1192"
-    ],
-    [
-      "stan",
-      "1312"
-    ],
-    [
-      "stan",
-      "1191"
-    ],
+  "Simitecolo": [
     [
       "tractor",
       "1224"
-    ],
-    [
-      "stan",
-      "1105"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "stan",
-      "1260"
-    ],
-    [
-      "stan",
-      "1260"
-    ],
-    [
-      "stan",
-      "1261"
-    ],
-    [
-      "stan",
-      "1261"
     ]
   ],
-  "Avenanzo": [
+  "Gritti": [
+    [
+      "tractor",
+      "1211"
+    ],
     [
       "stan",
-      "1210"
+      "1211"
     ]
   ],
-  "Bozolino": [
+  "Grasso": [
     [
-      "tractor",
-      "1206"
+      "stan",
+      "1226"
     ]
   ],
-  "Dalla Fontana": [
+  "Grimani": [
     [
       "stan",
-      "1243"
-    ],
-    [
-      "stan",
-      "1239"
+      "1232"
     ],
     [
       "stan",
-      "1315"
-    ]
-  ],
-  "Tiepolo": [
-    [
-      "tractor",
-      "1182"
-    ],
-    [
-      "stan",
-      "1182"
-    ],
-    [
-      "tractor",
-      "1190"
-    ],
-    [
-      "tractor",
-      "1190"
-    ],
-    [
-      "tractor",
-      "1322"
-    ],
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1195"
-    ],
-    [
-      "tractor",
-      "1321"
-    ],
-    [
-      "stan",
-      "1321"
-    ],
-    [
-      "tractor",
-      "1189"
-    ],
-    [
-      "tractor",
-      "1252"
-    ],
-    [
-      "tractor",
-      "1321"
-    ],
-    [
-      "tractor",
-      "1190"
-    ],
-    [
-      "stan",
-      "1190"
-    ],
-    [
-      "tractor",
-      "1322"
-    ],
-    [
-      "stan",
-      "1322"
-    ]
-  ],
-  "Staniario": [
-    [
-      "tractor",
-      "1206"
-    ],
-    [
-      "stan",
-      "1206"
-    ],
-    [
-      "tractor",
-      "1200"
-    ],
-    [
-      "tractor",
-      "1210"
-    ],
-    [
-      "tractor",
-      "1239"
-    ],
-    [
-      "stan",
-      "1206"
-    ],
-    [
-      "tractor",
-      "1199"
-    ]
-  ],
-  "Businago": [
-    [
-      "tractor",
-      "1254"
-    ],
-    [
-      "stan",
-      "1253"
-    ]
-  ],
-  "Sceda": [
-    [
-      "tractor",
-      "1312"
-    ]
-  ],
-  "Centocori": [
-    [
-      "stan",
-      "1154"
-    ]
-  ],
-  "di Federico": [
-    [
-      "stan",
-      "1323"
-    ]
-  ],
-  "Semitecolo": [
-    [
-      "stan",
-      "1205"
-    ],
-    [
-      "stan",
-      "1319"
-    ],
-    [
-      "tractor",
-      "1254"
-    ],
-    [
-      "stan",
-      "1206"
-    ],
-    [
-      "stan",
-      "1182"
-    ],
-    [
-      "stan",
-      "1190"
+      "1232"
     ]
   ],
   "Polini": [
@@ -1877,34 +2059,24 @@
       "1197"
     ]
   ],
-  "Contarini": [
+  "Boldu": [
     [
       "tractor",
-      "1310"
-    ],
+      "1319"
+    ]
+  ],
+  "Boccazo": [
     [
-      "tractor",
-      "1138"
+      "stan",
+      "1214"
     ],
     [
       "stan",
-      "1320"
+      "1202"
     ],
     [
       "stan",
-      "1231"
-    ],
-    [
-      "stan",
-      "1167"
-    ],
-    [
-      "stan",
-      "1322"
-    ],
-    [
-      "tractor",
-      "1310"
+      "1189"
     ],
     [
       "stan",
@@ -1912,13 +2084,243 @@
     ],
     [
       "stan",
-      "1323"
+      "1234"
     ]
   ],
-  "di Artico": [
+  "Bianco": [
+    [
+      "tractor",
+      "1212"
+    ]
+  ],
+  "de Albrigeto": [
+    [
+      "tractor",
+      "1235"
+    ],
+    [
+      "tractor",
+      "1235"
+    ]
+  ],
+  "de Galletto": [
+    [
+      "stan",
+      "1246"
+    ]
+  ],
+  "Guido": [
+    [
+      "tractor",
+      "1159"
+    ],
+    [
+      "stan",
+      "1222"
+    ]
+  ],
+  "Messeta": [
+    [
+      "stan",
+      "1256"
+    ]
+  ],
+  "Bon": [
+    [
+      "tractor",
+      "1221"
+    ],
+    [
+      "tractor",
+      "1172"
+    ],
+    [
+      "stan",
+      "1234"
+    ],
+    [
+      "stan",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1221"
+    ]
+  ],
+  "Boninsegna": [
+    [
+      "tractor",
+      "1316"
+    ],
     [
       "stan",
       "1326"
+    ]
+  ],
+  "Sirano": [
+    [
+      "tractor",
+      "1252"
+    ]
+  ],
+  "Benedetti": [
+    [
+      "stan",
+      "1313"
+    ],
+    [
+      "tractor",
+      "1312"
+    ]
+  ],
+  "Ghisi": [
+    [
+      "stan",
+      "1252"
+    ],
+    [
+      "stan",
+      "1316"
+    ],
+    [
+      "tractor",
+      "1253"
+    ],
+    [
+      "stan",
+      "1316"
+    ]
+  ],
+  "Navager": [
+    [
+      "stan",
+      "1244"
+    ]
+  ],
+  "D'Avanzago": [
+    [
+      "tractor",
+      "1200"
+    ]
+  ],
+  "Calbo": [
+    [
+      "tractor",
+      "1235"
+    ],
+    [
+      "tractor",
+      "1153"
+    ]
+  ],
+  "Bozolino": [
+    [
+      "tractor",
+      "1206"
+    ]
+  ],
+  "Lanfranchi": [
+    [
+      "tractor",
+      "1247"
+    ]
+  ],
+  "Trevisan": [
+    [
+      "tractor",
+      "1327"
+    ],
+    [
+      "tractor",
+      "1329"
+    ],
+    [
+      "tractor",
+      "1329"
+    ],
+    [
+      "tractor",
+      "1327"
+    ],
+    [
+      "tractor",
+      "1257"
+    ],
+    [
+      "stan",
+      "1260"
+    ],
+    [
+      "tractor",
+      "1333"
+    ],
+    [
+      "stan",
+      "1251"
+    ],
+    [
+      "tractor",
+      "1333"
+    ],
+    [
+      "stan",
+      "1241"
+    ],
+    [
+      "tractor",
+      "1255"
+    ],
+    [
+      "tractor",
+      "1257"
+    ],
+    [
+      "stan",
+      "1257"
+    ],
+    [
+      "stan",
+      "1310"
+    ],
+    [
+      "tractor",
+      "1260"
+    ],
+    [
+      "tractor",
+      "1331"
+    ],
+    [
+      "tractor",
+      "1331"
+    ],
+    [
+      "tractor",
+      "1248"
+    ],
+    [
+      "tractor",
+      "1255"
+    ],
+    [
+      "stan",
+      "1255"
+    ],
+    [
+      "stan",
+      "1255"
+    ],
+    [
+      "stan",
+      "1322"
+    ],
+    [
+      "tractor",
+      "1315"
+    ],
+    [
+      "tractor",
+      "1256"
     ]
   ],
   "Pesaro": [
@@ -1927,78 +2329,72 @@
       "1312"
     ]
   ],
-  "Albizzo": [
+  "Moro": [
     [
       "stan",
-      "1236"
-    ],
-    [
-      "stan",
-      "1232"
-    ]
-  ],
-  "Muazzo": [
-    [
-      "stan",
-      "1221"
-    ],
-    [
-      "stan",
-      "1221"
-    ],
-    [
-      "stan",
-      "1239"
-    ]
-  ],
-  "Foscarini": [
-    [
-      "tractor",
       "1323"
     ],
     [
       "stan",
-      "1328"
+      "1323"
+    ],
+    [
+      "tractor",
+      "1121"
     ]
   ],
-  "Valaresso": [
+  "Biondo": [
     [
-      "stan",
-      "1226"
+      "tractor",
+      "1312"
+    ],
+    [
+      "tractor",
+      "1312"
     ]
   ],
-  "Barbetta": [
+  "di donna Maria": [
     [
       "stan",
-      "1314"
+      "1248"
+    ]
+  ],
+  "Querini": [
+    [
+      "tractor",
+      "1326"
     ],
     [
       "stan",
-      "1316"
-    ]
-  ],
-  "Capello": [
+      "1155"
+    ],
     [
       "stan",
-      "1235"
+      "1231"
     ]
   ],
-  "Boldu": [
-    [
-      "tractor",
-      "1319"
-    ]
-  ],
-  "Savoner": [
+  "Balestrieri": [
     [
       "stan",
-      "1243"
+      "1250"
     ]
   ],
-  "Bilongo": [
+  "di Bruges": [
     [
       "tractor",
-      "1120"
+      "1239"
+    ]
+  ],
+  "De Laurentio": [
+    [
+      "stan",
+      "1326"
+    ]
+  ],
+  "Mussolino": [
+    [
+      "tractor",
+      "1322"
     ]
   ],
   "Morosini": [
@@ -2127,30 +2523,10 @@
       "1328"
     ]
   ],
-  "Miani": [
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1244"
-    ],
+  "Ruzier": [
     [
       "tractor",
       "1243"
-    ],
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1244"
-    ],
-    [
-      "tractor",
-      "1242"
     ]
   ],
   "Villari": [
@@ -2159,843 +2535,59 @@
       "1208"
     ]
   ],
-  "Donato": [
+  "Barbo": [
     [
-      "stan",
-      "1220"
-    ],
-    [
-      "stan",
-      "1239"
-    ],
-    [
-      "stan",
-      "1313"
-    ],
-    [
-      "stan",
-      "1239"
-    ],
-    [
-      "stan",
-      "1191"
-    ]
-  ],
-  "Belegno": [
-    [
-      "tractor",
-      "1314"
-    ],
-    [
-      "stan",
-      "1232"
-    ],
-    [
-      "tractor",
-      "1316"
-    ]
-  ],
-  "Pasqualigo": [
-    [
-      "tractor",
-      "1170"
-    ]
-  ],
-  "Sagredo": [
-    [
-      "tractor",
-      "1320"
-    ],
-    [
-      "tractor",
-      "1320"
-    ]
-  ],
-  "Sirano": [
-    [
-      "tractor",
-      "1252"
-    ]
-  ],
-  "Bianco": [
-    [
-      "tractor",
-      "1212"
-    ]
-  ],
-  "Mastrorso": [
-    [
-      "stan",
-      "1231"
-    ]
-  ],
-  "Trevisan": [
-    [
-      "tractor",
-      "1327"
-    ],
-    [
-      "tractor",
-      "1329"
-    ],
-    [
-      "tractor",
-      "1329"
-    ],
-    [
-      "tractor",
-      "1327"
-    ],
-    [
-      "tractor",
-      "1257"
-    ],
-    [
-      "stan",
-      "1260"
-    ],
-    [
-      "tractor",
-      "1333"
-    ],
-    [
-      "stan",
-      "1251"
-    ],
-    [
-      "tractor",
-      "1333"
-    ],
-    [
-      "stan",
-      "1241"
-    ],
-    [
-      "tractor",
-      "1255"
-    ],
-    [
-      "tractor",
-      "1257"
-    ],
-    [
-      "stan",
-      "1257"
-    ],
-    [
-      "stan",
-      "1310"
-    ],
-    [
-      "tractor",
-      "1260"
-    ],
-    [
-      "tractor",
-      "1331"
-    ],
-    [
-      "tractor",
-      "1331"
-    ],
-    [
-      "tractor",
-      "1248"
-    ],
-    [
-      "tractor",
-      "1255"
-    ],
-    [
-      "stan",
-      "1255"
-    ],
-    [
-      "stan",
-      "1255"
-    ],
-    [
-      "stan",
-      "1322"
-    ],
-    [
-      "tractor",
-      "1315"
-    ],
-    [
-      "tractor",
-      "1256"
-    ]
-  ],
-  "Boccazo": [
-    [
-      "stan",
-      "1214"
-    ],
-    [
-      "stan",
-      "1202"
-    ],
-    [
-      "stan",
-      "1189"
-    ],
-    [
-      "stan",
-      "1234"
-    ],
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Moro": [
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1121"
-    ]
-  ],
-  "Bonizzo": [
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Bocca d'Uomo": [
-    [
-      "tractor",
-      "1205"
-    ]
-  ],
-  "Encio": [
-    [
-      "stan",
-      "1209"
-    ]
-  ],
-  "Lion": [
-    [
-      "stan",
-      "1326"
-    ],
-    [
-      "stan",
-      "1313"
-    ]
-  ],
-  "Batello": [
-    [
-      "tractor",
-      "1241"
-    ]
-  ],
-  "Maciacavallo": [
-    [
-      "stan",
-      "1159"
-    ]
-  ],
-  "Gussoni": [
-    [
-      "stan",
-      "1154"
-    ],
-    [
-      "tractor",
-      "1260"
-    ],
-    [
-      "tractor",
-      "1260"
-    ]
-  ],
-  "Da Mula": [
-    [
-      "stan",
-      "1198"
-    ],
-    [
-      "stan",
-      "1201"
-    ],
-    [
-      "tractor",
-      "1185"
-    ],
-    [
-      "stan",
-      "1185"
-    ]
-  ],
-  "Da Fano": [
-    [
-      "tractor",
-      "1206"
-    ]
-  ],
-  "Marin": [
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1257"
-    ],
-    [
-      "stan",
-      "1230"
-    ],
-    [
-      "stan",
-      "1230"
-    ]
-  ],
-  "Russo": [
-    [
-      "tractor",
-      "1226"
-    ],
-    [
-      "tractor",
-      "1159"
-    ]
-  ],
-  "di Burges": [
-    [
-      "tractor",
-      "1253"
-    ]
-  ],
-  "Lando": [
-    [
-      "stan",
-      "1310"
-    ]
-  ],
-  "Fel": [
-    [
-      "tractor",
-      "1233"
-    ],
-    [
-      "stan",
-      "1233"
-    ]
-  ],
-  "Giacobbe": [
-    [
-      "tractor",
-      "1167"
-    ]
-  ],
-  "Barberius": [
-    [
-      "stan",
-      "1312"
-    ]
-  ],
-  "D'Equilo": [
-    [
-      "tractor",
-      "1225"
-    ]
-  ],
-  "Scutario": [
-    [
-      "stan",
-      "1260"
-    ]
-  ],
-  "Baseggio": [
-    [
-      "stan",
-      "1217"
-    ],
-    [
-      "stan",
-      "1321"
-    ],
-    [
-      "tractor",
-      "1192"
-    ]
-  ],
-  "Tebaldo": [
-    [
-      "stan",
-      "1209"
-    ]
-  ],
-  "Senadori": [
-    [
-      "stan",
-      "1234"
-    ]
-  ],
-  "Darpin": [
-    [
-      "stan",
-      "1224"
-    ]
-  ],
-  "Babilonio": [
-    [
-      "stan",
-      "1333"
-    ]
-  ],
-  "de Albrigeto": [
-    [
-      "tractor",
-      "1235"
-    ],
-    [
-      "tractor",
-      "1235"
-    ]
-  ],
-  "Gradenigo": [
-    [
-      "tractor",
-      "1210"
-    ],
-    [
-      "tractor",
-      "1208"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1217"
-    ],
-    [
-      "tractor",
-      "1218"
-    ],
-    [
-      "tractor",
-      "1223"
-    ],
-    [
-      "tractor",
-      "1225"
-    ],
-    [
-      "stan",
-      "1225"
-    ],
-    [
-      "tractor",
-      "1213"
-    ],
-    [
-      "tractor",
-      "1208"
-    ],
-    [
-      "stan",
-      "1208"
-    ],
-    [
-      "tractor",
-      "1205"
-    ],
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1208"
-    ],
-    [
-      "stan",
-      "1255"
-    ],
-    [
-      "tractor",
-      "1220"
-    ],
-    [
-      "stan",
-      "1220"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1223"
-    ],
-    [
-      "tractor",
-      "1209"
-    ],
-    [
-      "tractor",
-      "1222"
-    ],
-    [
-      "tractor",
-      "1209"
-    ],
-    [
-      "tractor",
-      "1208"
-    ],
-    [
-      "stan",
-      "1208"
-    ],
-    [
-      "tractor",
-      "1208"
-    ],
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1222"
-    ],
-    [
-      "stan",
-      "1222"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
       "tractor",
-      "1225"
+      "1244"
     ],
     [
-      "stan",
-      "1225"
-    ],
-    [
-      "tractor",
-      "1222"
-    ],
-    [
-      "stan",
-      "1222"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1222"
-    ],
-    [
-      "tractor",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1220"
-    ],
-    [
-      "stan",
-      "1220"
-    ],
-    [
-      "tractor",
-      "1208"
-    ],
-    [
-      "tractor",
-      "1213"
-    ]
-  ],
-  "Simone": [
-    [
-      "tractor",
-      "1207"
-    ]
-  ],
-  "Marangon": [
-    [
-      "tractor",
-      "1260"
-    ]
-  ],
-  "Faccio": [
-    [
-      "tractor",
-      "1197"
-    ],
-    [
       "tractor",
-      "1214"
+      "1243"
     ],
     [
       "tractor",
-      "1214"
-    ]
-  ],
-  "Albino": [
-    [
-      "stan",
-      "1239"
+      "1243"
     ],
     [
-      "stan",
-      "1239"
-    ]
-  ],
-  "Minio": [
-    [
       "tractor",
-      "1228"
-    ],
-    [
-      "stan",
       "1242"
     ],
     [
       "tractor",
-      "1230"
-    ]
-  ],
-  "Speziale": [
-    [
-      "stan",
-      "1228"
+      "1324"
     ],
-    [
-      "stan",
-      "1228"
-    ]
-  ],
-  "Vitturi": [
     [
       "tractor",
-      "1240"
-    ]
-  ],
-  "Giustinian": [
-    [
-      "stan",
-      "1327"
-    ],
-    [
-      "stan",
-      "1329"
-    ],
-    [
-      "stan",
-      "1244"
-    ],
-    [
-      "stan",
-      "1326"
-    ],
-    [
-      "stan",
-      "1138"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "stan",
-      "1328"
-    ],
-    [
-      "stan",
-      "1243"
-    ],
-    [
-      "stan",
-      "1325"
-    ],
-    [
-      "stan",
-      "1313"
-    ],
-    [
-      "stan",
-      "1333"
-    ],
-    [
-      "stan",
-      "1191"
-    ],
-    [
-      "stan",
       "1246"
     ],
     [
       "stan",
-      "1331"
-    ],
-    [
-      "stan",
-      "1319"
-    ],
-    [
-      "stan",
-      "1313"
-    ]
-  ],
-  "Baro": [
-    [
-      "tractor",
-      "1105"
-    ]
-  ],
-  "Barbani": [
-    [
-      "stan",
-      "1200"
-    ]
-  ],
-  "Fiorentino": [
-    [
-      "stan",
-      "1206"
-    ]
-  ],
-  "Mastropetro": [
-    [
-      "stan",
-      "1153"
-    ]
-  ],
-  "Mosto": [
-    [
-      "stan",
-      "1247"
-    ]
-  ],
-  "Calbo": [
-    [
-      "tractor",
-      "1235"
+      "1222"
     ],
     [
       "tractor",
-      "1153"
-    ]
-  ],
-  "Katarino": [
-    [
-      "tractor",
-      "1255"
-    ]
-  ],
-  "Zeno": [
-    [
-      "stan",
-      "1323"
+      "1232"
     ],
     [
-      "stan",
-      "1313"
-    ]
-  ],
-  "Simitecolo": [
-    [
       "tractor",
-      "1224"
-    ]
-  ],
-  "Zopolo": [
-    [
-      "tractor",
-      "1311"
-    ]
-  ],
-  "Foscolo": [
-    [
-      "stan",
-      "1323"
+      "1243"
     ],
     [
       "tractor",
       "1242"
-    ]
-  ],
-  "Ziani": [
-    [
-      "stan",
-      "1201"
     ],
-    [
-      "stan",
-      "1209"
-    ],
-    [
-      "stan",
-      "1190"
-    ],
-    [
-      "stan",
-      "1223"
-    ],
-    [
-      "stan",
-      "1209"
-    ],
-    [
-      "stan",
-      "1208"
-    ]
-  ],
-  "di Albiola": [
     [
       "tractor",
-      "1200"
+      "1232"
     ]
   ],
-  "Guido": [
-    [
-      "tractor",
-      "1159"
-    ],
-    [
-      "stan",
-      "1222"
-    ]
-  ],
-  "Mocenigo": [
-    [
-      "stan",
-      "1205"
-    ],
+  "Cavalerio": [
     [
       "stan",
       "1207"
     ]
   ],
-  "Manguni": [
+  "Mangoni": [
     [
       "stan",
       "1239"
@@ -3011,108 +2603,76 @@
       "1222"
     ]
   ],
-  "Iantani": [
+  "Fiorentino": [
     [
       "stan",
-      "1235"
-    ],
-    [
-      "stan",
-      "1228"
+      "1206"
     ]
   ],
-  "Falier": [
+  "Vitaliano": [
     [
       "tractor",
-      "1130"
-    ],
+      "1217"
+    ]
+  ],
+  "d'Albiola": [
     [
       "tractor",
-      "1231"
-    ],
+      "1189"
+    ]
+  ],
+  "Barbetta": [
     [
-      "tractor",
-      "1235"
-    ],
-    [
-      "tractor",
-      "1231"
-    ],
-    [
-      "tractor",
-      "1167"
-    ],
-    [
-      "tractor",
-      "1191"
+      "stan",
+      "1314"
     ],
     [
       "stan",
-      "1252"
-    ],
-    [
-      "tractor",
-      "1231"
-    ],
-    [
-      "tractor",
-      "1191"
-    ]
-  ],
-  "Squaglia": [
-    [
-      "tractor",
-      "1255"
-    ]
-  ],
-  "di Fioravante": [
-    [
-      "tractor",
-      "1313"
-    ]
-  ],
-  "Sanudo": [
-    [
-      "tractor",
-      "1316"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1316"
-    ],
-    [
-      "stan",
-      "1316"
-    ],
-    [
-      "tractor",
-      "1316"
-    ],
-    [
-      "tractor",
       "1316"
     ]
   ],
-  "Seio": [
+  "Zordani": [
     [
       "stan",
-      "1239"
+      "1329"
+    ],
+    [
+      "stan",
+      "1326"
+    ],
+    [
+      "stan",
+      "1328"
+    ]
+  ],
+  "Sagredo": [
+    [
+      "tractor",
+      "1320"
+    ],
+    [
+      "tractor",
+      "1320"
+    ]
+  ],
+  "Spoletino": [
+    [
+      "tractor",
+      "1244"
+    ]
+  ],
+  "Caravello": [
+    [
+      "stan",
+      "1321"
+    ],
+    [
+      "stan",
+      "1319"
+    ],
+    [
+      "stan",
+      "1323"
     ],
     [
       "stan",
@@ -3123,38 +2683,570 @@
       "1239"
     ]
   ],
-  "Gramentuni": [
+  "Martinazo": [
     [
-      "stan",
-      "1220"
+      "tractor",
+      "1320"
     ]
   ],
-  "Dandolo": [
+  "Anastasio": [
+    [
+      "tractor",
+      "1198"
+    ]
+  ],
+  "Valaresso": [
+    [
+      "stan",
+      "1226"
+    ]
+  ],
+  "Malaza": [
     [
       "stan",
       "1161"
+    ]
+  ],
+  "Lombardo": [
+    [
+      "tractor",
+      "1238"
+    ]
+  ],
+  "Bonaldi": [
+    [
+      "tractor",
+      "1153"
+    ]
+  ],
+  "Bembo": [
+    [
+      "stan",
+      "1131"
     ],
     [
       "stan",
-      "1316"
+      "1217"
     ],
     [
       "stan",
-      "1316"
+      "1218"
+    ],
+    [
+      "stan",
+      "1213"
+    ],
+    [
+      "tractor",
+      "1239"
+    ]
+  ],
+  "Emo": [
+    [
+      "tractor",
+      "1208"
+    ],
+    [
+      "tractor",
+      "1226"
+    ],
+    [
+      "tractor",
+      "1220"
+    ],
+    [
+      "tractor",
+      "1253"
+    ],
+    [
+      "tractor",
+      "1224"
+    ],
+    [
+      "tractor",
+      "1224"
+    ],
+    [
+      "tractor",
+      "1253"
+    ],
+    [
+      "tractor",
+      "1225"
+    ],
+    [
+      "tractor",
+      "1208"
+    ],
+    [
+      "tractor",
+      "1232"
+    ],
+    [
+      "tractor",
+      "1218"
+    ],
+    [
+      "tractor",
+      "1253"
+    ],
+    [
+      "tractor",
+      "1253"
+    ],
+    [
+      "tractor",
+      "1226"
+    ],
+    [
+      "tractor",
+      "1205"
+    ]
+  ],
+  "Premarin": [
+    [
+      "stan",
+      "1239"
+    ],
+    [
+      "stan",
+      "1224"
+    ]
+  ],
+  "Casolo": [
+    [
+      "stan",
+      "1208"
+    ]
+  ],
+  "Fel": [
+    [
+      "tractor",
+      "1233"
+    ],
+    [
+      "stan",
+      "1233"
+    ]
+  ],
+  "Curtolo": [
+    [
+      "stan",
+      "1206"
+    ],
+    [
+      "tractor",
+      "1205"
+    ],
+    [
+      "stan",
+      "1207"
+    ]
+  ],
+  "Civran": [
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Contarini": [
+    [
+      "tractor",
+      "1310"
+    ],
+    [
+      "tractor",
+      "1138"
+    ],
+    [
+      "stan",
+      "1320"
+    ],
+    [
+      "stan",
+      "1231"
+    ],
+    [
+      "stan",
+      "1167"
+    ],
+    [
+      "stan",
+      "1322"
+    ],
+    [
+      "tractor",
+      "1310"
+    ],
+    [
+      "stan",
+      "1234"
+    ],
+    [
+      "stan",
+      "1323"
+    ]
+  ],
+  "Morono": [
+    [
+      "stan",
+      "1313"
+    ]
+  ],
+  "Ardizon": [
+    [
+      "stan",
+      "1121"
+    ]
+  ],
+  "Arimondo": [
+    [
+      "stan",
+      "1319"
+    ],
+    [
+      "stan",
+      "1198"
+    ],
+    [
+      "stan",
+      "1319"
+    ],
+    [
+      "stan",
+      "1320"
+    ],
+    [
+      "stan",
+      "1320"
+    ],
+    [
+      "stan",
+      "1320"
+    ]
+  ],
+  "Veglia": [
+    [
+      "tractor",
+      "1248"
     ],
     [
       "stan",
       "1234"
     ]
   ],
-  "de Stolla": [
+  "Longo": [
     [
-      "stan",
-      "1316"
+      "tractor",
+      "1228"
+    ],
+    [
+      "tractor",
+      "1236"
     ],
     [
       "stan",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1228"
+    ],
+    [
+      "tractor",
+      "1212"
+    ],
+    [
+      "tractor",
+      "1227"
+    ]
+  ],
+  "Staniario": [
+    [
+      "tractor",
+      "1206"
+    ],
+    [
+      "tractor",
+      "1200"
+    ],
+    [
+      "tractor",
+      "1210"
+    ],
+    [
+      "tractor",
+      "1239"
+    ],
+    [
+      "stan",
+      "1206"
+    ],
+    [
+      "tractor",
+      "1199"
+    ]
+  ],
+  "Giacobbe": [
+    [
+      "tractor",
+      "1167"
+    ]
+  ],
+  "Ragusio": [
+    [
+      "tractor",
+      "1238"
+    ]
+  ],
+  "de Iema": [
+    [
+      "tractor",
       "1312"
+    ]
+  ],
+  "Copula": [
+    [
+      "stan",
+      "1165"
+    ]
+  ],
+  "Savoner": [
+    [
+      "stan",
+      "1243"
+    ]
+  ],
+  "Viaro": [
+    [
+      "tractor",
+      "1199"
+    ],
+    [
+      "tractor",
+      "1201"
+    ],
+    [
+      "tractor",
+      "1209"
+    ],
+    [
+      "tractor",
+      "1202"
+    ],
+    [
+      "tractor",
+      "1198"
+    ],
+    [
+      "tractor",
+      "1209"
+    ],
+    [
+      "tractor",
+      "1204"
+    ],
+    [
+      "tractor",
+      "1204"
+    ],
+    [
+      "tractor",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1313"
+    ],
+    [
+      "tractor",
+      "1198"
+    ],
+    [
+      "tractor",
+      "1205"
+    ],
+    [
+      "stan",
+      "1255"
+    ],
+    [
+      "tractor",
+      "1197"
+    ],
+    [
+      "tractor",
+      "1313"
+    ],
+    [
+      "tractor",
+      "1313"
+    ],
+    [
+      "tractor",
+      "1202"
+    ],
+    [
+      "tractor",
+      "1205"
+    ],
+    [
+      "tractor",
+      "1212"
+    ],
+    [
+      "tractor",
+      "1202"
+    ],
+    [
+      "stan",
+      "1255"
+    ],
+    [
+      "stan",
+      "1207"
+    ],
+    [
+      "tractor",
+      "1198"
+    ],
+    [
+      "tractor",
+      "1205"
+    ],
+    [
+      "tractor",
+      "1201"
+    ],
+    [
+      "tractor",
+      "1313"
+    ],
+    [
+      "tractor",
+      "1313"
+    ],
+    [
+      "tractor",
+      "1313"
+    ],
+    [
+      "tractor",
+      "1313"
+    ]
+  ],
+  "da Tumba": [
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "Abriano": [
+    [
+      "stan",
+      "1212"
+    ]
+  ],
+  "Flabiano": [
+    [
+      "tractor",
+      "1319"
+    ]
+  ],
+  "Dalla Scala": [
+    [
+      "stan",
+      "1324"
+    ],
+    [
+      "stan",
+      "1329"
+    ],
+    [
+      "stan",
+      "1324"
+    ]
+  ],
+  "Rosso": [
+    [
+      "tractor",
+      "1256"
+    ],
+    [
+      "stan",
+      "1234"
+    ],
+    [
+      "stan",
+      "1234"
+    ]
+  ],
+  "de Suligo": [
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ],
+    [
+      "tractor",
+      "1234"
+    ]
+  ],
+  "Villano": [
+    [
+      "stan",
+      "1220"
     ]
   ],
   "Zane": [
@@ -3163,36 +3255,10 @@
       "1206"
     ]
   ],
-  "Marzolo": [
+  "Pizolo": [
     [
-      "stan",
-      "1210"
-    ],
-    [
-      "stan",
-      "1207"
-    ],
-    [
-      "stan",
-      "1209"
-    ],
-    [
-      "stan",
-      "1208"
-    ],
-    [
-      "stan",
-      "1212"
-    ],
-    [
-      "stan",
-      "1207"
-    ]
-  ],
-  "de Ranerio": [
-    [
-      "stan",
-      "1234"
+      "tractor",
+      "1228"
     ]
   ],
   "Badoer": [
@@ -3261,54 +3327,202 @@
       "1321"
     ]
   ],
-  "Lombardo": [
+  "Acotanto": [
     [
       "tractor",
-      "1238"
+      "1234"
     ]
   ],
-  "Spatario": [
+  "Zantani": [
     [
-      "stan",
-      "1250"
+      "tractor",
+      "1220"
     ],
     [
       "stan",
-      "1250"
+      "1251"
     ]
   ],
-  "Vidal": [
+  "Mastroscoli": [
     [
       "tractor",
-      "1183"
-    ],
-    [
-      "tractor",
-      "1165"
-    ],
-    [
-      "tractor",
-      "1165"
-    ]
-  ],
-  "Grimani": [
-    [
-      "stan",
-      "1232"
-    ],
-    [
-      "stan",
-      "1232"
-    ]
-  ],
-  "Storladi": [
-    [
-      "stan",
       "1089"
     ],
     [
-      "stan",
+      "tractor",
       "1088"
+    ]
+  ],
+  "Tiepolo": [
+    [
+      "tractor",
+      "1182"
+    ],
+    [
+      "stan",
+      "1182"
+    ],
+    [
+      "tractor",
+      "1190"
+    ],
+    [
+      "tractor",
+      "1190"
+    ],
+    [
+      "tractor",
+      "1322"
+    ],
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1195"
+    ],
+    [
+      "tractor",
+      "1321"
+    ],
+    [
+      "stan",
+      "1321"
+    ],
+    [
+      "tractor",
+      "1189"
+    ],
+    [
+      "tractor",
+      "1252"
+    ],
+    [
+      "tractor",
+      "1321"
+    ],
+    [
+      "tractor",
+      "1190"
+    ],
+    [
+      "stan",
+      "1190"
+    ],
+    [
+      "tractor",
+      "1322"
+    ],
+    [
+      "stan",
+      "1322"
+    ]
+  ],
+  "Miani": [
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1244"
+    ],
+    [
+      "tractor",
+      "1243"
+    ],
+    [
+      "tractor",
+      "1323"
+    ],
+    [
+      "tractor",
+      "1242"
+    ]
+  ],
+  "Francesco": [
+    [
+      "tractor",
+      "1251"
+    ]
+  ],
+  "Ziani": [
+    [
+      "stan",
+      "1201"
+    ],
+    [
+      "stan",
+      "1209"
+    ],
+    [
+      "stan",
+      "1190"
+    ],
+    [
+      "stan",
+      "1223"
+    ],
+    [
+      "stan",
+      "1209"
+    ],
+    [
+      "stan",
+      "1208"
+    ]
+  ],
+  "Centocori": [
+    [
+      "stan",
+      "1154"
+    ]
+  ],
+  "Lando": [
+    [
+      "stan",
+      "1310"
+    ]
+  ],
+  "Zorzi": [
+    [
+      "stan",
+      "1310"
+    ],
+    [
+      "stan",
+      "1223"
+    ],
+    [
+      "stan",
+      "1197"
+    ],
+    [
+      "stan",
+      "1218"
+    ]
+  ],
+  "Orefice": [
+    [
+      "stan",
+      "1073"
+    ]
+  ],
+  "Cazzamonti": [
+    [
+      "stan",
+      "1319"
+    ]
+  ],
+  "Muazzo": [
+    [
+      "stan",
+      "1221"
+    ],
+    [
+      "stan",
+      "1221"
     ]
   ],
   "Bredani": [
@@ -3325,262 +3539,28 @@
       "1227"
     ]
   ],
-  "da Mantova": [
-    [
-      "stan",
-      "1222"
-    ]
-  ],
-  "d'Albiola": [
-    [
-      "tractor",
-      "1189"
-    ]
-  ],
-  "Tomato": [
-    [
-      "stan",
-      "1231"
-    ],
-    [
-      "stan",
-      "1231"
-    ]
-  ],
-  "De Laurentio": [
-    [
-      "stan",
-      "1326"
-    ]
-  ],
-  "Martinazo": [
-    [
-      "tractor",
-      "1320"
-    ]
-  ],
-  "Morono": [
-    [
-      "stan",
-      "1313"
-    ]
-  ],
-  "Tagliapietra": [
-    [
-      "stan",
-      "1323"
-    ]
-  ],
-  "Da Molin": [
-    [
-      "tractor",
-      "1170"
-    ],
-    [
-      "tractor",
-      "1118"
-    ],
-    [
-      "tractor",
-      "1333"
-    ],
-    [
-      "stan",
-      "1207"
-    ],
-    [
-      "tractor",
-      "1184"
-    ],
-    [
-      "stan",
-      "1184"
-    ],
-    [
-      "tractor",
-      "1130"
-    ],
-    [
-      "tractor",
-      "1247"
-    ],
+  "Mosto": [
     [
       "stan",
       "1247"
-    ],
-    [
-      "stan",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1189"
-    ],
-    [
-      "stan",
-      "1189"
-    ],
-    [
-      "tractor",
-      "1323"
-    ],
-    [
-      "tractor",
-      "1338"
-    ],
-    [
-      "stan",
-      "1338"
-    ],
-    [
-      "tractor",
-      "1331"
-    ],
-    [
-      "tractor",
-      "1154"
     ]
   ],
-  "Voltani": [
+  "de Rodanis da Cremona": [
     [
       "stan",
-      "1186"
-    ],
-    [
-      "stan",
-      "1172"
-    ],
-    [
-      "stan",
-      "1198"
-    ],
-    [
-      "stan",
-      "1170"
-    ]
-  ],
-  "de Suligo": [
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ],
-    [
-      "tractor",
-      "1234"
-    ]
-  ],
-  "Centosoldi": [
-    [
-      "stan",
-      "1183"
-    ]
-  ],
-  "di donna Maria": [
-    [
-      "stan",
-      "1248"
-    ]
-  ],
-  "Pergaminer": [
-    [
-      "tractor",
-      "1242"
-    ]
-  ],
-  "di Troia": [
-    [
-      "stan",
-      "1254"
-    ]
-  ],
-  "Bonoto": [
-    [
-      "tractor",
       "1312"
     ]
   ],
-  "Arimondo": [
+  "di Guazo": [
     [
       "stan",
-      "1319"
-    ],
-    [
-      "stan",
-      "1198"
-    ],
-    [
-      "stan",
-      "1319"
-    ],
-    [
-      "stan",
-      "1320"
-    ],
-    [
-      "stan",
-      "1320"
-    ],
-    [
-      "stan",
-      "1320"
+      "1205"
     ]
   ],
-  "Navager": [
+  "da Trau": [
     [
       "stan",
-      "1244"
+      "1322"
     ]
   ],
   "Barastro": [
@@ -3601,116 +3581,30 @@
       "1256"
     ]
   ],
-  "Canal": [
+  "Foscolo": [
     [
       "stan",
-      "1312"
-    ],
-    [
-      "stan",
-      "1242"
-    ],
-    [
-      "stan",
-      "1212"
-    ],
-    [
-      "stan",
-      "1260"
-    ],
-    [
-      "stan",
-      "1195"
-    ],
-    [
-      "tractor",
-      "1223"
-    ]
-  ],
-  "de Rodanis da Cremona": [
-    [
-      "stan",
-      "1312"
-    ]
-  ],
-  "Belli": [
-    [
-      "tractor",
-      "1242"
-    ],
-    [
-      "tractor",
-      "1244"
+      "1323"
     ],
     [
       "tractor",
       "1242"
-    ],
-    [
-      "tractor",
-      "1252"
     ]
   ],
-  "Emo": [
+  "Balbi": [
     [
-      "tractor",
-      "1208"
-    ],
+      "stan",
+      "1239"
+    ]
+  ],
+  "Russo": [
     [
       "tractor",
       "1226"
     ],
     [
       "tractor",
-      "1220"
-    ],
-    [
-      "tractor",
-      "1253"
-    ],
-    [
-      "tractor",
-      "1224"
-    ],
-    [
-      "tractor",
-      "1224"
-    ],
-    [
-      "tractor",
-      "1253"
-    ],
-    [
-      "tractor",
-      "1225"
-    ],
-    [
-      "tractor",
-      "1208"
-    ],
-    [
-      "tractor",
-      "1232"
-    ],
-    [
-      "tractor",
-      "1218"
-    ],
-    [
-      "tractor",
-      "1253"
-    ],
-    [
-      "tractor",
-      "1253"
-    ],
-    [
-      "tractor",
-      "1226"
-    ],
-    [
-      "tractor",
-      "1205"
+      "1159"
     ]
   ]
 }

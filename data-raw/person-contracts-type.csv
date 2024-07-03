@@ -14,8 +14,8 @@ Name,Contracts,Type
 "Andrea Morono",1,stans
 "Andrea Pentulo",1,tractor
 "Andrea Sanudo",1,stans
-"Andrea Soranzo",3,tractor
-"Andrea Tomato",2,stans
+"Andrea Soranzo",2,tractor
+"Andrea Tomato",1,stans
 "Andriolo Baseggio",1,stans
 "Andriolo Da Molin",1,tractor
 "Andriolo Trevisan",1,stans
@@ -26,7 +26,7 @@ Name,Contracts,Type
 "Angelo Da Molin",1,tractor
 "Angelo Marangon",1,tractor
 "Angelo Semitecolo",2,stans
-"Angelo Vidal",2,tractor
+"Angelo Vidal",1,tractor
 "Angelo de Albrigeto",2,tractor
 "Antolino Curtolo",3,tractor→stans
 "Antonio Alberto",2,tractor
@@ -64,7 +64,6 @@ Name,Contracts,Type
 "Cecilia Giustinian",2,stans
 "Cecilia Michiel",1,stans
 "Cipriano Mangoni",1,stans
-"Cipriano Manguni",1,stans
 "Clemenazo Rosso",1,tractor
 "Clemente Bonizzo",1,stans
 "Colomanno Bembo",1,stans
@@ -87,7 +86,7 @@ Name,Contracts,Type
 "Domenico D'Avanzago",1,tractor
 "Domenico Emo",1,tractor
 "Domenico Giacobbe",1,tractor
-"Domenico Gradenigo",30,tractor
+"Domenico Gradenigo",28,tractor
 "Domenico Grimani",1,stans
 "Domenico Grioni",1,stans
 "Domenico Lion",1,stans
@@ -117,7 +116,7 @@ Name,Contracts,Type
 "Filippo Belegno",1,stans
 "Filippo Boccazo",1,stans
 "Filippo Corner",2,stans
-"Filippo Donato",2,stans
+"Filippo Donato",1,stans
 "Filippo Grimani",1,stans
 "Filippo Guido",1,stans
 "Filippo Iantani",1,stans
@@ -172,9 +171,9 @@ Name,Contracts,Type
 "Giamoco Muazzo",1,stans
 "Giocomo Muazzo",1,stans
 "Giovani Badoer",1,stans
-"Giovanni Acotanto",2,tractor
+"Giovanni Acotanto",1,tractor
 "Giovanni Agadi",1,stans
-"Giovanni Albino",2,stans
+"Giovanni Albino",1,stans
 "Giovanni Anastasio",1,tractor
 "Giovanni Badoer",3,stans
 "Giovanni Baro",1,tractor
@@ -184,7 +183,7 @@ Name,Contracts,Type
 "Giovanni Bonaldi",1,tractor
 "Giovanni Canal",1,stans
 "Giovanni Contarini",1,stans
-"Giovanni Corner",8,tractor
+"Giovanni Corner",7,tractor
 "Giovanni Dalla Fontana",2,stans
 "Giovanni Dandolo",1,stans
 "Giovanni Emo",4,tractor
@@ -230,16 +229,16 @@ Name,Contracts,Type
 "Guidotto Gritti",1,tractor
 "Iacopo Venier",1,tractor
 "Imperatrice Michiel",1,stans
-"Lazzaro Mercadante",9,stans
+"Lazzaro Mercadante",8,stans
 "Lazzaro Scutario",1,stans
 "Leonardo Boccazo",1,stans
-"Leonardo Bosio",3,stans
+"Leonardo Bosio",2,stans
 "Leonardo Donato",1,stans
 "Leonardo Lanfranchi",1,tractor
 "Leonardo Minio",3,tractor→stans
 "Leonardo Venier",1,tractor
 "Leonardo Villano",1,stans
-"Leone Copula",2,stans
+"Leone Copula",1,stans
 "Leone Corner",1,stans
 "Lipefina Manolesso",1,stans
 "Lombardo Bon",1,stans
@@ -266,7 +265,7 @@ Name,Contracts,Type
 "Marco Morosini",8,stans→stans
 "Marco Pizolo",1,tractor
 "Marco Romani",2,tractor
-"Marco Seio",2,stans
+"Marco Seio",1,stans
 "Marco Semitecolo",1,tractor
 "Marco Signolo",1,tractor
 "Marco Simone",1,tractor
@@ -279,12 +278,12 @@ Name,Contracts,Type
 "Marco de Stolla",1,stans
 "Marco di Artico",1,stans
 "Margarito D'Equilo",1,tractor
-"Margarito Giacomo",11,tractor
+"Margarito Giacomo",7,tractor
 "Maria Soranzo",1,stans
 "Maria Tagliapietra",1,stans
 "Maria Zeno",1,stans
 "Maria Ziani",3,stans
-"Maria Zusto",2,stans
+"Maria Zusto",1,stans
 "Marinello Badoer",5,tractor
 "Marino Badoer",5,stans
 "Marino Bellono",1,stans
@@ -303,13 +302,13 @@ Name,Contracts,Type
 "Marino Spatario",1,stans
 "Marino da Tumba",1,stans
 "Martino Messeta",1,stans
-"Martino Miani",2,tractor
+"Martino Miani",1,tractor
 "Martino Speziale",1,stans
 "Marziale Banzon",1,tractor
 "Matteo Barbarigo",1,tractor
 "Matteo Barbo",1,stans
 "Matteo Flabiano",1,tractor
-"Matteo Marzolo",6,stans
+"Matteo Marzolo",5,stans
 "Matteo Marzulo",2,stans
 "Matteo Simitecolo",1,tractor
 "Matteo d'Ancontano",2,tractor
@@ -362,7 +361,6 @@ Name,Contracts,Type
 "Paolo Da Molin",1,stans
 "Paolo Foscarini",1,stans
 "Paolo Navigroso",1,stans
-"Pasquale Muazzo",1,stans
 "Pietro Addoldo",1,stans
 "Pietro Agadi",1,stans
 "Pietro Alberto",2,stans
@@ -380,7 +378,7 @@ Name,Contracts,Type
 "Pietro Falier",4,tractor→stans
 "Pietro Foscolo",1,tractor
 "Pietro Ghisi",1,stans
-"Pietro Gradenigo",2,stans
+"Pietro Gradenigo",1,stans
 "Pietro Gussoni",2,tractor
 "Pietro Istrigo",1,stans
 "Pietro Longo",1,stans
@@ -400,7 +398,7 @@ Name,Contracts,Type
 "Pietro Vitaliano",1,tractor
 "Pietro Ziani",3,stans
 "Pietro Zorzi",1,stans
-"Pietro da Ferraguto",2,tractor
+"Pietro da Ferraguto",1,tractor
 "Pietro da Vicenza",1,tractor
 "Pietro di Guazo",1,stans
 "Pietro, & Simeone Signolo",1,tractor
@@ -442,7 +440,7 @@ Name,Contracts,Type
 "Tommasina Gradenigo",1,stans
 "Tommasino Giustinian",1,stans
 "Tommaso Bon",2,tractor
-"Tommaso Falier",3,tractor
+"Tommaso Falier",2,tractor
 "Tommaso Gradenigo",2,stans
 "Tommaso Marin",1,tractor
 "Tommaso Tron",1,tractor
@@ -464,7 +462,7 @@ Name,Contracts,Type
 "Viviano Da Molin",2,tractor
 "Viviano Miani",1,tractor
 "Zaccaria Nani",1,stans
-"Zaccaria Staniario",6,tractor→tractor
+"Zaccaria Staniario",5,tractor→tractor
 "Zambonino de Rodanis da Cremona",1,stans
 "Zanino Morosini",3,tractor→stans
 "Ziani Badoer",1,stans

@@ -20,6 +20,8 @@ for @rows[0..*] -> %row {
     my $tractor-families = Set();
     my $stan-families = Set();
     next if %row<tractor_familyname_italian> eq "";
+    next if %row<repeat_note> ne "";
+    say %row;
     for <tractor_familyname tractor_2_familyname stans_familyname stans_2_familyname> -> $key {
         my Str $std-name = "";
 
