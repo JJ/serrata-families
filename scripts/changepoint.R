@@ -11,7 +11,7 @@ contracts.pre.serrata <- contracts.per.year[contracts.per.year$date <= 1261,]
 
 lanzante.contracts <- lanzante.test(contracts.pre.serrata$Contracts)
 
-contracts.pre.serrata[lanzante.contracts$estimate,]
+changepoint.date <- contracts.pre.serrata[lanzante.contracts$estimate,]$date
 
-contracts.pre.changepoint <- colleganza.pairs.date[ colleganza.pairs.date$date <= 1197,]
+contracts.pre.changepoint <- colleganza.pairs.date[ colleganza.pairs.date$date <= changepoint.date,]
 
