@@ -14,7 +14,7 @@ colleganza.graph <- graph_from_data_frame(colleganza.pairs.date, directed=F)
 use_data(colleganza.graph, overwrite=T)
 
 great.council.families <- fromJSON("../data-raw/great-council-families.json")
-use_data(great.council.families)
+use_data(great.council.families, overwrite=T)
 
 great.council.families.dates <- read.csv("../data-raw/families-great-council-date.csv",sep=";")
 great.council.families.dates$Start <- as.numeric(trimws(great.council.families.dates$Start))
@@ -38,3 +38,4 @@ use_data(colleganza.family.flips.post, overwrite=T)
 
 contract.data.families <- read.csv("../data-raw/contract-data-families.csv",header=T)
 use_data(contract.data.families, overwrite=T)
+
