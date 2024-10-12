@@ -45,9 +45,12 @@ ggplot( contract.data.families, aes(x=great.council, y=Last.Year)) +
   labs(title="Great Council Families in Contracts", x="Great Council", y="Last year of contract") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
+significant.differences.last.year.great.council <- wilcox.test( contract.data.families[ contract.data.families$great.council == TRUE, ]$Last.Year,
+                                                  contract.data.families[ contract.data.families$great.council == FALSE, ]$Last.Year, alternative="greater" )
+
 ggplot( contract.data.families, aes(x=great.council, y=Total.Contracts)) +
   geom_jitter(aes(shape=Role,color=Last.Year)) + geom_boxplot(notch=T) +
-  labs(title="Great Council Families in Contracts", x="Great Council", y="Count") +
+  labs(title="Great Council Families in Contracts", x="Great Council", y="Total number of contracts") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 
