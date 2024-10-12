@@ -42,7 +42,7 @@ significant.differences.last.year.tractor.stan <- wilcox.test( contract.data.fam
 
 ggplot( contract.data.families, aes(x=great.council, y=Last.Year)) +
   geom_jitter(aes(shape=Role)) + geom_boxplot(notch=T) +
-  labs(title="Great Council Families in Contracts", x="Great Council", y="Count") +
+  labs(title="Great Council Families in Contracts", x="Great Council", y="Last year of contract") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 ggplot( contract.data.families, aes(x=great.council, y=Total.Contracts)) +
