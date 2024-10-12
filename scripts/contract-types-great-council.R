@@ -57,11 +57,11 @@ ggplot( contract.data.families, aes(x=great.council, y=Total.Contracts)) +
 contract.data.families$great.council <- as.factor(contract.data.families$great.council)
 contract.data.families$Role <- as.factor(contract.data.families$Role)
 
-year.model <- lm( great.council ~ Last.Year + Role, data=contract.data.families)
+year.model <- lm( Last.Year ~ great.council + Role, data=contract.data.families)
 summary(year.model)
 
-contracts.model <- lm( great.council ~ Total.Contracts + Role , data=contract.data.families)
+contracts.model <- lm(Total.Contracts ~ great.council + Role , data=contract.data.families)
 summary(contracts.model)
 
-year.contracts.model <- lm( great.council ~ Last.Year + Total.Contracts + Role, data=contract.data.families)
+year.contracts.model <- lm( Total.Contracts ~  Last.Year  + Role, data=contract.data.families)
 summary(year.contracts.model)
