@@ -65,3 +65,11 @@ summary(contracts.model)
 
 year.contracts.model <- lm( Total.Contracts ~  Last.Year  + Role, data=contract.data.families)
 summary(year.contracts.model)
+
+contracts.year.model <- lm( Last.Year ~ Total.Contracts + Role, data=contract.data.families)
+summary(contracts.year.model)
+
+ggplot( contract.data.families[contract.data.families$Total.Contracts > 1,], aes(x=Total.Contracts, y=Last.Year, color=Role)) +
+  geom_point() + geom_smooth(method="lm") +
+  labs(title="Year of last contract depending on Role", x="Total Contracts", y="Year of last contract") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
