@@ -73,3 +73,12 @@ ggplot( contract.data.families[contract.data.families$Total.Contracts > 1,], aes
   labs(title="Year of last contract depending on role", x="Total Contracts", y="Year of last contract") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
+ggplot( contract.data.families, aes(x=Total.Contracts, y=Span.Years, color=Role)) +
+  geom_point() + geom_smooth(method="lm") +
+  labs(title="Year of last contract depending on role", x="Total Contracts", y="Span.Years") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplot( contract.data.families, aes(x=Role, y=Span.Years)) +
+  geom_jitter(aes(shape=great.council)) + geom_boxplot() +
+  labs(title="Contracts span per years", x="Role", y="Span Years") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
