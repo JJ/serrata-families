@@ -1,7 +1,6 @@
 library(dplyr)
 library(ggplot2)
 
-
 load("data/great.council.families.rda")
 load("data/contract.data.families.rda")
 
@@ -71,5 +70,6 @@ summary(contracts.year.model)
 
 ggplot( contract.data.families[contract.data.families$Total.Contracts > 1,], aes(x=Total.Contracts, y=Last.Year, color=Role)) +
   geom_point() + geom_smooth(method="lm") +
-  labs(title="Year of last contract depending on Role", x="Total Contracts", y="Year of last contract") +
+  labs(title="Year of last contract depending on role", x="Total Contracts", y="Year of last contract") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
