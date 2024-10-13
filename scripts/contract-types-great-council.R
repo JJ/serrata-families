@@ -82,3 +82,17 @@ ggplot( contract.data.families, aes(x=Role, y=Span.Years)) +
   geom_jitter(aes(shape=great.council)) + geom_boxplot() +
   labs(title="Contracts span per years", x="Role", y="Span Years") +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+significant.differences.year.span.tractor.stan <- wilcox.test( contract.data.families[ contract.data.families$Role == "tractor", ]$Span.Years,
+                                                               contract.data.families[ contract.data.families$Role == "stan", ]$Span.Years )
+
+great.council.last.year.span.model <- lm( Total.Contracts ~ Span.Years + Role + great.council, data=contract.data.families)
+summary(great.council.last.year.span.model)
+
+span.years.role.first.year.model <- lm( Span.Years ~ First.Year + Role + great.council, data=contract.data.families)
+summary(span.years.role.first.year.model)
+
+ggplot( contract.data.families, aes(x=First.Year, y=Span.Years, color=Role)) +
+  geom_point() + geom_smooth(method="lm") +
+  labs(title="Year of last contract depending on role", x="First Year", y="Span.Years") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
