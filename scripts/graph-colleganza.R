@@ -57,16 +57,16 @@ plot(post.serrata, vertex.size=V(post.serrata)$betweenness/200, vertex.color=V(p
 load("../data/colleganza.family.types.rda")
 
 for ( family in V(pre.serrata)$name ) {
-  if ( family %in% colleganza.family.types$family ) {
-    V(pre.serrata)[family]$type <- colleganza.family.types[colleganza.family.types$family == family,]$type
+  if ( family %in% colleganza.family.types$Family ) {
+    V(pre.serrata)[family]$type <- colleganza.family.types[colleganza.family.types$Family == family,]$Type
   } else {
     V(pre.serrata)[V(pre.serrata)$name == family]$type <- "Unknown"
   }
 }
 
 V(pre.serrata)$shape <- "circle"
-V(pre.serrata)[V(pre.serrata)$type == "both"]$shape <- "square"
-V(pre.serrata)[V(pre.serrata)$type == "tractor"]$shape <- "csquare"
+V(pre.serrata)[V(pre.serrata)$type == "Both"]$shape <- "square"
+V(pre.serrata)[V(pre.serrata)$type == "Tractor"]$shape <- "csquare"
 
 plot(pre.serrata, vertex.size=V(pre.serrata)$betweenness/200, vertex.color=V(pre.serrata)$color, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph, pre-serrata",vertex.shapes=V(pre.serrata)$shape)
 
