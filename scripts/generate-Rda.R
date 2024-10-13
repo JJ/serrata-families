@@ -37,5 +37,6 @@ colleganza.family.flips.post <- read.csv("../data-raw/contract-family-flips-post
 use_data(colleganza.family.flips.post, overwrite=T)
 
 contract.data.families <- read.csv("../data-raw/contract-data-families.csv",header=T)
+contract.data.families$Span.Years <- contract.data.families$Last.Year - contract.data.families$First.Year + 1
 use_data(contract.data.families, overwrite=T)
 
