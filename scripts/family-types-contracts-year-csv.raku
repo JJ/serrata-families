@@ -9,6 +9,7 @@ my %stans-for;
 my %tractors-for;
 my $families = Set();
 my %last-year-for;
+my %first-year-for;
 my %total-contracts-for;
 
 for @rows[0..*] -> %row {
@@ -21,6 +22,12 @@ for @rows[0..*] -> %row {
         %last-year-for{$family} = %row<Year>;
     }
 
+    if %first-year-for{$family}:!exists {
+        %first-year-for{$family} = %row<Year>
+    } elsif %first-year-for{$family} > %row<Year> {
+        %first-year-for{$family} = %row<Year>;
+    }
+
     %total-contracts-for{$family}++;
     if %row{'Contract Type'} eq "stan" {
         %stans-for{$family}++;
@@ -30,7 +37,7 @@ for @rows[0..*] -> %row {
 }
 
 my @contract-summary;
-@contract-summary.push: ["Family","Total Contracts","Role","Last Year"];
+@contract-summary.push: ["Family","Total Contracts","Role","Last Year","First Year"];
 for $families.keys() -> $family {
     my $role;
     if ( %stans-for{$family}:exists and %tractors-for{$family}:exists ) {
@@ -41,7 +48,7 @@ for $families.keys() -> $family {
         $role = "tractor";
     }
     @contract-summary.push: [$family, %total-contracts-for{$family}, $role,
-                             %last-year-for{$family}];
+                             %last-year-for{$family}, %first-year-for{$family}];
 }
 
 csv( out=> "data-raw/contract-data-families.csv", in => @contract-summary);
