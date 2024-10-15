@@ -115,6 +115,8 @@ my @contracts-changes-pre = [];
 @contracts-changes-pre.push: ["Family","First","Last","Flips","Percentage"];
 my @contracts-changes-post = [];
 @contracts-changes-post.push: ["Family","First","Last","Flips","Percentage"];
+my %total-flips-per-type = ( "stan → tractor" => 0, "tractor → stan" => 0 );
+
 for %years-contracts.keys -> $family {
     my @contracts = %years-contracts{$family}.sort: *[1];
     for @contracts -> @contract {
@@ -122,6 +124,9 @@ for %years-contracts.keys -> $family {
     }
 
     @contracts-changes.push: flips( $family, @contracts );
+    for flips-per-type( $family, @contracts ).kv -> $type, $flips {
+        %total-flips-per-type{$type} += $flips;
+    }
     if @contracts.grep: *[1] < 1300 {
         @contracts-changes-pre.push:
                 flips($family, @contracts.grep: *[1] < 1300);
@@ -138,6 +143,7 @@ csv( out => "data-raw/contract-family-flips-pre.csv",
         in=> @contracts-changes-pre);
 csv( out => "data-raw/contract-family-flips-post.csv",
         in=> @contracts-changes-post);
+spurt( "data-raw/contract-flips-per-type.json", to-json %total-flips-per-type);
 
 my @persons-year-type;
 @persons-year-type.push: ["Name","Year","Type"];
@@ -173,4 +179,17 @@ sub flips( $family, @contracts ) returns Array {
     }
     return [$family, @contracts[0][0], @contracts[*-1][0],
                               $flips, $flips/@contracts.elems ];
+}
+
+sub flips-per-type( $family, @contracts ) returns Hash {
+    my %flips-per-type = ( "stan → tractor" => 0, "tractor → stan" => 0 );
+    if (@contracts.elems > 1) {
+        for 1 .. @contracts.elems-1 -> $i {
+            if @contracts[$i][0] ne @contracts[$i - 1][0] {
+                %flips-per-type{@contracts[$i - 1][0] ~ " → " ~
+                                @contracts[$i][0]}++;
+            }
+        }
+    }
+    return %flips-per-type;
 }
