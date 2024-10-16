@@ -1,85 +1,85 @@
 Family,First,Last,Flips,Percentage
-Morosini,stan,stan,12,0.461538
-"di Fioravante",tractor,tractor,0,0
-"Da Molin",stan,stan,2,0.333333
-Sagredo,tractor,tractor,0,0
-Bonoto,tractor,tractor,0,0
-"di Federico",stan,stan,0,0
-Grioni,tractor,tractor,0,0
-Dandolo,stan,stan,0,0
-Querini,tractor,tractor,0,0
-Venier,tractor,tractor,0,0
-Martinazo,tractor,tractor,0,0
-Babilonio,stan,stan,0,0
-Foscolo,stan,stan,0,0
-Barbarigo,tractor,tractor,0,0
-Boninsegna,tractor,stan,1,0.5
-"di Artico",stan,stan,0,0
-"De Laurentio",stan,stan,0,0
-Barbetta,stan,stan,0,0
-Canal,stan,stan,0,0
-Viaro,tractor,tractor,0,0
-Zeno,stan,stan,0,0
-Zorzi,stan,stan,0,0
-Tiepolo,tractor,tractor,4,0.571429
-d'Ancontano,tractor,tractor,0,0
-Mussolino,tractor,tractor,0,0
-Belegno,tractor,tractor,0,0
-Orio,tractor,tractor,0,0
-Donato,stan,stan,0,0
-Sanudo,tractor,tractor,4,0.444444
-Baseggio,stan,stan,0,0
-Lando,stan,stan,0,0
-Michiel,stan,stan,2,0.4
-Tagliapietra,stan,stan,0,0
-Flabiano,tractor,tractor,0,0
-Trevisan,stan,tractor,3,0.272727
-"de Iema",tractor,tractor,0,0
-Lion,stan,stan,0,0
-Duracino,tractor,tractor,0,0
-Malipiero,tractor,tractor,0,0
-"Dalla Scala",stan,stan,0,0
-"Dalla Fontana",stan,stan,0,0
-Brizi,stan,stan,0,0
-Zopolo,tractor,tractor,0,0
 Sceda,tractor,tractor,0,0
-Gradenigo,stan,stan,0,0
-"de Protis",tractor,stan,1,0.2
-"de Rodanis da Cremona",stan,stan,0,0
-Morono,stan,stan,0,0
 Zordani,stan,stan,0,0
-Ghisi,stan,stan,0,0
 Zulian,tractor,tractor,0,0
-Contarini,tractor,stan,1,0.2
-"dei Boccoli",stan,stan,0,0
-Loredan,tractor,tractor,0,0
+Baseggio,stan,stan,0,0
+Foscarini,tractor,stan,1,0.5
+Barbetta,stan,stan,0,0
+Belegno,tractor,tractor,0,0
+Zorzi,stan,stan,0,0
+Michiel,stan,stan,2,0.4
+Bollani,stan,stan,0,0
 Rozeri,stan,stan,0,0
+Mozo,tractor,tractor,0,0
+Bonoto,tractor,tractor,0,0
+Dandolo,stan,stan,0,0
+d'Ancontano,tractor,tractor,0,0
+Loredan,tractor,tractor,0,0
+Contarini,tractor,stan,1,0.2
+Pesaro,stan,stan,0,0
+Foscolo,stan,stan,0,0
+"di Federico",stan,stan,0,0
+Donato,stan,stan,0,0
+Lion,stan,stan,0,0
+Benedetti,tractor,stan,1,0.5
+Querini,tractor,tractor,0,0
+"Dalle Sevole",stan,stan,0,0
+Barbarigo,tractor,tractor,0,0
+Cazzamonti,stan,stan,0,0
+Boldu,tractor,tractor,0,0
+Marin,stan,stan,0,0
+"da Trau",stan,stan,0,0
+Straccivendolo,tractor,tractor,0,0
+Badoer,tractor,stan,3,0.333333
+"de Iema",tractor,tractor,0,0
 Soranzo,stan,tractor,1,0.166667
 Alberto,tractor,tractor,0,0
-Arimondo,stan,stan,0,0
-Foscarini,tractor,stan,1,0.5
-Bollani,stan,stan,0,0
-Boldu,tractor,tractor,0,0
-Banzon,tractor,tractor,0,0
-Biondo,tractor,tractor,0,0
-Tron,tractor,stan,1,0.5
-Semitecolo,stan,stan,0,0
-Badoer,tractor,stan,3,0.333333
-Marcello,stan,stan,0,0
-Mozo,tractor,tractor,0,0
+Boninsegna,tractor,stan,1,0.5
+Malipiero,tractor,tractor,0,0
 Corner,stan,stan,0,0
-Barberius,stan,stan,0,0
-"da Trau",stan,stan,0,0
+Tron,tractor,stan,1,0.5
+Canal,stan,stan,0,0
 Rachovich,tractor,tractor,0,0
-Caravello,stan,stan,0,0
-Giustinian,stan,stan,0,0
 "de Stolla",stan,stan,0,0
-Marin,stan,stan,0,0
-Cazzamonti,stan,stan,0,0
-"Dalle Sevole",stan,stan,0,0
-Straccivendolo,tractor,tractor,0,0
-Miani,tractor,tractor,0,0
-Benedetti,tractor,stan,1,0.5
-Moro,stan,stan,0,0
-Pesaro,stan,stan,0,0
+Sagredo,tractor,tractor,0,0
+Banzon,tractor,tractor,0,0
 Barbo,tractor,tractor,0,0
+Morosini,stan,stan,12,0.461538
+Martinazo,tractor,tractor,0,0
+Orio,tractor,tractor,0,0
+Zopolo,tractor,tractor,0,0
+Caravello,stan,stan,0,0
+"Dalla Fontana",stan,stan,0,0
+Mussolino,tractor,tractor,0,0
+Giustinian,stan,stan,0,0
+Zeno,stan,stan,0,0
+"de Rodanis da Cremona",stan,stan,0,0
+Barberius,stan,stan,0,0
+Ghisi,stan,stan,0,0
+Miani,tractor,tractor,0,0
+Arimondo,stan,stan,0,0
+Morono,stan,stan,0,0
+Moro,stan,stan,0,0
+Biondo,tractor,tractor,0,0
+Tagliapietra,stan,stan,0,0
+Venier,tractor,tractor,0,0
+Gradenigo,stan,stan,0,0
+"de Protis",tractor,stan,1,0.2
+"De Laurentio",stan,stan,0,0
+"Da Molin",stan,stan,2,0.333333
+"dei Boccoli",stan,stan,0,0
+Babilonio,stan,stan,0,0
+"Dalla Scala",stan,stan,0,0
+"di Fioravante",tractor,tractor,0,0
+Marcello,stan,stan,0,0
+Viaro,tractor,tractor,0,0
+Semitecolo,stan,stan,0,0
+Brizi,stan,stan,0,0
+Duracino,tractor,tractor,0,0
+Flabiano,tractor,tractor,0,0
+Lando,stan,stan,0,0
+Grioni,tractor,tractor,0,0
+Trevisan,stan,tractor,3,0.272727
+"di Artico",stan,stan,0,0
+Tiepolo,tractor,tractor,4,0.571429
+Sanudo,tractor,tractor,4,0.444444

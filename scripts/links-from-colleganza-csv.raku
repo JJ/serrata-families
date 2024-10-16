@@ -143,7 +143,13 @@ csv( out => "data-raw/contract-family-flips-pre.csv",
         in=> @contracts-changes-pre);
 csv( out => "data-raw/contract-family-flips-post.csv",
         in=> @contracts-changes-post);
-spurt( "data-raw/contract-flips-per-type.json", to-json %total-flips-per-type);
+
+my @total-flips-per-type = [];
+@total-flips-per-type.push: [["Type of change", "Number"]];
+for %total-flips-per-type.kv -> $type, $flips {
+    @total-flips-per-type.push: [$type, $flips];
+}
+csv( out => "data-raw/contract-flips-per-type.csv", in=> @total-flips-per-type );
 
 my @persons-year-type;
 @persons-year-type.push: ["Name","Year","Type"];
