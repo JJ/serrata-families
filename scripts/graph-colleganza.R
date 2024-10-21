@@ -8,6 +8,15 @@ V(colleganza.graph)$betweenness <- betweenness(colleganza.graph)
 plot(colleganza.graph, vertex.size=V(colleganza.graph)$betweenness/100, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza graph")
 
 colleganza.subgraph <- induced_subgraph(colleganza.graph, V(colleganza.graph)[V(colleganza.graph)$betweenness > 0])
+
+V(colleganza.subgraph)$degree <- degree(colleganza.subgraph)
+colleganza.subgraph <- induced_subgraph(colleganza.subgraph, V(colleganza.subgraph)[V(colleganza.subgraph)$degree > 0])
+
+components <- igraph::components(colleganza.subgraph, mode="weak")
+biggest_cluster_id <- which.max(components$csize)
+colleganza.subgraph <- induced_subgraph(colleganza.subgraph, V(colleganza.subgraph)[components$membership == biggest_cluster_id])
+
+
 plot(colleganza.subgraph, vertex.size=V(colleganza.subgraph)$betweenness/300, edge.arrow.size=0.5, edge.curved=0.1, edge.color="grey", main="Colleganza subgraph")
 
 load("../data/colleganza.pairs.date.rda")
