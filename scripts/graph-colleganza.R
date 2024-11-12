@@ -86,10 +86,14 @@ betweenness.type <- tapply(V(pre.serrata)$betweenness, V(pre.serrata)$type, mean
 V(pre.serrata)$DNSLbetweenness <- DNSLbetweenness_for_graph(pre.serrata)
 DNSLbetweenness.type <- tapply(V(pre.serrata)$DNSLbetweenness, V(pre.serrata)$type, mean)
 
-DNSLbetweenness.type.df <- data.frame(DNSLbetweenness=V(pre.serrata)$DNSLbetweenness, type=V(pre.serrata)$type)
+DNSLbetweenness.type.df <- data.frame(DNSLbetweenness=V(pre.serrata)$DNSLbetweenness, type=V(pre.serrata)$type, maggior.consiglio = V(pre.serrata)$name %in% great.council.families)
 
 ggplot(DNSLbetweenness.type.df, aes(x=DNSLbetweenness, fill=type)) + geom_density(alpha=0.5) + ggtitle("DNSL betweenness by type")
 
 ggplot(DNSLbetweenness.type.df, aes(x=DNSLbetweenness, fill=type)) + geom_histogram(position="dodge") + ggtitle("DNSL betweenness by type")
 
 ggplot(DNSLbetweenness.type.df, aes(x=type, fill=type, y=DNSLbetweenness)) + geom_violin() + ggtitle("DNSL betweenness by type")
+
+glm.fit <- glm(maggior.consiglio ~ DNSLbetweenness, data=DNSLbetweenness.type.df, family=gaussian)
+
+ggplot( DNSLbetweenness.type.df, aes(x=DNSLbetweenness, y=maggior.consiglio) ) + geom_point() + geom_smooth(method="glm", method.args=list(family="gaussian"), se=FALSE)
