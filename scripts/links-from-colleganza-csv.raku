@@ -13,6 +13,7 @@ my %tractors;
 my $gc-families = Set.new();
 my %years-contracts;
 my %contracts-persons-year;
+my %italian-to-std;
 my @self-loops;
 @self-loops.push: ["Families", "Year"];
 for @rows[0..*] -> %row {
@@ -29,7 +30,8 @@ for @rows[0..*] -> %row {
         my Str $std-name = "";
 
         if (%row{$key ~ "_std"}) {
-            $std-name = %row{$key ~ "_std"}
+            $std-name = %row{$key ~ "_std"};
+            %italian-to-std{%row{$key ~ "_italian"}} = $std-name;
         } elsif (%row{$key ~ "_italian"}) {
             $std-name = %row{$key ~ "_italian"}
         }
@@ -104,6 +106,7 @@ spurt( "data-raw/great-council-families.json", to-json $gc-families.keys());
 spurt( "data-raw/colleganza-tractors.json", to-json %tractors);
 spurt( "data-raw/colleganza-stans.json", to-json %stans);
 spurt( "data-raw/colleganza-type-contract.json", to-json %years-contracts);
+spurt( "data-raw/italian-to-std.json", to-json %italian-to-std);
 csv( out=> "data-raw/colleganza-pairs-date.csv", in => @all-pairs);
 csv( out=> "data-raw/self-loop-families-colleganza.csv", in => @self-loops);
 
